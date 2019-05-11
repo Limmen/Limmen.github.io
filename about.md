@@ -3,8 +3,4 @@ layout: page
 title: About
 ---
 
-Hello.
-
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
-
-**Less is more..**
+Kim Hammar is a Software Engineer at Logical Clocks, developing Hopsworks; a fullstack data science platform built on a new generation of Hadoop, providing Distributed ML as-a-service on a multi-tenant platform a platform. Previously Allstate, KTH, Ericsson, MIC Nordic.

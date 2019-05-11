@@ -3,6 +3,6 @@ title: Hello World
 updated: 2019-05-11 18:30
 ---
 
-### The standard Lorem Ipsum passage, used since the 1500s
+### Personal Website
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+I figured it was time to have an official place to assemble various slides, thoughts, papers, and videos (editing my old KTH profile was starting to get a bit tedious). Feel free to follow the RSS feed if you are interested in occasional posts on data science, machine learning, distributed systems and football!
