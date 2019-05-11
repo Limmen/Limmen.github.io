@@ -1,3 +1,1 @@
 # limmen.dev
-
-Kim Hammar
