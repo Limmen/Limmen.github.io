@@ -4,7 +4,11 @@
     border-bottom: none;
 }
 
-.sharebuttons ul {
+.sharebuttons a {
+    border-bottom: none;
+}
+
+.sharebuttons ul a {
     border-bottom: none;
 }
 
