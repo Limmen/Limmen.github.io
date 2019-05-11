@@ -1,12 +1,14 @@
 # Site Info
-title:              "The Plain"
-description:        "A minimalist Jekyll theme"
-author_name:        "Heiswayi Nrird" # change this to your name
-logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+title:              "limmen.dev"
+description:        "Personal Website"
+author_name:        "Kim Hammar" # change this to your name
+logo_url:           https://avatars0.githubusercontent.com/u/8254791?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+twitter_username:   @KimHammar1 # Your Twitter username here
+github_username:    Limmen # Your GitHub username here
 
 # Site Settings
-url:                https://heiswayi.github.io # main url
-baseurl:            /the-plain
+url:                https://limmen.github.io # main url
+baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
