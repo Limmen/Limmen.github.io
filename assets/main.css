@@ -8,10 +8,6 @@
     border-bottom: none;
 }
 
-.sharebuttons a:hover {
-    text-decoration: underline;
-}
-
 .sharebuttons ul a {
     border-bottom: none;
 }
@@ -49,4 +45,14 @@
 
 .sharebuttons .linkedin svg {
   fill: #0077B5;
+}
+.panel_link {
+    font-weight: 800;
+    font-size: medium;
+    margin: 10px;
+}
+
+.panel_link:hover {
+    text-decoration: none;
+    border-bottom: 4px solid black;
 }
