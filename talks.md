@@ -49,7 +49,7 @@ title: Talks
 
 2018
 :   **The Future of Deep Learning**; Stockholm, HopsML Meetup panel discussion.
-    ![panel_discussion](hopsml_meetup_panel.jpeg "HopsML Meetup Panel Discussion: The Future of Deep Learning")
+    ![panel_discussion](/assets/hopsml_meetup_panel.jpeg "HopsML Meetup Panel Discussion: The Future of Deep Learning")
 	[Event](https://www.meetup.com/HopsML-Stockholm/events/256064863/)
 
 2018
