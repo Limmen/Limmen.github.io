@@ -5,12 +5,14 @@ title: Code
 
 **Hopsworks**; Hopsworks is a platform for horizontally scalable deep learning pipelines on top of Hadoop.
 [repo](https://github.com/logicalclocks/hopsworks)
+![hopsworks](/assets/hopsworks.png "Hopsworks")
 
 **Hops-util-py**; Hops-util-py is a python library for deep learning and data processing.
 [repo](https://github.com/logicalclocks/hops-util-py)
 
 **FastTextOnSpark**; FastTextOnSpark is an implementation of the FastText algorithm for training word embeddings that runs on Spark, the first distributed implementation in the world.
 [repo](https://github.com/Limmen/FastTextOnSpark)
+![ftos](/assets/ftos.png "FastTextOnSpark Architecture")
 
 **FashionRec**; Implementation of a next-generation failure detector for distributed systems with provable strong completeness, using a machine learning model updated with streaming data to detect machine failures.
 [repo](https://github.com/Limmen/mlfd_prototype)
