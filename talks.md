@@ -60,21 +60,24 @@ title: Talks
 2018
 :   **Distributed Deep Learning**; Stockholm, RISE Machine Learning Study group.
 	[Slides](https://www.slideshare.net/KimHammar/kim-hammar-distributed-deep-learning-rise-learning-machines-meetup)
+	[PDF](/assets/papers/rise_ml.pdf)
 
 2018
 :   **Building a Fault-Tolerant ETL Pipeline for Claims CAFé**; Chicago, Internship Presentation, Allstate.
 	[Slides](https://www.slideshare.net/KimHammar/kim-hammar-allstate-internship-presentation-data-engineering-analytics-claims-cafe)
-    ![internship_pres](/assets/.jpeg "HopsML Meetup Panel Discussion: The Future of Deep Learning")
-	![allstate_1](/assets/allstate_1.jpg "Allstate Internship")
-	![allstate_2](/assets/allstate_2.jpg "Allstate Internship")
+	[PDF](/assets/papers/allstate_defense.pdf)
+	![allstate_1](/assets/allstate1.jpg "Allstate Internship")
+	![allstate_2](/assets/allstate2.jpg "Allstate Internship")
 
 2018
 :   **Deep Text Mining of Instagram Data Without Strong Supervision**; Stockholm, Master's Thesis Defense, KTH.
 	[Video](https://www.youtube.com/watch?v=OgFQIGAhPgQ&t=1567s)
 	[Slides](https://www.slideshare.net/KimHammar/kim-hammar-msc-thesis-defense-2018)
+	[PDF](/assets/papers/master_defense.pdf)
 	![master_thesis_defense](/assets/master_thesis_defense.jpeg "Master Thesis Defense")
 
 2018
 :   **Human Activity Recognition: On-Edge Inference and Distributed Deep Learning**; Stockholm, Hadoop User Group Meetup.
 	[Event](https://www.meetup.com/stockholm-hug/events/247080325/)
 	[Slides](https://www.slideshare.net/KimHammar/kim-hammar-konstantin-sozinov-distributed-lstm-training-predicting-human-activities-on-edge-devices-stockholm-hadoop-user-group-meetup)
+	[PDF](/assets/papers/har.pdf)
