@@ -41,10 +41,8 @@ title: Code
 [repo](https://github.com/Limmen/SemWeb_Tutorial)
 [report](/assets/papers/semweb_project.pdf)
 
-
 **Advent Of Code 2016 in Prolog**; Implementation of the Advent of Code series of challenges year 2016 in Prolog.
 [repo](https://github.com/Limmen/Advent-Of-Code16-Prolog)
-[report](/assets/papers/semweb_project.pdf)
 
 **DataMining**; Implementation of various data mining algorithms.
 [repo](https://github.com/Limmen/DataMining)
