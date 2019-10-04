@@ -65,6 +65,8 @@ title: Talks
 :   **Building a Fault-Tolerant ETL Pipeline for Claims CAFé**; Chicago, Internship Presentation, Allstate.
 	[Slides](https://www.slideshare.net/KimHammar/kim-hammar-allstate-internship-presentation-data-engineering-analytics-claims-cafe)
     ![internship_pres](/assets/.jpeg "HopsML Meetup Panel Discussion: The Future of Deep Learning")
+	![allstate_1](/assets/allstate_1.jpg "Allstate Internship")
+	![allstate_2](/assets/allstate_2.jpg "Allstate Internship")
 
 2018
 :   **Deep Text Mining of Instagram Data Without Strong Supervision**; Stockholm, Master's Thesis Defense, KTH.

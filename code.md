@@ -17,6 +17,7 @@ title: Code
 
 **Erlang Pengine**; Erlang Pengine is a distributed erlang client to a prolog pengine server. It enables you to run first-order logic programs and constraint programming programs from Erlang.
 [repo](https://github.com/Limmen/erl_pengine)
+![erlang_pengine](/assets/erl_pengine.jpg "Erlang Pengine Architecture")
 
 **Distributed Linearizable Key-Value Store**; Implementation of a provable linearizable key-value store using virtually synchronous group communication and passive replication.
 [repo](https://github.com/Limmen/Distributed-KV-store)
