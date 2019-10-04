@@ -27,29 +27,34 @@ title: Talks
 2019
 :   **Distributed Deep Learning with the Hopsworks Feature Store**; Palo Alto, HopsML Meetup.
 	[Slides](https://www.slideshare.net/KimHammar/hopsworks-hands-onfeaturestorepaloaltokimhammar23april2019)
+	[PDF](/assets/papers/featurestore_palo_alto.pdf)
 	[Event](https://www.eventbrite.ie/e/hopsworks-hands-on-feature-store-distributed-deep-learning-and-more-tickets-58136928117)
 	![sf_featurestore_train](/assets/sf_train_office_w_jim.png "SF Feature Store HopsML Meetup")
 
 2019
 :   **Feature Store: the missing data layer in ML pipelines**; Stockholm, Spotify Machine Learning Guild Fika.
 	[Slides](https://www.slideshare.net/KimHammar/kim-hammar-spotify-ml-guild-meetup-feature-stores)
+	[PDF](/assets/papers/featurestore_spotify.pdf)
 
 2019
 :   **Feature Store: the missing data layer in ML pipelines**; Brussels, FOSDEM.
 	[Event](https://archive.fosdem.org/2019/schedule/event/feature_store/)
 	[Slides](https://www.slideshare.net/KimHammar/kim-hammar-feature-store-the-missing-data-layer-in-ml-pipelines-hopsml-meetup-stockholm)
 	[Video](https://www.youtube.com/watch?v=86rrEJqRLO4&t=)
+	[PDF](/assets/papers/featurestore_fosdem.pdf)
 	![fosdem_featurestore](/assets/fosdem_brussels5.jpeg "Feature Store - FOSDEM")
 
 2019
 :   **Feature Store: the missing data layer in ML pipelines**; Stockholm, HopsML meetup.
 	[Event](https://www.meetup.com/HopsML-Stockholm/events/257952659/)
 	[Slides](https://www.slideshare.net/KimHammar/kim-hammar-feature-store-the-missing-data-layer-in-ml-pipelines-hopsml-meetup-stockholm)
+	[PDF](/assets/papers/featurestore_hopsml.pdf)
 	![hopsml_featurestore](/assets/hopsml_meetup_stockholm.jpeg "Feature Store - HopsML")
 
 2018
 :   **Deep Text Mining of Instagram Data Without Strong Supervision**; Santiago, International conference on Web Intelligence.
 	[Event](https://webintelligence2018.com/)
+	[PDF](/assets/papers/web_intelligence_santiago_pres.pdf)
 	[Slides](https://www.slideshare.net/KimHammar/wi-2018-santiago)
 
 2018
