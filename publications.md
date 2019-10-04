@@ -8,11 +8,13 @@ title: Publications
     Shatha Jaradat, Nima Dokoohaki, Ummal Wara, Mallu Goswami, Kim Hammar and
 Mihhail Matskin
 	[Link](https://ieeexplore.ieee.org/document/8754470)
+	[PDF](/assets/papers/tals.pdf)
 
 2019
 :   **Horizontally Scalable ML Pipelines with a Feature Store**; Conference paper, Demo track, SysML Conference, March 31 - April 2 2019, Stanford CA.
     Alexandru A. Ormenisan, Mahmoud Ismail, Kim Hammar, Robin Andersson, Ermias Gebremeskel, Theofilos Kakantousis, Antonios Kouzoupis, Fabio Buso, Gautier Berthou, Jim Dowling, Seif Haridi.
 	[Link](https://www.sysml.cc/doc/2019/demo_7.pdf)
+	[PDF](/assets/papers/sysml_featurestore.pdf)
 
 2018
 :   **Feature Store: the missing data layer in ML pipelines?**; Blog post, 30 Dec 2018.
@@ -23,11 +25,13 @@ Mihhail Matskin
 :   **Dynamic CNN Models For Fashion Recommendation in Instagram**; Conference Paper, nternational Conference on Social Computing and Networking (SocialCom 2018), 11-13 Dec. 2018, Melbourne, Australia.
 	Shatha Jaradat, Nima Dokoohaki, Kim Hammar, Ummul Wara, Mihhail Matskin
 	[Link](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1319767&dswid=2781)
+	[PDF](/assets/papers/dynamic_cnn.pdf)
 
 2018
 :   **Deep Text Mining of Instagram Data Without Strong Supervision**; Conference Paper, Web Intelligence Conference 2018, Santiago Chile.
     Kim Hammar, Shatha Jaradat, Nima Dokoohaki, Mihhail Matskin
 	[Link](https://ieeexplore.ieee.org/document/8609589)
+	[PDF](/assets/papers/deep_text_mining_wi18.pdf)
 
 2018
 :   **Deep Text Mining of Instagram Data Without Strong Supervision**; Master's Thesis, KTH School of Information and Communication Technology (ICT).
