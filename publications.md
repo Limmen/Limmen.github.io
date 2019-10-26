@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+## Conferences
+
 2019
 :   **TALS: A Framework For Text Analysis, Fine-Grained Annotation, Localisation and Semantic Segmentation**; Conference paper, COMPSAC 2019: Data Driven Intelligence for a Smarter World Hosted by Marquette University, Milwaukee, Wisconsin, USA July 15-19.
     Shatha Jaradat, Nima Dokoohaki, Ummal Wara, Mallu Goswami, Kim Hammar and
@@ -16,10 +18,6 @@ Mihhail Matskin
 	[Link](https://www.sysml.cc/doc/2019/demo_7.pdf)
 	[PDF](/assets/papers/sysml_featurestore.pdf)
 
-2018
-:   **Feature Store: the missing data layer in ML pipelines?**; Blog post, 30 Dec 2018.
-	Kim Hammar, Jim Dowling
-	[Link](https://www.logicalclocks.com/blog/feature-store-the-missing-data-layer-in-ml-pipelines)
 
 2018
 :   **Dynamic CNN Models For Fashion Recommendation in Instagram**; Conference Paper, nternational Conference on Social Computing and Networking (SocialCom 2018), 11-13 Dec. 2018, Melbourne, Australia.
@@ -32,6 +30,16 @@ Mihhail Matskin
     Kim Hammar, Shatha Jaradat, Nima Dokoohaki, Mihhail Matskin
 	[Link](https://ieeexplore.ieee.org/document/8609589)
 	[PDF](/assets/papers/deep_text_mining_wi18.pdf)
+
+## Blog Posts
+
+2018
+:   **Feature Store: the missing data layer in ML pipelines?**; Blog post, 30 Dec 2018.
+	Kim Hammar, Jim Dowling
+	[Link](https://www.logicalclocks.com/blog/feature-store-the-missing-data-layer-in-ml-pipelines)
+
+
+## Thesis
 
 2018
 :   **Deep Text Mining of Instagram Data Without Strong Supervision**; Master's Thesis, KTH School of Information and Communication Technology (ICT).
