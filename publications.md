@@ -34,7 +34,7 @@ Mihhail Matskin
 ### Blog Posts
 
 2019
-:   **Guide to File Formats for Machine Learning: : Columnar, Training, and Inferencing**; Blog post, 25 Oct 2019.
+:   **Guide to File Formats for Machine Learning: Columnar, Training, and Inferencing**; Blog post, 25 Oct 2019.
 	Jim Dowling, Moritz Meister, Kim Hammar
 	[Link](https://www.logicalclocks.com/blog/guide-to-file-formats-for-machine-learning-with-feature-store)
 
