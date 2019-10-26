@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-## Conferences
+### Conferences
 
 2019
 :   **TALS: A Framework For Text Analysis, Fine-Grained Annotation, Localisation and Semantic Segmentation**; Conference paper, COMPSAC 2019: Data Driven Intelligence for a Smarter World Hosted by Marquette University, Milwaukee, Wisconsin, USA July 15-19.
@@ -31,15 +31,25 @@ Mihhail Matskin
 	[Link](https://ieeexplore.ieee.org/document/8609589)
 	[PDF](/assets/papers/deep_text_mining_wi18.pdf)
 
-## Blog Posts
+### Blog Posts
+
+2019
+:   **Guide to File Formats for Machine Learning: : Columnar, Training, and Inferencing**; Blog post, 25 Oct 2019.
+	Jim Dowling, Moritz Meister, Kim Hammar
+	[Link](https://www.logicalclocks.com/blog/guide-to-file-formats-for-machine-learning-with-feature-store)
 
 2018
 :   **Feature Store: the missing data layer in ML pipelines?**; Blog post, 30 Dec 2018.
 	Kim Hammar, Jim Dowling
 	[Link](https://www.logicalclocks.com/blog/feature-store-the-missing-data-layer-in-ml-pipelines)
 
+2018
+:   **Goodbye Horovod, Hello CollectiveAllReduce**; Blog post, 22 Oct 2018.
+	Robin Andersson, Jim Dowling, Ermias Gebremeskel, Kim Hammar
+	[Link](https://www.logicalclocks.com/blog/goodbye-horovod-hello-collectiveallreduce)
 
-## Thesis
+
+### Thesis
 
 2018
 :   **Deep Text Mining of Instagram Data Without Strong Supervision**; Master's Thesis, KTH School of Information and Communication Technology (ICT).
@@ -52,3 +62,32 @@ Mihhail Matskin
 	Kim Hammar and Marcus Blom
 	[Link](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A955069&dswid=7067)
 	[PDF](/assets/papers/bachelor_thesis.pdf)
+
+
+### Other
+
+2018
+:   **Programming the Semantic Web**; 12 Jan 2018. A Tutorial.
+	Kim Hammar
+	[PDF](/assets/papers/programming_semweb.pdf)
+
+2017
+:   **Machine Learning for Failure Detection in Distributed Systems**; 23 Nov 2017. A project report.
+	Kim Hammar, Konstantin Sozinov
+	[PDF](/assets/papers/mlfd.pdf)
+
+2017
+:   **Mobile Communications**; 2 Jul 2017. A project report.
+	Kim Hammar
+	[PDF](/assets/papers/mobile_communication.pdf)
+
+2017
+:   **Conflict free p2p replicated datatypes**; 22 May 2017. A project report.
+	Kim Hammar, Maxime Dufour
+	[PDF](/assets/papers/p2p_crdt_logoot.pdf)
+
+
+2017
+:   **Linearizable Key-Value Store**; 12 Mar 2017. A project report.
+	Kim Hammar, Konstantin Sozinov
+	[PDF](/assets/papers/lin_key_value.pdf)
