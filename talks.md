@@ -6,6 +6,7 @@ title: Talks
 2019
 :   **End-to-End ML Pipelines with Databricks Delta and Hopsworks Feature Store**; Amsterdam, Spark+AI Summit 2019.
 	[Event](https://databricks.com/session_eu19/end-to-end-spark-tensorflow-pytorch-pipelines-with-databricks-delta)
+	[Video](https://www.youtube.com/watch?v=zGNQQfEjCQY)
 	[Slides](https://www.slideshare.net/KimHammar/spark-ai-summitoct172019kimhammarjimdowlingv6)
 	[PDF](/assets/slides/sais2019.pdf)
 	![sais_2019](/assets/sais2019.jpg "Spark+AI Summit 2019 Amsterdam")
