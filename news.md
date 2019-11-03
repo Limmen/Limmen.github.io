@@ -4,7 +4,7 @@ title: News
 ---
 
 1 Nov '19
-:   Starting as a Ph.D student at [NSE](https://www.kth.se/nse/about-us)
+:   Starting as a Ph.D student at [NSE](https://www.kth.se/nse/about-us)@KTH
 
 30 Oct '19
 :   Attending the GameSec conference in Stockholm [Gamesec](https://www.gamesec-conf.org/)
