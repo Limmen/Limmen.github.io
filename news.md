@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code
+title: News
 ---
 
 1 Nov '19
