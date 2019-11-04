@@ -7,7 +7,7 @@ title: News
 :   Starting as a Ph.D student at [NSE](https://www.kth.se/nse/about-us)@KTH
 
 30 Oct '19
-:   Attending the GameSec conference in Stockholm [Gamesec](https://www.gamesec-conf.org/)
+:   Attending the [Gamesec](https://www.gamesec-conf.org/) conference in Stockholm
 
 1 Apr '19
 :   Our SysML ´19 demo paper is now [available](https://www.sysml.cc/doc/2019/demo_7.pdf)
