@@ -4,6 +4,7 @@ title: News
 ---
 18 Nov '19
 :   Attending the [WASP4ALL](https://wasp-sweden.org/wasp4all-future-computing-platforms-for-x/) conference in Stockholm
+
 1 Nov '19
 :   Starting as a Ph.D student at [NSE](https://www.kth.se/nse/about-us)@KTH
 
