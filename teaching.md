@@ -11,4 +11,4 @@ title: Teaching
 2017
 :   **ID2201 Distributed Systems**; Teaching Assistant.
 	[Link](https://www.kth.se/student/kurser/kurs/ID2201?l=en)
-    [PDF](/assets/slides/id2201.pdf)
+    [PDF](/assets/papers/id2201.pdf)
