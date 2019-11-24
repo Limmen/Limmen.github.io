@@ -11,6 +11,7 @@ title: Publications
 Mihhail Matskin
 	[Link](https://ieeexplore.ieee.org/document/8754470)
 	[bib](/assets/citations/tals.bib)
+
 2019
 :   **Horizontally Scalable ML Pipelines with a Feature Store**; Conference paper, Demo track, SysML Conference, March 31 - April 2 2019, Stanford CA.
     Alexandru A. Ormenisan, Mahmoud Ismail, **Kim Hammar**, Robin Andersson, Ermias Gebremeskel, Theofilos Kakantousis, Antonios Kouzoupis, Fabio Buso, Gautier Berthou, Jim Dowling, Seif Haridi.
@@ -29,6 +30,7 @@ Mihhail Matskin
     **Kim Hammar**, Shatha Jaradat, Nima Dokoohaki, Mihhail Matskin
 	[Link](https://ieeexplore.ieee.org/document/8609589)
 	[PDF](/assets/papers/deep_text_mining_wi18.pdf)
+    [bib](/assets/citations/text_mining.bib)
 
 ### Blog Posts
 
@@ -55,12 +57,14 @@ Mihhail Matskin
 	**Kim Hammar**
 	[Link](http://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=15&af=%5B%5D&searchType=LIST_LATEST&sortOrder2=title_sort_asc&query=&language=sv&pid=diva2%3A1222945&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-989)
 	[PDF](/assets/papers/master_thesis.pdf)
+    [bib](/assets/citations/kim_msc_thesis.bib)
 
 2016
 :   **Integrating Monitoring Systems - Pre-Study**; Bachelor's Thesis, KTH School of Information and Communication Technology (ICT).
 	**Kim Hammar** and Marcus Blom
 	[Link](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A955069&dswid=7067)
 	[PDF](/assets/papers/bachelor_thesis.pdf)
+    [bib](/assets/citations/kim_bsc_thesis.bib
 
 
 ### Other
