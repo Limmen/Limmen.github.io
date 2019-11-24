@@ -6,7 +6,7 @@ title: News
 :   Attending the [WASP4ALL](https://wasp-sweden.org/wasp4all-future-computing-platforms-for-x/) conference in Stockholm
 
 1 Nov '19
-:   Starting as a Ph.D student at [NSE](https://www.kth.se/nse/about-us)@KTH
+:   Starting as a Ph.D student at [NSE](https://www.kth.se/nse/about-us)@[KTH](https://www.kth.se/)
 
 30 Oct '19
 :   Attending the [Gamesec](https://www.gamesec-conf.org/) conference in Stockholm
