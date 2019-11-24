@@ -43,6 +43,7 @@ Mihhail Matskin
 :   **Feature Store: the missing data layer in ML pipelines?**; Blog post, 30 Dec 2018.
 	**Kim Hammar**, Jim Dowling
 	[Link](https://www.logicalclocks.com/blog/feature-store-the-missing-data-layer-in-ml-pipelines)
+    [bib](/assets/citations/feature_store_v1.bib)
 
 2018
 :   **Goodbye Horovod, Hello CollectiveAllReduce**; Blog post, 22 Oct 2018.
@@ -64,7 +65,7 @@ Mihhail Matskin
 	**Kim Hammar** and Marcus Blom
 	[Link](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A955069&dswid=7067)
 	[PDF](/assets/papers/bachelor_thesis.pdf)
-    [bib](/assets/citations/kim_bsc_thesis.bib
+    [bib](/assets/citations/kim_bsc_thesis.bib)
 
 
 ### Other
