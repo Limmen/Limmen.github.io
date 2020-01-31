@@ -3,6 +3,11 @@ layout: page
 title: Talks
 ---
 
+2020
+:   **A Deep Journey of Playing Games with Reinforcement Learning**; Stockholm, KTH, Division of Network and Systems Engineering.
+	[Slides](https://www.slideshare.net/KimHammar/nse-kth-seminardeeprlgameskimhammar31jan2020)
+	[PDF](/assets/slides/deepmind_rl_nse.pdf)
+
 2019
 :   **End-to-End ML Pipelines with Databricks Delta and Hopsworks Feature Store**; Amsterdam, Spark+AI Summit 2019.
 	[Event](https://databricks.com/session_eu19/end-to-end-spark-tensorflow-pytorch-pipelines-with-databricks-delta)
