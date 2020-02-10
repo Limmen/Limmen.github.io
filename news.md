@@ -2,6 +2,10 @@
 layout: page
 title: News
 ---
+
+10 Feb '20
+:   Article on kth.se about our research [article](https://www.kth.se/aktuellt/nyheter/han-ar-med-och-bygger-sveriges-cyberforsvar-1.956832)
+
 18 Nov '19
 :   Attending the [WASP4ALL](https://wasp-sweden.org/wasp4all-future-computing-platforms-for-x/) conference in Stockholm
 
