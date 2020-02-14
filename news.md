@@ -4,7 +4,7 @@ title: News
 ---
 
 10 Feb '20
-:   [Article](https://www.kth.se/aktuellt/nyheter/han-ar-med-och-bygger-sveriges-cyberforsvar-1.956832) on kth.se about our research
+:   [Article](https://www.kth.se/aktuellt/nyheter/han-ar-med-och-bygger-sveriges-cyberforsvar-1.956832) on kth.se and [uochd.se](https://www.uochd.se/article/view/699759/cyberrymden_det_senaste_slagfaltet_inom_krigforing) about our research
 
 18 Nov '19
 :   Attending the [WASP4ALL](https://wasp-sweden.org/wasp4all-future-computing-platforms-for-x/) conference in Stockholm
