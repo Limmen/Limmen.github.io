@@ -22,7 +22,7 @@ I recently got to play with a GPU server at our lab and wanted to measure it's p
 | Metric                      | Value                                                            |
 |-----------------------------+------------------------------------------------------------------|
 | Batch Size                  | 2056                                                             |
-| Dataset Size                | $$\bm{X} \in \mathbb{R}^{20000 \times 120 \times 120 \times 3}$$ |
+| Dataset Size                | $$X \in \mathbb{R}^{20000 \times 120 \times 120 \times 3}$$ |
 | Number of Classes           | 10                                                               |
 | Neurons Per Layer           | 2000                                                             |
 | Steps Per Epoch             | 30                                                               |
@@ -44,4 +44,4 @@ The results demonstrate that the GPU scale very well with larger neural network 
 | 1 Tesla P100 GPU          | 95s      | 99s       | 98s       | 116s      | 192s      | 199s      |
 | 2 Tesla P100 GPU          | 97s      | 101s      | 109s      | 107s      | 115s      | 181s      |
 
-![GPU Benchmark Results](/assets/gpu_benchmark_results.png.png "GPU Benchmark Results")
+![GPU Benchmark Results](/assets/gpu_benchmark_results.png "GPU Benchmark Results")
