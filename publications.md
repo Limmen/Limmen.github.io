@@ -32,6 +32,14 @@ Mihhail Matskin
 	[PDF](/assets/papers/deep_text_mining_wi18.pdf)
     [bib](/assets/citations/text_mining.bib)
 
+### Journals
+
+2020
+:   **Deep text classification of Instagram data using word embeddings and weak supervision**; Journal paper, Web Intelligence 2020.
+    **Kim Hammar**, Shatha Jaradat, Nima Dokoohaki, Mihhail Matskin
+	[Link](https://content.iospress.com/articles/web-intelligence/web200428)
+	[bib](/assets/citations/wi_journal.bib)
+
 ### Blog Posts
 
 2019
