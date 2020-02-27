@@ -6,6 +6,7 @@ title: News
 
 27 Feb '20
 :   Our WEB´20 paper is now [available](https://content.iospress.com/articles/web-intelligence/web200428)
+
 10 Feb '20
 :   [Article](https://www.kth.se/aktuellt/nyheter/han-ar-med-och-bygger-sveriges-cyberforsvar-1.956832) on kth.se and [uochd.se](https://www.uochd.se/article/view/699759/cyberrymden_det_senaste_slagfaltet_inom_krigforing) about our research
 
