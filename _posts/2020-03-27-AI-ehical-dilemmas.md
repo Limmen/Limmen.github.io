@@ -1,6 +1,6 @@
 ---
 title: Is AI Good or Evil?
-updated: 2019-05-11 18:30
+updated: 2020-03-27 18:30
 ---
 
 ### Ethical Dilemmas in AI
