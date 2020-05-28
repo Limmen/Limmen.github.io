@@ -81,7 +81,7 @@ Mihhail Matskin
 2018
 :   **Using Reinforcement Learning in Self-Driving Systems**; 28 May 2020. A PoC.
 	Forough Shahab, **Kim Hammar**
-	[PDF](/assets/papers/self_driving_systems_poc.pdf.pdf)
+	[PDF](/assets/papers/self_driving_systems_poc.pdf)
 
 
 2018
