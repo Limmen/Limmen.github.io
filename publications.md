@@ -79,6 +79,12 @@ Mihhail Matskin
 ### Other
 
 2018
+:   **Using Reinforcement Learning in Self-Driving Systems**; 28 May 2020. A PoC.
+	Forough Shahab, **Kim Hammar**
+	[PDF](/assets/papers/self_driving_systems_poc.pdf.pdf)
+
+
+2018
 :   **Programming the Semantic Web**; 12 Jan 2018. A Tutorial.
 	**Kim Hammar**
 	[PDF](/assets/papers/programming_semweb.pdf)
