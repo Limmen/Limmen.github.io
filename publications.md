@@ -5,6 +5,12 @@ title: Publications
 
 ### Conferences
 
+2020
+:   **Finding Effective Security Strategies through Reinforcement Learning and Self-Play**; Conference paper, CNSM 2020: International Conference on Network and Service Management, Izmir, Turkey November 2-6.
+    **Kim Hammar**, and Rolf Stadler
+	[preprint](/assets/papers/cnsm_Hammar_Stadler.pdf)
+	[bib](/assets/citations/cnsm_2020_hammar_stadler.bib)
+
 2019
 :   **TALS: A Framework For Text Analysis, Fine-Grained Annotation, Localisation and Semantic Segmentation**; Conference paper, COMPSAC 2019: Data Driven Intelligence for a Smarter World Hosted by Marquette University, Milwaukee, Wisconsin, USA July 15-19.
     Shatha Jaradat, Nima Dokoohaki, Ummal Wara, Mallu Goswami, **Kim Hammar** and
