@@ -8,7 +8,8 @@ title: Publications
 2020
 :   **Finding Effective Security Strategies through Reinforcement Learning and Self-Play**; Conference paper, CNSM 2020: International Conference on Network and Service Management, Izmir, Turkey November 2-6.
     **Kim Hammar** and Rolf Stadler
-	[preprint](/assets/papers/cnsm_Hammar_Stadler.pdf)
+	[arXiv(preprint)](https://arxiv.org/abs/2009.08120)
+	[PDF(preprint)](/assets/papers/cnsm_Hammar_Stadler.pdf)
 	[bib](/assets/citations/cnsm_2020_hammar_stadler.bib)
 
 2019
@@ -36,6 +37,7 @@ Mihhail Matskin
     **Kim Hammar**, Shatha Jaradat, Nima Dokoohaki, Mihhail Matskin
 	[Link](https://ieeexplore.ieee.org/document/8609589)
 	[PDF](/assets/papers/deep_text_mining_wi18.pdf)
+	[ArXiv](https://arxiv.org/abs/1909.10812)
     [bib](/assets/citations/text_mining.bib)
 
 ### Journals
