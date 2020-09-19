@@ -4,6 +4,9 @@ title: News
 ---
 
 
+14 Sep '20
+:   Our CNSM´20 paper "Finding Effective Security Strategies through Reinforcement Learning and Self-Play" was accepted, a preprint is [available](https://arxiv.org/abs/2009.08120)
+
 27 Feb '20
 :   Our WEB´20 paper is now [available](https://content.iospress.com/articles/web-intelligence/web200428)
 
