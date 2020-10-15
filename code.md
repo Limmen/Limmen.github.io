@@ -3,6 +3,9 @@ layout: page
 title: Code
 ---
 
+**gym-idsgame**; gym-idsgame is a reinforcement learning environment for simulating attack and defense operations in an abstract network intrusion Markov game.
+[repo](https://github.com/Limmen/gym-idsgame)
+
 **Hopsworks**; Hopsworks is a platform for horizontally scalable deep learning pipelines on top of Hadoop.
 [repo](https://github.com/logicalclocks/hopsworks)
 [blog](https://www.logicalclocks.com/blog/introducing-hopsworks)
