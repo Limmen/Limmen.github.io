@@ -4,6 +4,11 @@ title: Talks
 ---
 
 2020
+:   **Self-Learning Systems for Cyber Security**; Stockholm, KTH, Center for Cyber Defense and Information Security.
+	[Slides](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-security)
+	[PDF](/assets/slides/cdis_hammar_stadler_15_oct_2020.pdf)
+
+2020
 :   **A Deep Journey of Playing Games with Reinforcement Learning**; Stockholm, KTH, Division of Network and Systems Engineering.
 	[Slides](https://www.slideshare.net/KimHammar/nse-kth-seminardeeprlgameskimhammar31jan2020)
 	[PDF](/assets/slides/deepmind_rl_nse.pdf)
