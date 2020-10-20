@@ -4,14 +4,13 @@ title: Teaching
 ---
 
 2019-2020
-:   **Introduction to Networking**; Teaching Assistant to Prof. Gunnar Karlsson.
-    Course for recruits at the Swedish Armed Forces within the "cyber soldier" position.
- 	[Link](https://jobb.forsvarsmakten.se/sv/utbildning/befattningsguiden/cybersoldat/)
+:   **EP1100 Data Communications and Computer Networks**; Teaching Assistant to Prof. Gunnar Karlsson.
+ 	[Link](https://www.kth.se/student/kurser/kurs/EP1100?l=en)
 
 2019-2020
-:   **Introduction to Computer Architecture**; Teaching Assistant to Prof. Gunnar Karlsson.
+:   **EP1200 Introduction to Computing Systems Engineering**; Teaching Assistant to Prof. Gunnar Karlsson.
     Course for recruits at the Swedish Armed Forces within the "cyber soldier" position.
- 	[Link](https://jobb.forsvarsmakten.se/sv/utbildning/befattningsguiden/cybersoldat/)
+ 	[Link](https://www.kth.se/student/kurser/kurs/EP1200)
 
 2019-2020
 :   **Introduction to Operating Systems**; Teaching Assistant to Prof. Gunnar Karlsson.
@@ -25,7 +24,7 @@ title: Teaching
 	[PDF](/assets/slides/id2208.pdf)
 
 2017
-:   **ID2201 Distributed Systems**; Teaching Assistant to Prof. Vladimir Vlassov &.
+:   **ID2201 Distributed Systems**; Teaching Assistant to Prof. Vladimir Vlassov.
      KTH second cycle course.
 	[Link](https://www.kth.se/student/kurser/kurs/ID2201?l=en)
     [PDF](/assets/papers/id2201.pdf)
