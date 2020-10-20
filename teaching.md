@@ -5,11 +5,12 @@ title: Teaching
 
 2019-2020
 :   **EP1100 Data Communications and Computer Networks**; Teaching Assistant to Prof. Gunnar Karlsson.
+     KTH first cycle course
  	[Link](https://www.kth.se/student/kurser/kurs/EP1100?l=en)
 
 2019-2020
 :   **EP1200 Introduction to Computing Systems Engineering**; Teaching Assistant to Prof. Gunnar Karlsson.
-    Course for recruits at the Swedish Armed Forces within the "cyber soldier" position.
+     KTH first cycle course
  	[Link](https://www.kth.se/student/kurser/kurs/EP1200)
 
 2019-2020
