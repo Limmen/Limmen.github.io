@@ -4,6 +4,11 @@ title: Talks
 ---
 
 2020
+:   **Finding Effective Security Strategies through Reinforcement Learning and Self-Play**; Izmir, CNSM 2020: International Conference on Network and Service Management November 2-6.
+    **Kim Hammar** and Rolf Stadler
+	[PDF](/assets/slides/cnsm_2020_hammar_stadler_3_nov.pdf)
+
+2020
 :   **Self-Learning Systems for Cyber Security**; Stockholm, KTH, Center for Cyber Defense and Information Security.
 	[Slides](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-security)
 	[PDF](/assets/slides/cdis_hammar_stadler_15_oct_2020.pdf)
