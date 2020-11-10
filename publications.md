@@ -103,11 +103,6 @@ Mihhail Matskin
 	[PDF](/assets/papers/mlfd.pdf)
 
 2017
-:   **Mobile Communications**; 2 Jul 2017. A project report.
-	**Kim Hammar**
-	[PDF](/assets/papers/mobile_communication.pdf)
-
-2017
 :   **Conflict free p2p replicated datatypes**; 22 May 2017. A project report.
 	**Kim Hammar**, Maxime Dufour
 	[PDF](/assets/papers/p2p_crdt_logoot.pdf)
