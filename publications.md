@@ -8,6 +8,7 @@ title: Publications
 2020
 :   **Finding Effective Security Strategies through Reinforcement Learning and Self-Play**; Conference paper, CNSM 2020: International Conference on Network and Service Management, Izmir, Turkey November 2-6.
     **Kim Hammar** and Rolf Stadler
+	[IEEE Proceedings](https://ieeexplore.ieee.org/document/9269092)
 	[arXiv(preprint)](https://arxiv.org/abs/2009.08120)
 	[PDF(preprint)](/assets/papers/cnsm_Hammar_Stadler.pdf)
 	[bib](/assets/citations/cnsm_2020_hammar_stadler.bib)
