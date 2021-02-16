@@ -3,6 +3,10 @@ layout: page
 title: Teaching
 ---
 
+2021-
+:   **Master thesis**;
+	Antonio Frederico Nesti Lopes, Reinforcement learning for security games, Spring 2021
+
 2019-2021
 :   **EP1100 Data Communications and Computer Networks**; Teaching Assistant to Prof. Gunnar Karlsson.
      KTH first cycle course
@@ -29,7 +33,3 @@ title: Teaching
      KTH second cycle course.
 	[Link](https://www.kth.se/student/kurser/kurs/ID2201?l=en)
     [PDF](/assets/papers/id2201.pdf)
-
-:   **Master thesis**;
-
-	Antonio Frederico Nesti Lopes, Reinforcement learning for security games, Spring 2021

@@ -7,4 +7,4 @@ Kim Hammar is a Ph.D. student at the Division of Network and Systems Engineering
 
 Contact me at kimham[at]kth.se for a more detailed CV.
 
-{% include image2.html url="rolfs_group_1.JPG" description="Our research group. Feb 2021" %}
+{% include image2.html url="/assets/rolfs_group_1.JPG" description="Our research group. Feb 2021" %}
