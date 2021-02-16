@@ -3,17 +3,17 @@ layout: page
 title: Teaching
 ---
 
-2019-2020
+2019-2021
 :   **EP1100 Data Communications and Computer Networks**; Teaching Assistant to Prof. Gunnar Karlsson.
      KTH first cycle course
  	[Link](https://www.kth.se/student/kurser/kurs/EP1100?l=en)
 
-2019-2020
+2019-2021
 :   **EP1200 Introduction to Computing Systems Engineering**; Teaching Assistant to Prof. Gunnar Karlsson.
      KTH first cycle course
  	[Link](https://www.kth.se/student/kurser/kurs/EP1200)
 
-2019-2020
+2019-2021
 :   **Introduction to Operating Systems**; Teaching Assistant to Prof. Gunnar Karlsson.
     Course for recruits at the Swedish Armed Forces within the "cyber soldier" position.
  	[Link](https://jobb.forsvarsmakten.se/sv/utbildning/befattningsguiden/cybersoldat/)
@@ -29,3 +29,7 @@ title: Teaching
      KTH second cycle course.
 	[Link](https://www.kth.se/student/kurser/kurs/ID2201?l=en)
     [PDF](/assets/papers/id2201.pdf)
+
+:   **Master thesis**;
+
+	Antonio Frederico Nesti Lopes, Reinforcement learning for security games, Spring 2021
