@@ -3,6 +3,8 @@ layout: page
 title: News
 ---
 
+24 Mar '21
+:   Slides of our presentation at the CDIS spring conference is [available](https://limmen.dev/assets/slides/Kim_Hammar_Rolf_Stadler_CDIS_Spring_Conference_March_24_Self_learning_Systems_for_Defense.pdf)
 
 14 Sep '20
 :   Our CNSM´20 paper "Finding Effective Security Strategies through Reinforcement Learning and Self-Play" was accepted, a preprint is [available](https://arxiv.org/abs/2009.08120)
