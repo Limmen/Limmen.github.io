@@ -3,6 +3,12 @@ layout: page
 title: Talks
 ---
 
+2021
+:   **Self-Learning Systems for Cyber Security**; Stockholm, KTH, CDIS Spring Conference March 24 2021.
+    **Kim Hammar** and Rolf Stadler
+	[Slides](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-security-245001363)
+	[PDF](/assets/slides/Kim_Hammar_Rolf_Stadler_CDIS_Spring_Conference_March_24_Self_learning_Systems_for_Defense.pdf)
+
 2020
 :   **Self-Learning Systems for Cyber Security**; Stockholm, KTH, Division of Network and Systems Engineering.
     **Kim Hammar** and Rolf Stadler
