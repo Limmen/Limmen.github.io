@@ -4,13 +4,19 @@ title: Talks
 ---
 
 2021
+:   **Self-Learning Systems for Cyber Security**; Stockholm, KTH, NSE Seminar April 9 2021, Division of Network and Systems Engineering.
+    **Kim Hammar** and Rolf Stadler
+	[Slides](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-security-245974483)
+	[PDF](/assets/slides/nse_seminar_9_april_21_KimHammar.pdf)
+
+2021
 :   **Self-Learning Systems for Cyber Security**; Stockholm, KTH, CDIS Spring Conference March 24 2021.
     **Kim Hammar** and Rolf Stadler
 	[Slides](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-security-245001363)
 	[PDF](/assets/slides/Kim_Hammar_Rolf_Stadler_CDIS_Spring_Conference_March_24_Self_learning_Systems_for_Defense.pdf)
 
 2020
-:   **Self-Learning Systems for Cyber Security**; Stockholm, KTH, Division of Network and Systems Engineering.
+:   **Self-Learning Systems for Cyber Security**; Stockholm, KTH, NSE Seminar 4 Dec 2020, Division of Network and Systems Engineering.
     **Kim Hammar** and Rolf Stadler
 	[Slides](https://www.slideshare.net/KimHammar/nse-seminar-4dechammarstadler)
 	[PDF](/assets/slides/NSE_seminar_4_dec_Hammar_Stadler.pdf)
