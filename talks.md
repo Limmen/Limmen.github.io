@@ -4,6 +4,12 @@ title: Talks
 ---
 
 2021
+:   **MuZero**; Stockholm, KTH, ML+Security Reading Group NSE April 23 2021, Division of Network and Systems Engineering.
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/muzero-ml-security-reading-group)
+	[PDF](/assets/slides/muzero_ml_reading_group_23_apr_21_KimHammar.pdf)
+
+2021
 :   **Self-Learning Systems for Cyber Security**; Stockholm, KTH, NSE Seminar April 9 2021, Division of Network and Systems Engineering.
     **Kim Hammar** and Rolf Stadler
 	[Slides](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-security-245974483)
