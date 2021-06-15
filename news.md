@@ -4,7 +4,7 @@ title: News
 ---
 
 15 June '21
-:   Preprint of our paper "Learning Intrusion Prevention Policies through Optimal Stopping" [available](https://arxiv.org/pdf/2106.07160.pdf)
+:   Preprint of our paper "Learning Intrusion Prevention Policies through Optimal Stopping" is [available](https://arxiv.org/pdf/2106.07160.pdf)
 
 24 Mar '21
 :   Slides of our presentation at the CDIS spring conference is [available](https://limmen.dev/assets/slides/Kim_Hammar_Rolf_Stadler_CDIS_Spring_Conference_March_24_Self_learning_Systems_for_Defense.pdf)
