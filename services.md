@@ -2,7 +2,7 @@
 layout: page
 title: Services
 ---
-**Reviewer International Conference on Network and Service Management (CNSM) 2021**.
+**Reviewer CNSM 2021** (International Conference on Network and Service Management).
 [link](http://www.cnsm-conf.org/2021/)
 
 **Reviewer IEEE Communications Letter 2020**.
