@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+16 July '21
+:   Our paper "Learning Intrusion Prevention Policies through Optimal Stopping" was accepted to CNSM´21, a preprint is [available](https://arxiv.org/pdf/2106.07160.pdf)
+
 15 June '21
 :   Preprint of our paper "Learning Intrusion Prevention Policies through Optimal Stopping" is [available](https://arxiv.org/pdf/2106.07160.pdf)
 
