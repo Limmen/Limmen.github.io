@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+23 July '21
+:   Attending the [DLRL](https://dlrl.ca/) summer school and presenting a poster. Our poster is available [here](https://limmen.dev/assets/papers/poster_dlrl_21_optimal_stopping_KimHammar_jul_21.pdf)
+
 16 July '21
 :   Our paper "Learning Intrusion Prevention Policies through Optimal Stopping" was accepted to CNSM´21, a preprint is [available](https://arxiv.org/pdf/2106.07160.pdf)
 
