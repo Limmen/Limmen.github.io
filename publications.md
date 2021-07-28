@@ -29,20 +29,20 @@ Mihhail Matskin
 
 2019
 :   **Horizontally Scalable ML Pipelines with a Feature Store**; Conference paper, Demo track, SysML Conference, March 31 - April 2 2019, Stanford CA.
-    Alexandru A. Ormenisan, Mahmoud Ismail, **Kim Hammar**, Robin Andersson, Ermias Gebremeskel, Theofilos Kakantousis, Antonios Kouzoupis, Fabio Buso, Gautier Berthou, Jim Dowling, Seif Haridi.
+    Alexandru A. Ormenisan, Mahmoud Ismail, **Kim Hammar**, Robin Andersson, Ermias Gebremeskel, Theofilos Kakantousis, Antonios Kouzoupis, Fabio Buso, Gautier Berthou, Jim Dowling and Seif Haridi.
 	[Link](https://www.sysml.cc/doc/2019/demo_7.pdf)
 	[PDF](/assets/papers/sysml_featurestore.pdf)
 
 
 2018
 :   **Dynamic CNN Models For Fashion Recommendation in Instagram**; Conference Paper, nternational Conference on Social Computing and Networking (SocialCom 2018), 11-13 Dec. 2018, Melbourne, Australia.
-	Shatha Jaradat, Nima Dokoohaki, **Kim Hammar**, Ummul Wara, Mihhail Matskin
+	Shatha Jaradat, Nima Dokoohaki, **Kim Hammar**, Ummul Wara and Mihhail Matskin
 	[Link](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1319767&dswid=2781)
     [bib](/assets/citations/dynamic_cnn.bib)
 
 2018
 :   **Deep Text Mining of Instagram Data Without Strong Supervision**; Conference Paper, Web Intelligence Conference 2018, Santiago Chile.
-    **Kim Hammar**, Shatha Jaradat, Nima Dokoohaki, Mihhail Matskin
+    **Kim Hammar**, Shatha Jaradat, Nima Dokoohaki and Mihhail Matskin
 	[Link](https://ieeexplore.ieee.org/document/8609589)
 	[PDF](/assets/papers/deep_text_mining_wi18.pdf)
 	[ArXiv](https://arxiv.org/abs/1909.10812)
@@ -52,7 +52,7 @@ Mihhail Matskin
 
 2020
 :   **Deep text classification of Instagram data using word embeddings and weak supervision**; Journal paper, Web Intelligence 2020.
-    **Kim Hammar**, Shatha Jaradat, Nima Dokoohaki, Mihhail Matskin
+    **Kim Hammar**, Shatha Jaradat, Nima Dokoohaki and Mihhail Matskin
 	[Link](https://content.iospress.com/articles/web-intelligence/web200428)
 	[bib](/assets/citations/wi_journal.bib)
 
@@ -60,7 +60,7 @@ Mihhail Matskin
 
 2021
 :   **Learning Intrusion Prevention Policies through Optimal Stopping**; Poster, CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School 2021.
-    **Kim Hammar**, Rolf Stadler
+    **Kim Hammar** and Rolf Stadler
     [PDF](https://limmen.dev/assets/papers/poster_dlrl_21_optimal_stopping_KimHammar_jul_21.pdf)
 
 
@@ -68,18 +68,18 @@ Mihhail Matskin
 
 2019
 :   **Guide to File Formats for Machine Learning: Columnar, Training, and Inferencing**; Blog post, 25 Oct 2019.
-	Jim Dowling, Moritz Meister, **Kim Hammar**
+	Jim Dowling, Moritz Meister, and **Kim Hammar**
 	[Link](https://www.logicalclocks.com/blog/guide-to-file-formats-for-machine-learning-with-feature-store)
 
 2018
 :   **Feature Store: the missing data layer in ML pipelines?**; Blog post, 30 Dec 2018.
-	**Kim Hammar**, Jim Dowling
+	**Kim Hammar** and Jim Dowling
 	[Link](https://www.logicalclocks.com/blog/feature-store-the-missing-data-layer-in-ml-pipelines)
     [bib](/assets/citations/feature_store_v1.bib)
 
 2018
 :   **Goodbye Horovod, Hello CollectiveAllReduce**; Blog post, 22 Oct 2018.
-	Robin Andersson, Jim Dowling, Ermias Gebremeskel, **Kim Hammar**
+	Robin Andersson, Jim Dowling, Ermias Gebremeskel and **Kim Hammar**
 	[Link](https://www.logicalclocks.com/blog/goodbye-horovod-hello-collectiveallreduce)
 
 
@@ -109,7 +109,7 @@ Mihhail Matskin
 
 2020
 :   **Using Reinforcement Learning in Self-Driving Systems**; 28 May 2020. A PoC.
-	Forough Shahab, **Kim Hammar**
+	Forough Shahab and **Kim Hammar**
 	[PDF](/assets/papers/self_driving_systems_poc.pdf)
 
 
@@ -120,16 +120,16 @@ Mihhail Matskin
 
 2017
 :   **Machine Learning for Failure Detection in Distributed Systems**; 23 Nov 2017. A project report.
-	**Kim Hammar**, Konstantin Sozinov
+	**Kim Hammar** and Konstantin Sozinov
 	[PDF](/assets/papers/mlfd.pdf)
 
 2017
 :   **Conflict free p2p replicated datatypes**; 22 May 2017. A project report.
-	**Kim Hammar**, Maxime Dufour
+	**Kim Hammar** and Maxime Dufour
 	[PDF](/assets/papers/p2p_crdt_logoot.pdf)
 
 
 2017
 :   **Linearizable Key-Value Store**; 12 Mar 2017. A project report.
-	**Kim Hammar**, Konstantin Sozinov
+	**Kim Hammar** and Konstantin Sozinov
 	[PDF](/assets/papers/lin_key_value.pdf)
