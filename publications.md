@@ -61,7 +61,7 @@ Mihhail Matskin
 2021
 :   **Learning Intrusion Prevention Policies through Optimal Stopping**; Poster, CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School 2021.
     **Kim Hammar**, Rolf Stadler
-    [Link](https://limmen.dev/assets/papers/poster_dlrl_21_optimal_stopping_KimHammar_jul_21.pdf)
+    [PDF](https://limmen.dev/assets/papers/poster_dlrl_21_optimal_stopping_KimHammar_jul_21.pdf)
 
 
 ### Blog Posts
