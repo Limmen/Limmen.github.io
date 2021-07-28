@@ -102,6 +102,11 @@ Mihhail Matskin
 
 ### Other
 
+2021
+:   **An RCE Exploit of a Remote SLD Resolver in Prolog**; 18 June 2021.
+	**Kim Hammar**
+	[PDF](/assets/papers/ExploitDemoReport_FEP3370_KimHammar.pdf)
+
 2020
 :   **Using Reinforcement Learning in Self-Driving Systems**; 28 May 2020. A PoC.
 	Forough Shahab, **Kim Hammar**
