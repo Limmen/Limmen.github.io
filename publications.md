@@ -64,7 +64,7 @@ Mihhail Matskin
     [PDF](https://limmen.dev/assets/papers/poster_dlrl_21_optimal_stopping_KimHammar_jul_21.pdf)
 
 
-### Blog Posts
+### External Blog Posts
 
 2019
 :   **Guide to File Formats for Machine Learning: Columnar, Training, and Inferencing**; Blog post, 25 Oct 2019.

@@ -4,6 +4,11 @@ title: Talks
 ---
 
 2021
+:   **Self-Learning Systems for Cyber Security**; Enköping, Ledningsregementet.
+    **Kim Hammar**
+	[PDF](/assets/slides/Hammar_Stadler_Self_Learning_Systems_Enkoping_18_aug_21.pdf)
+
+2021
 :   **MuZero**; Stockholm, KTH, ML+Security Reading Group NSE April 23 2021, Division of Network and Systems Engineering.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/muzero-ml-security-reading-group)
