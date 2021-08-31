@@ -2,6 +2,8 @@
 layout: page
 title: News
 ---
+30 Aug '21
+:   Antonio Frederico Nesti Lopes, master thesis student in our group, successfully defended his M.Sc., with thesis entitled "Bayesian Reinforcement Learning Methods for Network Intrusion Prevention". The camera ready version will be available soon.
 
 23 July '21
 :   Attending the [DLRL](https://dlrl.ca/) summer school and presenting a poster. Our poster is available [here](https://limmen.dev/assets/papers/poster_dlrl_21_optimal_stopping_KimHammar_jul_21.pdf)
