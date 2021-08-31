@@ -39,6 +39,7 @@ title: Talks
 	[PDF](/assets/slides/cnsm_2020_hammar_stadler_3_nov.pdf)
 	[Event](http://www.cnsm-conf.org/2020/)
 	[Video](https://www.youtube.com/watch?v=9ihiIPVRB58)
+	![cnsm_2020_presentation](/assets/cnsm20_presentation.png "Presentation at CNSM 2020")
 
 2020
 :   **Self-Learning Systems for Cyber Security**; Stockholm, KTH, Center for Cyber Defense and Information Security, October 15 2020.
