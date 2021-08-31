@@ -6,6 +6,7 @@ title: Talks
 2021
 :   **Self-Learning Systems for Cyber Security**; Enköping, Ledningsregementet, August 18 2021.
     **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-security-250086888)
 	[PDF](/assets/slides/Hammar_Stadler_Self_Learning_Systems_Enkoping_18_aug_21.pdf)
 
 2021
