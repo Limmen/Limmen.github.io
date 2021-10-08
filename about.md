@@ -14,3 +14,5 @@ A video about our research project is available here:
 <div align="center">
   <a href="https://www.youtube.com/watch?v=88W69Wu0FYM"><img src="https://img.youtube.com/vi/88W69Wu0FYM/0.jpg" alt="Research Pitch"></a>
 </div>
+
+{% include image2.html url="/assets/nse_oct_2019.jpg" description="The Division of Network and Systems Engineering, KTH. October 2019" %}
