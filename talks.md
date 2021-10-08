@@ -4,6 +4,12 @@ title: Talks
 ---
 
 2021
+:   **Learning Intrusion Prevention Policies Through Optimal Stopping**; Stockholm, KTH, NSE Seminar October 8 2021, Division of Network and Systems Engineering.
+    **Kim Hammar** and Rolf Stadler
+	[Slides](https://www.slideshare.net/KimHammar/learning-intrusion-prevention-policies-through-optimal-stopping)
+	[PDF](/assets/slides/NSE_seminar_8_oct_21_Hammar_Stadler.pdf)
+
+2021
 :   **Self-Learning Systems for Cyber Security**; Enköping, Ledningsregementet, August 18 2021.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-security-250086888)
