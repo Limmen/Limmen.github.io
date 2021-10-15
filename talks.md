@@ -4,6 +4,12 @@ title: Talks
 ---
 
 2021
+:   **Learning Intrusion Prevention Policies Through Optimal Stopping**; Balingsholm, KTH, CDIS Research Workshop October 15 2021.
+    **Kim Hammar** and Rolf Stadler
+	[Slides](https://www.slideshare.net/KimHammar/learning-intrusion-prevention-policies-through-optimal-stopping-250452321)
+	[PDF](/assets/slides/CDIS_Workshop_Balingsholm_15_oct_2021_Hammar_Stadler.pdf)
+
+2021
 :   **Learning Intrusion Prevention Policies Through Optimal Stopping**; Stockholm, KTH, NSE Seminar October 8 2021, Division of Network and Systems Engineering.
     **Kim Hammar** and Rolf Stadler
 	[Slides](https://www.slideshare.net/KimHammar/learning-intrusion-prevention-policies-through-optimal-stopping)
