@@ -4,6 +4,12 @@ title: Talks
 ---
 
 2021
+:   **Självlärande system för cybersäkerhet**; Stockholm, KTH, CDIS, Division of Network and Systems Engineering, Besök av riksdagens försvarsutskott (S) 20 Oct 2021.
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/sjlvlrande-system-fr-cyberskerhet)
+	[PDF](/assets/slides/riksdagens_forsvarsutskott_S_CDIS_Hammar_20_oct_2021.pdf)
+
+2021
 :   **Learning Intrusion Prevention Policies Through Optimal Stopping**; Stockholm, KTH, NSE Seminar October 8 2021, Division of Network and Systems Engineering.
     **Kim Hammar** and Rolf Stadler
 	[Slides](https://www.slideshare.net/KimHammar/learning-intrusion-prevention-policies-through-optimal-stopping)
