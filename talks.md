@@ -4,6 +4,15 @@ title: Talks
 ---
 
 2021
+:   **Finding Effective Security Strategies through Reinforcement Learning and Self-Play**; Izmir, CNSM 2021: International Conference on Network and Service Management October 25-29.
+    **Kim Hammar** and Rolf Stadler
+	[Slides](https://www.slideshare.net/KimHammar/learning-intrusion-prevention-policies-through-optimal-stopping-cnsm2021)
+	[PDF](/assets/slides/CNSM_2021_Hammar_Stadler_28_Oct.pdf)
+	[Event](http://www.cnsm-conf.org/2021/)
+	[Video](https://www.youtube.com/watch?v=_zL4qR5-jU8)
+	![cnsm_2021_presentation](/assets/cnsm21_presentation.png "Presentation at CNSM 2021")
+
+2021
 :   **Självlärande system för cybersäkerhet**; Stockholm, KTH, CDIS, Division of Network and Systems Engineering, Besök av riksdagens försvarsutskott (S) 20 Oct 2021.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/sjlvlrande-system-fr-cyberskerhet)
