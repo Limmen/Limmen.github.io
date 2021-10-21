@@ -5,7 +5,8 @@ title: Teaching
 
 2021-
 :   **Master thesis**;
-	Antonio Frederico Nesti Lopes, Bayesian Reinforcement Learning Methods for Network Intrusion Prevention, Spring 2021
+	Antonio Frederico Nesti Lopes, Bayesian Reinforcement Learning Methods for Network Intrusion Prevention, Spring 2021.
+	[Thesis_PDF](/assets/papers/Antonio_Nesti_Lopes_2021_Master_Thesis.pdf)
 
 2019-2021
 :   **EP1100 Data Communications and Computer Networks**; Teaching Assistant to Prof. Gunnar Karlsson.

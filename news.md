@@ -2,6 +2,13 @@
 layout: page
 title: News
 ---
+
+21 Oct '21
+:   Master thesis Bayesian Reinforcement Learning Methods for Network Intrusion Prevention by Antonio Frederico Nesti Lopes, available [here](/assets/papers/Antonio_Nesti_Lopes_2021_Master_Thesis.pdf).
+
+15 Oct '21
+:   Attended the CDIS Fall Research Workshop at Balingsholm and presented our research project. The slides are available [here](/assets/slides/riksdagens_forsvarsutskott_S_CDIS_Hammar_20_oct_2021.pdf)
+
 30 Aug '21
 :   Antonio Frederico Nesti Lopes, master thesis student in our group, successfully defended his M.Sc., with thesis entitled "Bayesian Reinforcement Learning Methods for Network Intrusion Prevention". The camera ready version will be available soon.
 
