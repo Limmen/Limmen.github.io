@@ -13,6 +13,12 @@ title: Talks
 	![cnsm_2021_presentation](/assets/cnsm21_presentation.png "Presentation at CNSM 2021")
 
 2021
+:   **Reinforcement Learning Algorithms for Adaptive Cyber Defense against Heartbleed**; Stockholm, KTH, ML+Security Reading Group NSE October 22 2021, Division of Network and Systems Engineering.
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/reinforcement-learning-algorithms-for-adaptive-cyber-defense-against-heartbleed)
+	[PDF](/assets/slides/mlsec_NSE_reading_group_22_oct_2021_Hammar.pdf)
+
+2021
 :   **Självlärande system för cybersäkerhet**; Stockholm, KTH, CDIS, Division of Network and Systems Engineering, Besök av riksdagens försvarsutskott (S) 20 Oct 2021.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/sjlvlrande-system-fr-cyberskerhet)
