@@ -10,6 +10,7 @@ title: Publications
     **Kim Hammar** and Rolf Stadler
 	[Conference Proceedings](http://dl.ifip.org/db/conf/cnsm/cnsm2021/index.html)
 	[Conference Paper](http://dl.ifip.org/db/conf/cnsm/cnsm2021/1570732932.pdf)
+	[PDF](/assets/papers/cnsm_21_Hammar_Stadler.pdf)
 	[arXiv(preprint)](https://arxiv.org/pdf/2106.07160.pdf)
 	[PDF(preprint)](/assets/papers/preprint_cnsm_21_hammar_stadler.pdf)
 	[bib](/assets/citations/cnsm_21_proceedings.bib)
@@ -19,7 +20,7 @@ title: Publications
     **Kim Hammar** and Rolf Stadler
 	[IEEE Proceedings](https://ieeexplore.ieee.org/document/9269092)
 	[arXiv(preprint)](https://arxiv.org/abs/2009.08120)
-	[PDF(preprint)](/assets/papers/cnsm_Hammar_Stadler.pdf)
+	[PDF(preprint)](/assets/papers/cnsm_20_Hammar_Stadler.pdf)
 	[bib](/assets/citations/cnsm_2020_hammar_stadler.bib)
 
 2019
