@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+26 Oct '21
+:   Our paper "Learning Intrusion Prevention Policies through Optimal Stopping" is available in the CNSM´21 [proceedings](http://dl.ifip.org/db/conf/cnsm/cnsm2021/index.html)
+
 21 Oct '21
 :   Master thesis Bayesian Reinforcement Learning Methods for Network Intrusion Prevention by Antonio Frederico Nesti Lopes, available [here](/assets/papers/Antonio_Nesti_Lopes_2021_Master_Thesis.pdf).
 
