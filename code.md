@@ -3,6 +3,9 @@ layout: page
 title: Code
 ---
 
+**gym-idsgame**; gym-optimal-intrusion-response is a reinforcement learning environment for simulating attack and defense operations in an optimal stoppping game.
+[repo](https://github.com/Limmen/gym-optimal-intrusion-response)
+
 **gym-idsgame**; gym-idsgame is a reinforcement learning environment for simulating attack and defense operations in an abstract network intrusion Markov game.
 [repo](https://github.com/Limmen/gym-idsgame)
 
