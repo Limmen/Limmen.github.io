@@ -3,8 +3,11 @@ layout: page
 title: News
 ---
 
+30 Oct '21
+:   Preprint of our journal paper "Intrusion Prevention through Optimal Stopping" is [available](/assets/papers/TNSM_22_Hammar_Stadler_Draft_30_Oct_21.pdf)
+
 26 Oct '21
-:   Our paper "Learning Intrusion Prevention Policies through Optimal Stopping" is available in the CNSM´21 [proceedings](http://dl.ifip.org/db/conf/cnsm/cnsm2021/index.html)
+:   Our conference paper "Learning Intrusion Prevention Policies through Optimal Stopping" is available in the CNSM´21 [proceedings](http://dl.ifip.org/db/conf/cnsm/cnsm2021/index.html)
 
 21 Oct '21
 :   Master thesis Bayesian Reinforcement Learning Methods for Network Intrusion Prevention by Antonio Frederico Nesti Lopes, available [here](/assets/papers/Antonio_Nesti_Lopes_2021_Master_Thesis.pdf).
@@ -19,10 +22,10 @@ title: News
 :   Attending the [DLRL](https://dlrl.ca/) summer school and presenting a poster. Our poster is available [here](https://limmen.dev/assets/papers/poster_dlrl_21_optimal_stopping_KimHammar_jul_21.pdf)
 
 16 July '21
-:   Our paper "Learning Intrusion Prevention Policies through Optimal Stopping" was accepted to CNSM´21, a preprint is [available](https://arxiv.org/pdf/2106.07160.pdf)
+:   Our conference paper "Learning Intrusion Prevention Policies through Optimal Stopping" was accepted to CNSM´21, a preprint is [available](https://arxiv.org/pdf/2106.07160.pdf)
 
 15 June '21
-:   Preprint of our paper "Learning Intrusion Prevention Policies through Optimal Stopping" is [available](https://arxiv.org/pdf/2106.07160.pdf)
+:   Preprint of our conference paper "Learning Intrusion Prevention Policies through Optimal Stopping" is [available](https://arxiv.org/pdf/2106.07160.pdf)
 
 24 Mar '21
 :   Slides of our presentation at the CDIS spring conference is [available](https://limmen.dev/assets/slides/Kim_Hammar_Rolf_Stadler_CDIS_Spring_Conference_March_24_Self_learning_Systems_for_Defense.pdf)
