@@ -59,6 +59,7 @@ Mihhail Matskin
     **Kim Hammar** and Rolf Stadler
 	[arXiv(preprint)](https://arxiv.org/abs/2111.00289)
 	[PDF(preprint)](/assets/papers/TNSM_22_Hammar_Stadler_Draft_30_Oct_21.pdf)
+	[bib](/assets/citations/tnsm_22_hammar_stadler.bib)
 
 2020
 :   **Deep text classification of Instagram data using word embeddings and weak supervision**; Journal paper, Web Intelligence 2020.
