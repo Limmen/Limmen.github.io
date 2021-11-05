@@ -16,3 +16,5 @@ A video about our research project is available here:
 </div>
 
 {% include image2.html url="/assets/nse_oct_2019.jpg" description="The Division of Network and Systems Engineering, KTH. October 2019" %}
+
+{% include image2.html url="/assets/nse_department_Oct_2021.jpg" description="The Division of Network and Systems Engineering, KTH. October 2021" %}
