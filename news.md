@@ -4,7 +4,7 @@ title: News
 ---
 
 30 Oct '21
-:   Preprint of our journal paper "Intrusion Prevention through Optimal Stopping" is [available](/assets/papers/TNSM_22_Hammar_Stadler_Draft_30_Oct_21.pdf)
+:   Preprint of our journal paper "Intrusion Prevention through Optimal Stopping" is [available](https://arxiv.org/abs/2111.00289)
 
 26 Oct '21
 :   Our conference paper "Learning Intrusion Prevention Policies through Optimal Stopping" is available in the CNSM´21 [proceedings](http://dl.ifip.org/db/conf/cnsm/cnsm2021/index.html)

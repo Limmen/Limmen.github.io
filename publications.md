@@ -57,7 +57,9 @@ Mihhail Matskin
 2021
 :   **Intrusion Prevention through Optimal Stopping**; Journal paper, TNSM 2021: IEEE Transactions on Network and Service Management (IEEE TNSM), special issue on recent advances in network security management.
     **Kim Hammar** and Rolf Stadler
+	[arXiv(preprint)](https://arxiv.org/abs/2111.00289)
 	[PDF(preprint)](/assets/papers/TNSM_22_Hammar_Stadler_Draft_30_Oct_21.pdf)
+	[bib](/assets/citations/tnsm_22_hammar_stadler.bib)
 
 2020
 :   **Deep text classification of Instagram data using word embeddings and weak supervision**; Journal paper, Web Intelligence 2020.
