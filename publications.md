@@ -65,6 +65,7 @@ Mihhail Matskin
 :   **Deep text classification of Instagram data using word embeddings and weak supervision**; Journal paper, Web Intelligence 2020.
     **Kim Hammar**, Shatha Jaradat, Nima Dokoohaki and Mihhail Matskin
 	[Link](https://content.iospress.com/articles/web-intelligence/web200428)
+	[PDF](/assets/papers/journal_wi_2020_hammar_jaradat_dokohaaki_matskin.pdf)
 	[bib](/assets/citations/wi_journal.bib)
 
 ### Posters
