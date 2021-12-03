@@ -8,8 +8,9 @@ title: Publications
 2021
 :   **Learning Intrusion Prevention Policies through Optimal Stopping**; Conference paper, CNSM 2021: International Conference on Network and Service Management, Izmir, Turkey October 25-29.
     **Kim Hammar** and Rolf Stadler
-	[Conference Proceedings](http://dl.ifip.org/db/conf/cnsm/cnsm2021/index.html)
-	[Conference Paper](http://dl.ifip.org/db/conf/cnsm/cnsm2021/1570732932.pdf)
+	[IFIP Open Library Conference Proceedings](http://dl.ifip.org/db/conf/cnsm/cnsm2021/index.html)
+	[IFIP Open Library PDF](http://dl.ifip.org/db/conf/cnsm/cnsm2021/1570732932.pdf)
+	[IEEE Proceedings](https://ieeexplore.ieee.org/document/9615542)
 	[PDF](/assets/papers/cnsm_21_Hammar_Stadler.pdf)
 	[arXiv(preprint)](https://arxiv.org/pdf/2106.07160.pdf)
 	[PDF(preprint)](/assets/papers/preprint_cnsm_21_hammar_stadler.pdf)
