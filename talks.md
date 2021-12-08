@@ -4,7 +4,13 @@ title: Talks
 ---
 
 2021
-:   **Finding Effective Security Strategies through Reinforcement Learning and Self-Play**; Izmir, CNSM 2021: International Conference on Network and Service Management October 25-29.
+:   **A Game Theoretic Analysis of Intrusion Detection in Access Control Systems**; Stockholm, KTH, FEP3301 Computational Game Theory Course, Dec 8 2021, Division of Network and Systems Engineering.
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/a-game-theoretic-analysis-of-intrusion-detection-in-access-control-systems-paper-review)
+	[PDF](/assets/slides/FEP3301_Presentation_Hammar_8_Dec_2021.pdf)
+
+2021
+:   **Learning Intrusion Prevention Policies through Reinforcement Learning and Self-Play**; Izmir, CNSM 2021: International Conference on Network and Service Management October 25-29.
     **Kim Hammar** and Rolf Stadler
 	[Slides](https://www.slideshare.net/KimHammar/learning-intrusion-prevention-policies-through-optimal-stopping-cnsm2021)
 	[PDF](/assets/slides/CNSM_2021_Hammar_Stadler_28_Oct.pdf)
