@@ -3,6 +3,9 @@ layout: page
 title: Code
 ---
 
+**awesome-rl-for-cybersecurity**; A curated list of resources dedicated to reinforcement learning applied to cyber security.
+[repo](https://github.com/Limmen/awesome-rl-for-cybersecurity)
+
 **gym-optimal-intrusion-response**; gym-optimal-intrusion-response is a reinforcement learning environment for simulating attack and defense operations in an optimal stoppping game.
 [repo](https://github.com/Limmen/gym-optimal-intrusion-response)
 
