@@ -71,10 +71,16 @@ Mihhail Matskin
 
 ### Posters
 
+2022
+:   **Intrusion Prevention through Optimal Stopping**; Poster, Digital Futures Machine Learning Day 17 Jan 2022.
+    **Kim Hammar** and Rolf Stadler
+    [PDF](https://limmen.dev/assets/papers/poster_dlrl_21_optimal_stopping_KimHammar_jul_21.pdf)
+
+
 2021
 :   **Learning Intrusion Prevention Policies through Optimal Stopping**; Poster, CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School 2021.
     **Kim Hammar** and Rolf Stadler
-    [PDF](https://limmen.dev/assets/papers/poster_dlrl_21_optimal_stopping_KimHammar_jul_21.pdf)
+	[PDF](/assets/papers/ML_Day_KTH_Poster_17_Jan_2022_Hammar_Stadler.pdf)
 
 
 ### External Blog Posts
