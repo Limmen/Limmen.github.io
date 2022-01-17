@@ -3,6 +3,12 @@ layout: page
 title: Talks
 ---
 
+2022
+:   **Intrusion Prevention through Optimal Stopping**; Stockholm, KTH, Machine Learning Day Digital futures, Jan 17 2022, Division of Network and Systems Engineering.
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/intrusion-prevention-through-optimal-stopping)
+	[PDF](/assets/slides/Machine_Learning_Day_Digital_Futures_17_Jan_2022_Hammar_Stadler.pdf)
+
 2021
 :   **A Game Theoretic Analysis of Intrusion Detection in Access Control Systems**; Stockholm, KTH, FEP3301 Computational Game Theory Course, Dec 8 2021, Division of Network and Systems Engineering.
     **Kim Hammar**
