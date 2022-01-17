@@ -22,6 +22,7 @@ title: Talks
 	[PDF](/assets/slides/CNSM_2021_Hammar_Stadler_28_Oct.pdf)
 	[Event](http://www.cnsm-conf.org/2021/)
 	[Video](https://www.youtube.com/watch?v=_zL4qR5-jU8)
+	![cnsm_2021_presentation](/assets/CNSM21.jpeg "Presentation at CNSM 2021")
 	![cnsm_2021_presentation](/assets/cnsm21_presentation.png "Presentation at CNSM 2021")
 
 2021
