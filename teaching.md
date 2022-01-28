@@ -6,6 +6,7 @@ title: Teaching
 2021
 :   **Master thesis**;
 	Antonio Frederico Nesti Lopes, Bayesian Reinforcement Learning Methods for Network Intrusion Prevention, Spring 2021.
+	[DiVA](https://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=antonio+frederico+nesti&language=sv&pid=diva2%3A1631269&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=9136)
 	[Thesis_PDF](/assets/papers/Antonio_Nesti_Lopes_2021_Master_Thesis.pdf)
 
 2019-2021
