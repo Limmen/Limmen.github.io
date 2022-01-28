@@ -2,6 +2,9 @@
 layout: page
 title: News
 ---
+17 Jan '22
+We had a poster presentation at the Digital Futures Machine Learning day at KTH.
+![df_poster](/assets/poster-df-jan-22.jpg "Poster January 2022")
 
 30 Oct '21
 :   Preprint of our journal paper "Intrusion Prevention through Optimal Stopping" is [available](https://arxiv.org/abs/2111.00289)
