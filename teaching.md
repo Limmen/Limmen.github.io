@@ -9,20 +9,25 @@ title: Teaching
 	[DiVA](https://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=antonio+frederico+nesti&language=sv&pid=diva2%3A1631269&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=9136)
 	[Thesis_PDF](/assets/papers/Antonio_Nesti_Lopes_2021_Master_Thesis.pdf)
 
-2019-2021
+2019-2022
 :   **EP1100 Data Communications and Computer Networks**; Teaching Assistant to Prof. Gunnar Karlsson.
      KTH first cycle course
  	[Link](https://www.kth.se/student/kurser/kurs/EP1100?l=en)
 
-2019-2021
+2019-2022
 :   **EP1200 Introduction to Computing Systems Engineering**; Teaching Assistant to Prof. Gunnar Karlsson.
      KTH first cycle course
  	[Link](https://www.kth.se/student/kurser/kurs/EP1200)
 
-2019-2021
+2019-2022
 :   **Introduction to Operating Systems**; Teaching Assistant to Prof. Gunnar Karlsson.
     Course for recruits at the Swedish Armed Forces within the "cyber soldier" position.
  	[Link](https://jobb.forsvarsmakten.se/sv/utbildning/befattningsguiden/cybersoldat/)
+
+2019
+:   **Master thesis**;
+	Moritz Meister, Maggy: Open-Source Asynchronous Distributed Hyperparameter Optimization Based on Apache Spark, Spring 2019.
+	[Thesis_PDF](https://oa.upm.es/56977/1/TFM_MORITZ_JOHANNES_MEISTER.pdf)
 
 2018
 :   **ID2208 Programming Web-Services**; Head Teaching Assistant to Prof. Mihhail Matskin.
