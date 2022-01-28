@@ -7,7 +7,7 @@ title: Teaching
 :   **Master thesis**;
 	Antonio Frederico Nesti Lopes, Bayesian Reinforcement Learning Methods for Network Intrusion Prevention, Spring 2021.
 	[DiVA](https://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=antonio+frederico+nesti&language=sv&pid=diva2%3A1631269&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=9136)
-	[Thesis_PDF](/assets/papers/Antonio_Nesti_Lopes_2021_Master_Thesis.pdf)
+	[PDF](/assets/papers/Antonio_Nesti_Lopes_2021_Master_Thesis.pdf)
 
 2019-2022
 :   **EP1100 Data Communications and Computer Networks**; Teaching Assistant to Prof. Gunnar Karlsson.
@@ -27,7 +27,7 @@ title: Teaching
 2019
 :   **Master thesis**;
 	Moritz Meister, Maggy: Open-Source Asynchronous Distributed Hyperparameter Optimization Based on Apache Spark, Spring 2019.
-	[Thesis_PDF](https://oa.upm.es/56977/1/TFM_MORITZ_JOHANNES_MEISTER.pdf)
+	[PDF](https://oa.upm.es/56977/1/TFM_MORITZ_JOHANNES_MEISTER.pdf)
 
 2018
 :   **ID2208 Programming Web-Services**; Head Teaching Assistant to Prof. Mihhail Matskin.
