@@ -4,6 +4,12 @@ title: Talks
 ---
 
 2022
+:   **Intrusion Prevention through Optimal Stopping**; Stockholm, KTH, Netcon Seminar, invited talk, Feb 7 2022, Division of Decision and Control Systems.
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/intrusion-prevention-through-optimal-stopping-251125924)
+	[PDF](/assets/slides/Netcon_talk_7_feb_2022_OptimalStopping_Intrusion_Prevention_Kim_Hammar.pdf)
+
+2022
 :   **Intrusion Prevention through Optimal Stopping**; Stockholm, KTH, Machine Learning Day Digital futures, Jan 17 2022, Division of Network and Systems Engineering.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/intrusion-prevention-through-optimal-stopping)
