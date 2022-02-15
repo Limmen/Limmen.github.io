@@ -2,6 +2,10 @@
 layout: page
 title: Services
 ---
+
+**Reviewer NOMS 2022** (IEEE/IFIP Network Operations and Management Symposium).
+[link](https://noms2022.ieee-noms.org/)
+
 **Reviewer CNSM 2021** (International Conference on Network and Service Management).
 [link](http://www.cnsm-conf.org/2021/)
 

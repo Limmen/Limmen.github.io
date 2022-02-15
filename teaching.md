@@ -3,6 +3,10 @@ layout: page
 title: Teaching
 ---
 
+2022-
+:   **Master thesis**;
+	Jakob Stymne, -, Spring 2022.
+
 2021
 :   **Master thesis**;
 	Antonio Frederico Nesti Lopes, Bayesian Reinforcement Learning Methods for Network Intrusion Prevention, Spring 2021.
