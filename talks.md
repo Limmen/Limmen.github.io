@@ -4,6 +4,12 @@ title: Talks
 ---
 
 2022
+:   **Introduktion till försvar mot nätverksintrång**; Stockholm, KTH EP1200, Feb 22 2022.
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/introduktion-till-frsvar-mot-ntverksintrng-22-feb-2022-ep1200-kth)
+	[PDF](/assets/slides/Intro_till_forsvar_mot_natverksintrang_EP1200_16_2_22.pdf)
+
+2022
 :   **Intrusion Prevention through Optimal Stopping**; Stockholm, KTH, Netcon Seminar, invited talk, Feb 7 2022, Division of Decision and Control Systems.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/intrusion-prevention-through-optimal-stopping-251125924)
