@@ -3,7 +3,7 @@ layout: page
 title: News
 ---
 11 Mar '22
-Our demo paper "A System for Interactive Examination of Learned Security Policies" was accepted to NOMS´22, a preprint is [available](NOMS22_Demo_Policy_Examination_System_Hammar_Stadler_28_Jan_2022.pdf)
+Our demo paper "A System for Interactive Examination of Learned Security Policies" was accepted to NOMS´22, a preprint is [available](/assets/papers/NOMS22_Demo_Policy_Examination_System_Hammar_Stadler_28_Jan_2022.pdf)
 
 17 Jan '22
 We had a poster presentation at the Digital Futures Machine Learning day at KTH.
