@@ -4,6 +4,12 @@ title: Talks
 ---
 
 2022
+:   **Intrusion Prevention through Optimal Stopping and Self-Play**; Stockholm, KTH, NSE Seminar, March 18 2022, Division of Network and Systems Engineering.
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/intrusion-prevention-through-optimal-stopping-and-selfplay)
+	[PDF](/assets/slides/NSE_Seminar_18_March_2022_Kim_Hammar.pdf)
+
+2022
 :   **Introduktion till försvar mot nätverksintrång**; Stockholm, KTH EP1200, Feb 22 2022.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/introduktion-till-frsvar-mot-ntverksintrng-22-feb-2022-ep1200-kth)
