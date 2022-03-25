@@ -4,6 +4,12 @@ title: Talks
 ---
 
 2022
+:   **Intrusion Prevention through Optimal Stopping**; London, Alan Turing Institute, invited talk, Mar 25 2022
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/intrusion-prevention-through-optimal-stopping-251427388)
+	[PDF](/assets/slides/IPS_through_OptimalStopping_25_mar_2022_ATI_KimHammar.pdf)
+
+2022
 :   **Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing**; Stockholm, KTH, ML+Security Reading Group NSE March 18 2022, Division of Network and Systems Engineering.
     **Kim Hammar**
 	[PDF](/assets/slides/MLSec_Reading_group_NSE_18_mar_22.pdf)
