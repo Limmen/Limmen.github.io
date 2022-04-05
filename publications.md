@@ -9,6 +9,7 @@ title: Publications
 :   **A System for Interactive Examination of Learned Security Policies**; Preprint.
     **Kim Hammar** and Rolf Stadler
 	[PDF(preprint)](/assets/papers/NOMS22_Demo_Policy_Examination_System_Hammar_Stadler_28_Jan_2022.pdf)
+	[arXiv(preprint)](https://arxiv.org/abs/2204.01126)
 	[bib](/assets/citations/hammar_stadler_noms_22_demo)
 
 2021
