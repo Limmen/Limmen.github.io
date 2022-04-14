@@ -4,6 +4,11 @@ title: Talks
 ---
 
 2022
+:   **A System for Interactive Examination of Learned Security Policies**; Budapest, NOMS 2022: IEEE/IFIP Network Operations and Management Symposium April 25-29.
+    **Kim Hammar** and Rolf Stadler
+	[Video](https://www.youtube.com/watch?v=18P7MjPKNDg)
+
+2022
 :   **Intrusion Prevention through Optimal Stopping**; London, Alan Turing Institute, invited talk, Mar 25 2022
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/intrusion-prevention-through-optimal-stopping-251427388)
