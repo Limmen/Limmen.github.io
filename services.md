@@ -3,11 +3,17 @@ layout: page
 title: Services
 ---
 
+**Session chair NOMS 2022** (IEEE/IFIP Network Operations and Management Symposium). Technical session on management and orchestration methods.
+[link](https://noms2022.ieee-noms.org/)
+
 **Reviewer NOMS 2022** (IEEE/IFIP Network Operations and Management Symposium).
 [link](https://noms2022.ieee-noms.org/)
 
 **Reviewer CNSM 2021** (International Conference on Network and Service Management).
 [link](http://www.cnsm-conf.org/2021/)
+
+**Video streaming chair CDIS spring conference 2021**. Managed video conference over zoom with ~150 participants.
+[link](https://www.kth.se/cdis)
 
 **Reviewer IEEE Communications Letter 2020**.
 [link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234)
