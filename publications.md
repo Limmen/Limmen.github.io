@@ -110,7 +110,7 @@ Mihhail Matskin
 	[Link](https://www.logicalclocks.com/blog/goodbye-horovod-hello-collectiveallreduce)
 
 
-### Thesis
+### Theses
 
 2018
 :   **Deep Text Mining of Instagram Data Without Strong Supervision**; Master's Thesis, KTH School of Information and Communication Technology (ICT).
