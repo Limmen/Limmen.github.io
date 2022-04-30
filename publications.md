@@ -6,8 +6,9 @@ title: Publications
 ### Conferences
 
 2022
-:   **A System for Interactive Examination of Learned Security Policies**; Preprint.
+:   **A System for Interactive Examination of Learned Security Policies**; <span style="color:red">(Best DEMO paper award)</span>; Conference paper, NOMS 2022: IEEE/IFIP Network Operations and Management Symposium, Budapest, Hungary April 25-29.
     **Kim Hammar** and Rolf Stadler
+	[Video](https://www.youtube.com/watch?v=18P7MjPKNDg)
 	[PDF(preprint)](/assets/papers/NOMS22_Demo_Policy_Examination_System_Hammar_Stadler_28_Jan_2022.pdf)
 	[arXiv(preprint)](https://arxiv.org/abs/2204.01126)
 	[bib](/assets/citations/hammar_stadler_noms_22_demo)
