@@ -63,9 +63,10 @@ Mihhail Matskin
 
 ### Journals
 
-2021
-:   **Intrusion Prevention through Optimal Stopping**; Journal paper, TNSM 2021: IEEE Transactions on Network and Service Management (IEEE TNSM), special issue on recent advances in network security management.
+2022
+:   **Intrusion Prevention through Optimal Stopping**; Journal paper, TNSM 2022: IEEE Transactions on Network and Service Management (IEEE TNSM), special issue on recent advances in network security management.
     **Kim Hammar** and Rolf Stadler
+	[Link](https://ieeexplore.ieee.org/document/9779345)
 	[arXiv(preprint)](https://arxiv.org/abs/2111.00289)
 	[PDF(preprint)](/assets/papers/TNSM_22_Hammar_Stadler_Draft_30_Oct_21.pdf)
 	[bib](/assets/citations/tnsm_22_hammar_stadler.bib)

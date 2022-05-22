@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+22 May '22
+:   Our journal paper "Intrusion Prevention through Optimal Stopping" was accepted to IEEE Transactions on Network and Service Management and is available in [early access](https://ieeexplore.ieee.org/document/9779345)
+
 30 Apr '22
 Our demonstration at IEEE/IFIP Network Operations and Management Symposium was awarded the best demonstration [award](/assets/awards/NOMS_2022_Best_Demo_Award.pdf). A preprint is available [here](https://arxiv.org/abs/2204.01126) and a video of the demonstration is available [here](https://www.youtube.com/watch?v=18P7MjPKNDg)
 ![NOMS22Budapest](/assets/noms22.jpeg "NOMS 2022")
