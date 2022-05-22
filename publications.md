@@ -3,6 +3,23 @@ layout: page
 title: Publications
 ---
 
+### Journals
+
+2022
+:   **Intrusion Prevention through Optimal Stopping**; Journal paper, TNSM 2022: IEEE Transactions on Network and Service Management (IEEE TNSM), special issue on recent advances in network security management.
+    **Kim Hammar** and Rolf Stadler
+	[Link](https://ieeexplore.ieee.org/document/9779345)
+	[arXiv(preprint)](https://arxiv.org/abs/2111.00289)
+	[PDF(preprint)](/assets/papers/TNSM_22_Hammar_Stadler_Draft_30_Oct_21.pdf)
+	[bib](/assets/citations/tnsm_22_hammar_stadler.bib)
+
+2020
+:   **Deep text classification of Instagram data using word embeddings and weak supervision**; Journal paper, Web Intelligence 2020.
+    **Kim Hammar**, Shatha Jaradat, Nima Dokoohaki and Mihhail Matskin
+	[Link](https://content.iospress.com/articles/web-intelligence/web200428)
+	[PDF](/assets/papers/journal_wi_2020_hammar_jaradat_dokohaaki_matskin.pdf)
+	[bib](/assets/citations/wi_journal.bib)
+
 ### Conferences
 
 2022
@@ -60,23 +77,6 @@ Mihhail Matskin
 	[PDF](/assets/papers/deep_text_mining_wi18.pdf)
 	[ArXiv](https://arxiv.org/abs/1909.10812)
     [bib](/assets/citations/text_mining.bib)
-
-### Journals
-
-2022
-:   **Intrusion Prevention through Optimal Stopping**; Journal paper, TNSM 2022: IEEE Transactions on Network and Service Management (IEEE TNSM), special issue on recent advances in network security management.
-    **Kim Hammar** and Rolf Stadler
-	[Link](https://ieeexplore.ieee.org/document/9779345)
-	[arXiv(preprint)](https://arxiv.org/abs/2111.00289)
-	[PDF(preprint)](/assets/papers/TNSM_22_Hammar_Stadler_Draft_30_Oct_21.pdf)
-	[bib](/assets/citations/tnsm_22_hammar_stadler.bib)
-
-2020
-:   **Deep text classification of Instagram data using word embeddings and weak supervision**; Journal paper, Web Intelligence 2020.
-    **Kim Hammar**, Shatha Jaradat, Nima Dokoohaki and Mihhail Matskin
-	[Link](https://content.iospress.com/articles/web-intelligence/web200428)
-	[PDF](/assets/papers/journal_wi_2020_hammar_jaradat_dokohaaki_matskin.pdf)
-	[bib](/assets/citations/wi_journal.bib)
 
 ### Posters
 

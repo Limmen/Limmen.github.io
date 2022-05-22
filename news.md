@@ -7,17 +7,17 @@ title: News
 :   Our journal paper "Intrusion Prevention through Optimal Stopping" was accepted to IEEE Transactions on Network and Service Management and is available in [early access](https://ieeexplore.ieee.org/document/9779345)
 
 30 Apr '22
-Our demonstration at IEEE/IFIP Network Operations and Management Symposium was awarded the best demonstration [award](/assets/awards/NOMS_2022_Best_Demo_Award.pdf). A preprint is available [here](https://arxiv.org/abs/2204.01126) and a video of the demonstration is available [here](https://www.youtube.com/watch?v=18P7MjPKNDg)
+:   Our demonstration at IEEE/IFIP Network Operations and Management Symposium was awarded the best demonstration [award](/assets/awards/NOMS_2022_Best_Demo_Award.pdf). A preprint is available [here](https://arxiv.org/abs/2204.01126) and a video of the demonstration is available [here](https://www.youtube.com/watch?v=18P7MjPKNDg)
 ![NOMS22Budapest](/assets/noms22.jpeg "NOMS 2022")
 
 14 Apr '22
-A demonstration of our method for finding effective security strategies through reinforcement learning is [available](https://www.youtube.com/watch?v=18P7MjPKNDg)
+:   A demonstration of our method for finding effective security strategies through reinforcement learning is [available](https://www.youtube.com/watch?v=18P7MjPKNDg)
 
 11 Mar '22
-Our demo paper "A System for Interactive Examination of Learned Security Policies" was accepted to NOMS´22, a preprint is [available](/assets/papers/NOMS22_Demo_Policy_Examination_System_Hammar_Stadler_28_Jan_2022.pdf)
+:   Our demo paper "A System for Interactive Examination of Learned Security Policies" was accepted to NOMS´22, a preprint is [available](/assets/papers/NOMS22_Demo_Policy_Examination_System_Hammar_Stadler_28_Jan_2022.pdf)
 
 17 Jan '22
-We had a poster presentation at the Digital Futures Machine Learning day at KTH.
+:   We had a poster presentation at the Digital Futures Machine Learning day at KTH.
 ![df_poster](/assets/poster-df-jan-22.jpg "Poster January 2022")
 
 30 Oct '21
