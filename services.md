@@ -3,6 +3,9 @@ layout: page
 title: Services
 ---
 
+**Technical chair CDIS Spring Conference 2022**
+[link](https://www.kth.se/cdis)
+
 **Session chair NOMS 2022** (IEEE/IFIP Network Operations and Management Symposium). Technical session on management and orchestration methods.
 [link](https://noms2022.ieee-noms.org/)
 
