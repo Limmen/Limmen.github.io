@@ -23,6 +23,12 @@ title: Publications
 ### Conferences
 
 2022
+:   **Learning Security Strategies through Game Play and Optimal Stopping**; Conference paper, ICML Ml4Cyber Workshop 2022: International Conference on Machine Learning, Baltimore, USA July 17-23.
+    **Kim Hammar** and Rolf Stadler
+	[PDF(extended version preprint)](/assets/papers/icml_ml4cyber_workshop_extended_version_27_may.pdf)
+
+
+2022
 :   **A System for Interactive Examination of Learned Security Policies**; <span style="color:red">(Best demonstration paper award)</span>; [Diploma](/assets/awards/NOMS_2022_Best_Demo_Award.pdf); Conference paper, NOMS 2022: IEEE/IFIP Network Operations and Management Symposium, Budapest, Hungary April 25-29.
     **Kim Hammar** and Rolf Stadler
 	[Video](https://www.youtube.com/watch?v=18P7MjPKNDg)
