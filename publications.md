@@ -25,7 +25,7 @@ title: Publications
 2022
 :   **Learning Security Strategies through Game Play and Optimal Stopping**; Conference paper, ICML Ml4Cyber Workshop 2022: International Conference on Machine Learning, Baltimore, USA July 17-23.
     **Kim Hammar** and Rolf Stadler
-	[PDF(extended version preprint)](/assets/papers/icml_ml4cyber_workshop_extended_version_27_may.pdf)
+	[PDF(extended version preprint)](/assets/papers/ml4cy_ext.pdf)
 
 
 2022
