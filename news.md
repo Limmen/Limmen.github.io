@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+
+30 Oct '21
+:   A preprint of our paper "Learning Security Strategies through Game Play and Optimal Stopping" is [available](https://arxiv.org/abs/2205.14694). To be submitted.
+
 24 May '22
 :   We presented a poster at the CDIS spring conference at KTH.
    ![cdis_spring_conf_poster](/assets/poster_cdis_spring_conference_may_24_2022.jpg "Poster May 2022")

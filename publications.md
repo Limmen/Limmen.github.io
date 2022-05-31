@@ -3,6 +3,14 @@ layout: page
 title: Publications
 ---
 
+### Preprints
+
+2022
+:   **Learning Security Strategies through Game Play and Optimal Stopping**; To be submitted.
+    **Kim Hammar** and Rolf Stadler
+	[arXiv(preprint)](https://arxiv.org/abs/2205.14694)
+	[PDF(preprint)](/assets/papers/ml4cy_ext.pdf)
+
 ### Journals
 
 2022
