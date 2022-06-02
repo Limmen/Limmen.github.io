@@ -6,7 +6,7 @@ title: News
 2 Jun '21
 :   Jakob Stymne, master thesis student in our group, successfully defended his M.Sc., with thesis entitled ["Self-Play Reinforcement Learning for Finding Intrusion Prevention Strategies"](/assets/papers/Master_Thesis_Jakob_Stymne_Final_2_June.pdf).
 
-30 Oct '21
+29 May '21
 :   A preprint of our paper "Learning Security Strategies through Game Play and Optimal Stopping" is [available](https://arxiv.org/abs/2205.14694). To be submitted.
 
 24 May '22
