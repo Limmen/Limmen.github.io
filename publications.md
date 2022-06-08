@@ -95,6 +95,11 @@ Mihhail Matskin
 ### Posters
 
 2022
+:   **Intrusion Prevention through Optimal Stopping**; Poster, KTH EECS Summer Conference 8 June 2022.
+    **Kim Hammar** and Rolf Stadler
+	[PDF](/assets/papers/poster_eecs_summer_event_8_june_hammar_stadler.pdf)
+
+2022
 :   **Intrusion Prevention through Optimal Stopping**; Poster, CDIS Spring Conference 24 May 2022.
     **Kim Hammar** and Rolf Stadler
 	[PDF](/assets/papers/CDIS_Conference_Poster_24_May_Hammar_Stadler.pdf)
