@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+8 June '22
+:   We presented a poster at the EECS conference at KTH.
+   ![cdis_spring_conf_poster](/assets/eecs_day_kth_8_june_22.jpg "Poster June 2022")
+
 2 Jun '21
 :   Jakob Stymne, master thesis student in our group, successfully defended his M.Sc., with thesis entitled ["Self-Play Reinforcement Learning for Finding Intrusion Prevention Strategies"](/assets/papers/Master_Thesis_Jakob_Stymne_Final_2_June.pdf).
 
