@@ -3,9 +3,10 @@ layout: page
 title: Teaching
 ---
 
-2022-
+2022
 :   **Master thesis**;
-	Jakob Stymne, -, Spring 2022.
+	Jakob Stymne, Self-Play Reinforcement Learning for Finding Intrusion Prevention Strategies, Spring 2022.
+    [PDF](/assets/papers/Master_Thesis_Jakob_Stymne_Final_2_June.pdf)
 
 2021
 :   **Master thesis**;

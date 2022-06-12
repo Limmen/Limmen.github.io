@@ -79,7 +79,7 @@ Mihhail Matskin
 
 
 2018
-:   **Dynamic CNN Models For Fashion Recommendation in Instagram**; Conference Paper, nternational Conference on Social Computing and Networking (SocialCom 2018), 11-13 Dec. 2018, Melbourne, Australia.
+:   **Dynamic CNN Models For Fashion Recommendation in Instagram**; Conference Paper, International Conference on Social Computing and Networking (SocialCom 2018), 11-13 Dec. 2018, Melbourne, Australia.
 	Shatha Jaradat, Nima Dokoohaki, **Kim Hammar**, Ummul Wara and Mihhail Matskin
 	[Link](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1319767&dswid=2781)
     [bib](/assets/citations/dynamic_cnn.bib)
