@@ -16,7 +16,7 @@ title: Publications
 2022
 :   **Intrusion Prevention through Optimal Stopping**; Journal paper, TNSM 2022: IEEE Transactions on Network and Service Management (IEEE TNSM), special issue on recent advances in network security management.
     **Kim Hammar** and Rolf Stadler
-	[Link](https://ieeexplore.ieee.org/document/9779345)
+	[IEEE Proceedings](https://ieeexplore.ieee.org/document/9779345)
 	[arXiv(preprint)](https://arxiv.org/abs/2111.00289)
 	[PDF(preprint)](/assets/papers/TNSM_22_Hammar_Stadler_Draft_30_Oct_21.pdf)
 	[bib](/assets/citations/tnsm_22_hammar_stadler.bib)
@@ -40,6 +40,7 @@ title: Publications
 :   **A System for Interactive Examination of Learned Security Policies**; <span style="color:red">(Best demonstration paper award)</span>; [Diploma](/assets/awards/NOMS_2022_Best_Demo_Award.pdf); Conference paper, NOMS 2022: IEEE/IFIP Network Operations and Management Symposium, Budapest, Hungary April 25-29.
     **Kim Hammar** and Rolf Stadler
 	[Video](https://www.youtube.com/watch?v=18P7MjPKNDg)
+    [IEEE Proceedings](https://ieeexplore.ieee.org/document/9789707)
 	[PDF(preprint)](/assets/papers/NOMS22_Demo_Policy_Examination_System_Hammar_Stadler_28_Jan_2022.pdf)
 	[arXiv(preprint)](https://arxiv.org/abs/2204.01126)
 	[bib](/assets/citations/hammar_stadler_noms_22_demo)

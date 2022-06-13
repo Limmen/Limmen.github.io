@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+13 June '22
+:   Our conference paper "A System for Interactive Examination of Learned Security Policies" is available in the NOMS´22 [proceedings](https://ieeexplore.ieee.org/document/9789707).
+
 8 June '22
 :   We presented a poster at the EECS conference at KTH.
    ![cdis_spring_conf_poster](/assets/eecs_day_kth_8_june_22.jpg "Poster June 2022")
