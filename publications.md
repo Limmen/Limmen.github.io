@@ -166,11 +166,15 @@ Mihhail Matskin
 	Forough Shahab and **Kim Hammar**
 	[PDF](/assets/papers/self_driving_systems_poc.pdf)
 
-
 2018
 :   **Programming the Semantic Web**; 12 Jan 2018. A Tutorial.
 	**Kim Hammar**
 	[PDF](/assets/papers/programming_semweb.pdf)
+
+2017
+:   **Distributed Human Activity Recognition**; Dec 2017. Scalable Deep Learning Course Project at KTH. <span style="color:red">(Wong a GPU for best project award) </span>;
+	**Kim Hammar** and Konstantin Sozinov
+	[Link](https://github.com/Limmen/Distributed_ML)
 
 2017
 :   **Machine Learning for Failure Detection in Distributed Systems**; 23 Nov 2017. A project report.
