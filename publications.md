@@ -172,7 +172,7 @@ Mihhail Matskin
 	[PDF](/assets/papers/programming_semweb.pdf)
 
 2017
-:   **Distributed Human Activity Recognition**; Dec 2017. Scalable Deep Learning Course Project at KTH. <span style="color:red">(Wong a GPU for best project award) </span>;
+:   **Distributed Human Activity Recognition**; Dec 2017. Scalable Deep Learning Course Project at KTH. <span style="color:red">(Best project award, awarded a graphics card) </span>;
 	**Kim Hammar** and Konstantin Sozinov
 	[Link](https://github.com/Limmen/Distributed_ML)
 
