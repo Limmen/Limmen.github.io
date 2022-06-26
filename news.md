@@ -4,7 +4,7 @@ title: News
 ---
 
 26 June '22
-:   Our conference paper "A System for Interactive Examination of Learned Security Policies" was accepted to the [Machine learning or cyber security workshop at ICML´22](https://sites.google.com/view/icml-ml4cyber/accepted-papers).
+:   Our conference paper "A System for Interactive Examination of Learned Security Policies" was accepted to the [Machine learning for cyber security workshop at ICML´22](https://sites.google.com/view/icml-ml4cyber/accepted-papers).
 
 13 June '22
 :   Our conference paper "A System for Interactive Examination of Learned Security Policies" is available in the NOMS´22 [proceedings](https://ieeexplore.ieee.org/document/9789707).
