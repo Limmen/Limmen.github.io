@@ -4,7 +4,7 @@ title: News
 ---
 
 26 June '22
-:   Our conference paper "Learning Security Strategies through Game Play and Optimal Stopping" was accepted to the [Machine learning for cyber security workshop at ICML´22](https://sites.google.com/view/icml-ml4cyber/accepted-papers), a preprint version is available [here](icml_ml4cyber_Hammar_Stadler_final_24_june_2022.pdf)
+:   Our conference paper "Learning Security Strategies through Game Play and Optimal Stopping" was accepted to the [Machine learning for cyber security workshop at ICML´22](https://sites.google.com/view/icml-ml4cyber/accepted-papers), a preprint version is available [here](/assets/papers/icml_ml4cyber_Hammar_Stadler_final_24_june_2022.pdf)
 
 13 June '22
 :   Our conference paper "A System for Interactive Examination of Learned Security Policies" is available in the NOMS´22 [proceedings](https://ieeexplore.ieee.org/document/9789707).
