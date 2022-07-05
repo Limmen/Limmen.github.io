@@ -4,7 +4,7 @@ title: Services
 ---
 
 **Reviewer CSAE 2022** (The 6th international conference on computer science and application engineering)
-[link](http://www.csaeconf.org/)
+[link](http://www.csaeconf.org/) [certificate](/assets/awards/csae_22_certificate.pdf)
 
 **Technical chair CDIS Spring Conference 2022**
 [link](https://www.kth.se/cdis)
