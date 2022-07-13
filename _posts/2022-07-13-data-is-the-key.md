@@ -1,0 +1,8 @@
+---
+title: Data is the key.
+updated: 2022-07-13 11:26
+---
+
+I believe data is by far the most important ingredient to a any data-driven control system, the algorithms and the optimization techniques are secondary. If high quality data is obtained in a timely fashion, optimal control becomes simple. Yet most projects start out by optimizing algorithms, without taking into account the structure of the data that the system will be faced with in operation looks like. This type of optimization is premature in my opinion. If the goal is to build practical control systems that can be deployed in practice, the main focus in the beginning of the project should be to optimize the data collection and data prepossessing pipelines. Only when this cannot be improved further should the learning algorithms and optimization techniques be tweaked. The challenge is, of course, that obtaining perfect quality data at the right time (i.e. in real-time) is not always possible. When this is not possible, optimization techniques and utilizing theoretical insights become crucial and can have real impact. However, starting out by tuning algorithms on synthetic data without taking into account the operational data is not the right approach in my opinion, it is premature. The big gains in performance and accuracy of your control system can be obtained by collecting better and more timely data; the gains obtained through algorithmic optimizations is marginal in comparison.
+
+In summary, while tuning algorithms and optimization techniques in simulation is important and fun, we (researchers in control and learning systems) should not forger about the data problem, which is perhaps more important in practice.
