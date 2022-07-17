@@ -8,6 +8,7 @@ title: Talks
     **Kim Hammar** and Rolf Stadler
 	[Slides](https://www.slideshare.net/KimHammar/learning-security-strategies-through-game-play-and-optimal-stopping)
 	[PDF](/assets/slides/ICML_22_HAMMAR_STADLER_SLIDES.PDF)
+    [Video](https://www.youtube.com/watch?v=Qz6huGXjhec)
 
 2022
 :   **A System for Interactive Examination of Learned Security Policies**; Budapest, NOMS 2022: IEEE/IFIP Network Operations and Management Symposium April 25-29.

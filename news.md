@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+17 Jul '22
+:   Attending ICML 22 in Baltimore. We will present our paper "Learning Security Strategies through Game Play and Optimal Stopping ([Camera ready version](/assets/papers/icml_ml4cyber_Hammar_Stadler_final_24_june_2022.pdf)) on 22 July at the workshop on machine learning for cyber security ([workshop](https://sites.google.com/view/icml-ml4cyber/home)). A pre-recorded video of our presentation is [available](https://www.youtube.com/watch?v=Qz6huGXjhec).
+
 26 June '22
 :   Our conference paper "Learning Security Strategies through Game Play and Optimal Stopping" was accepted to the [Machine learning for cyber security workshop at ICML´22](https://sites.google.com/view/icml-ml4cyber/accepted-papers), a preprint version is available [here](/assets/papers/icml_ml4cyber_Hammar_Stadler_final_24_june_2022.pdf)
 
