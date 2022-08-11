@@ -17,7 +17,7 @@ A finite discrete-time Markov process $$(X_t)_{t\geq 1}$$ is a stochastic proces
 
 **Accessible state.** A state $$j \in \mathcal{S}$$ of a discrete-time and finite Markov process $$\langle \mathcal{S}, \mathcal{P} \rangle$$ is *accessible* from another state $$i \in \mathbb{S}$$, and we write $$i \rightarrow j$$, if there exists a *finite* integer $$n \geq 0$$ such that:
 $$\mathcal{P}^{n}_{i,j} = \mathbb{P}\left[X_n = j | X_0 = i\right] > 0$$
-  In other words, it is possible to travel from $$i$$ to $$j$$ with non-zero probability in a certain (random) number of steps.
+In other words, it is possible to travel from $$i$$ to $$j$$ with non-zero probability in a certain (random) number of steps.
 
 **Recurrent state.** A state $$i \in \mathcal{S}$$ of a discrete-time and finite Markov process $$\langle \mathcal{S}, \mathcal{P} \rangle$$ is *recurrent* if, starting from state $$i$$, the process will return to state $$i$$ within a finite (random) time $$T^r_i$$, with probability $$1$$, i.e.
 $$\mathcal{P}_{i,i} = \mathbb{P}\left[T_i^r < \infty | X_0 = i\right] = \mathbb{P}[X_n = i \text{ for some } n \geq 1 | X_0 = i] = 1$$
@@ -77,7 +77,9 @@ $$
 
 **Existence of stationary distribution.** It is trivial to show that the Markov process defined above has a unique stationary distribution by applying the fundamental theorem.
 
-To show that the process is ergodic (irreducible) it is sufficient to show that each state $$X_i \in \mathcal{S}$$ is accessible from every other state $$X_j \in \mathcal{S}$$. In other words $$i \leftrightarrow j \forall i,j \in \mathcal{S}$$. Hence, we have to show that $$\mathcal{P}_{i,j}^{n} = \mathbb{P}[X_n=j|X_0 = i] > 0$$
+To show that the process is ergodic (irreducible) it is sufficient to show that each state $$X_i \in \mathcal{S}$$ is accessible from every other state $$X_j \in \mathcal{S}$$. In other words $$i \leftrightarrow j \forall i,j \in \mathcal{S}$$. Hence, we have to show that
+$$\mathcal{P}^{n}_{i,j} = \mathbb{P}\left[X_n = j | X_0 = i\right] > 0$$
+
 
 ### Finding the Stationary Distribution through Spectral Analysis
 
