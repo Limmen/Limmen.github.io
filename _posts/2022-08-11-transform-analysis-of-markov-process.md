@@ -77,7 +77,7 @@ $$
 
 **Existence of stationary distribution.** It is trivial to show that the Markov process defined above has a unique stationary distribution by applying the fundamental theorem.
 
-To show that the process is ergodic (irreducible) it is sufficient to show that each state $$X_i \in \mathcal{S}$$ is accessible from every other state $$X_j \in \mathcal{S}$$. In other words $$i \leftrightarrow j \forall i,j \in \mathcal{S}$$. Hence, we have to show that $$\mathcal{P}_{i,j}^{n}$$
+To show that the process is ergodic (irreducible) it is sufficient to show that each state $$X_i \in \mathcal{S}$$ is accessible from every other state $$X_j \in \mathcal{S}$$. In other words $$i \leftrightarrow j \forall i,j \in \mathcal{S}$$. Hence, we have to show that $$\mathcal{P}_{i,j}^{n} = \mathbb{P}[X_n=j|X_0 = i] > 0$$
 
 ### Finding the Stationary Distribution through Spectral Analysis
 
