@@ -79,7 +79,9 @@ $$
 
 To show that the process is ergodic (irreducible) it is sufficient to show that each state $$X_i \in \mathcal{S}$$ is accessible from every other state $$X_j \in \mathcal{S}$$. In other words $$i \leftrightarrow j \forall i,j \in \mathcal{S}$$. Hence, we have to show that
 $$\mathcal{P}^{n}_{i,j} = \mathbb{P}\left[X_n = j | X_0 = i\right] > 0$$
+for some $$n$$ for each $$i,j\in \mathcal{S}$$. This follows directly from the definition of $$\mathcal{P}$$ where $$\mathcal{P}_{1,1} = 0.8$$, $$\mathcal{P}_{1,2} = 0.2$$, $$\mathcal{P}_{2,1} = 0.3$$, $$\mathcal{P}_{2,2} = 0.7$$.
 
+To show that the process is aperiodic we must show that all states $$X_i \in \mathcal{S}$$ are aperiodic. By definition, a state is periodic if the length of \underline{all} cycles to that state have a greatest common divisor (GCD) that is \underline{larger} than $$1$$. Thus, to show that a state $$i$$ is *aperiodic* it is sufficient to show that the GCD of the length of two cycles to state $$i$$ are co-prime, i.e. have a GCD of $$1$$. Since both state $$1$$ and $$2$$ have cycles of length $$1$$ they are both aperiodic and hence the process is aperiodic.
 
 ### Finding the Stationary Distribution through Spectral Analysis
 
