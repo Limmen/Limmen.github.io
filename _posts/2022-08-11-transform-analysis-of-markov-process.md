@@ -11,7 +11,7 @@ A finite discrete-time Markov process $$(X_t)_{t\geq 1}$$ is a stochastic proces
 
 ### Classification of States
 
-**Absorbing state**. A state $$i \in \mathcal{S}$$ of a discrete-time and finite Markov process $$\langle \mathcal{S}, \mathcal{P} \rangle$$ is *absorbing if it is impossible to leave it. That is, $$\mathcal{P}_{ii} = 1$$. A Markov process is absorbing if it has at least one absorbing state, and if from every state it is possible to go to an absorbing state (not necessarily in one step).
+**Absorbing state**. A state $$i \in \mathcal{S}$$ of a discrete-time and finite Markov process $$\langle \mathcal{S}, \mathcal{P} \rangle$$ is *absorbing* if it is impossible to leave it. That is, $$\mathcal{P}_{ii} = 1$$. A Markov process is absorbing if it has at least one absorbing state, and if from every state it is possible to go to an absorbing state (not necessarily in one step).
 
 **Periodic state**. A state $$i \in \mathcal{S}$$ of a discrete-time and finite Markov process $$\langle \mathcal{S}, \mathcal{P} \rangle$$ is *periodic* with (with period $$k > 1$$) if $$k$$ is the smallest number such that all the paths leading from state $$i$$ back to state i have a period that is a multiple of $$k$$. Thus it is possible to predict the number of steps until the Markov process will revisit a periodic state. In other words, for a periodic state, all cycles to that state have a greatest common divisor (GCD) that is greater than $$1$$.
 
@@ -36,9 +36,16 @@ When analyzing discrete-time Markov processes in the limit, you can be assured t
 ### Limiting and Stationary Distributions
 
 **Limiting distribution of a Markov process.** A discrete-time and finite Markov process $$\langle \mathcal{S}, \mathcal{P} \rangle$$ is said to admit a *limiting probability distribution* if the following conditions are satisfied:
-- the limits $$\lim_{n \rightarrow \infty} \mathbb{P}[X_n = j | X_0 = i]$$ exists for all $$i,j \in \mathcal{S}$$ and
+- the limits :
+
+$$\lim_{n \rightarrow \infty} \mathbb{P}[X_n = j | X_0 = i]$$
+
+exists for all $$i,j \in \mathcal{S}$$ and,
+
 - they form a *probability distribution* on $$\mathcal{S}$$, i.e.
-  $$\sum_{j \in \mathbb{S}} \lim_{n\rightarrow \infty}\mathbb{P}[X_n = j | X_0 = i] = 1$$
+
+$$\sum_{j \in \mathbb{S}} \lim_{n\rightarrow \infty}\mathbb{P}[X_n = j | X_0 = i] = 1$$
+
   for all $$i \in \mathcal{S}$$.
 
 **Stationary Distribution of a Markov process.** Suppose a distribution $$\pi^{*}$$ over states $$\mathcal{S}$$ is such that, if our discrete-time and finite Markov process $$\langle \mathcal{S}, \mathcal{P} \rangle$$ starts out with initial distribution $$\pi_{0} = \pi^{*}$$, then we also have $$\pi_1 = \pi^{*}$$. If that is the case, then $$\pi^{*}$$ is called a stationary distribution for the Markov process. A Markov process that starts out in a stationary distribution $$\pi^{*}$$ stays in the distribution $$\pi^{*}$$ forever. Formally, a stationary distribution $$\pi^{*}$$ is one such that:
