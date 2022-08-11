@@ -7,32 +7,32 @@ In this post I will explain how to use transforms to analyze finite discrete-tim
 
 ## A Review of discrete-time Markov Processes and their Stationary Distributions
 
-A finite discrete-time Markov process $(X_t)_{t\geq 1}$ is a stochastic process defined by $\langle \mathcal{S}, \mathcal{P} \rangle$ where $\mathcal{S} = \{1,2,\hdots,|\mathcal{S}|\}$ is the state space and $\mathcal{P} \in \mathbb{R}^{|\mathcal{S}|^2}$ is a square row-stochastic transition matrix and the transitions $X_t\rightarrow X_{t+1}$ satisfies the Markov property:
+A finite discrete-time Markov process $$(X_t)_{t\geq 1}$$ is a stochastic process defined by $$\langle \mathcal{S}, \mathcal{P} \rangle$$ where $$\mathcal{S} = \{1,2,\hdots,|\mathcal{S}|\}$$ is the state space and $$\mathcal{P} \in \mathbb{R}^{|\mathcal{S}|^2}$$ is a square row-stochastic transition matrix and the transitions $$X_t\rightarrow X_{t+1}$$ satisfies the Markov property:
 $$\mathbb{P}[X_{t+1}|X_t,X_{t-1}, \hdots, X_1] = \mathbb{P}[X_{t+1}|X_t]$$
 
-From the Chapman-Kolmogorov equations we obtain that the $t$-step transition probabilities are given by the matrix power $\mathcal{P}^t$:
+From the Chapman-Kolmogorov equations we obtain that the $$t$$-step transition probabilities are given by the matrix power $$\mathcal{P}^t$$:
 $$\mathbb{P}\left[X_{t} = j | X_0 = i \right] = \mathbb{P}\left[X_{n+t} = j | X_n = i \right] = (\mathcal{P}^{t})_{ij} \quad\quad \text{for any n}$$
 
-Similarly, the probability distribution of $X_t$ at time $t$ given that the initial state distribution is given by the row vector $\pi_{0}^T$ is:
+Similarly, the probability distribution of $$X_t$$ at time $$t$$ given that the initial state distribution is given by the row vector $$\pi_{0}^T$$ is:
 $$X_0 \sim \pi_{0}^{T} \implies X_t \sim \pi_{0}^{T}\mathcal{P}^t$$
 
 ### Classification of States
 
-**Absorbing state**. A state $i \in \mathcal{S}$ of a discrete-time and finite Markov process $\langle \mathcal{S}, \mathcal{P} \rangle$ is *absorbing if it is impossible to leave it. That is, $\mathcal{P}_{ii} = 1$. A Markov process is absorbing if it has at least one absorbing state, and if from every state it is possible to go to an absorbing state (not necessarily in one step).
+**Absorbing state**. A state $$i \in \mathcal{S}$$ of a discrete-time and finite Markov process $$\langle \mathcal{S}, \mathcal{P} \rangle$$ is *absorbing if it is impossible to leave it. That is, $$\mathcal{P}_{ii} = 1$$. A Markov process is absorbing if it has at least one absorbing state, and if from every state it is possible to go to an absorbing state (not necessarily in one step).
 
-**Periodic state**. A state $i \in \mathcal{S}$ of a discrete-time and finite Markov process $\langle \mathcal{S}, \mathcal{P} \rangle$ is *periodic* with (with period $k > 1$) if $k$ is the smallest number such that all the paths leading from state $i$ back to state i have a period that is a multiple of $k$. Thus it is possible to predict the number of steps until the Markov process will revisit a periodic state. In other words, for a periodic state, all cycles to that state have a greatest common divisor (GCD) that is greater than $1$.
+**Periodic state**. A state $$i \in \mathcal{S}$$ of a discrete-time and finite Markov process $$\langle \mathcal{S}, \mathcal{P} \rangle$$ is *periodic* with (with period $$k > 1$$) if $$k$$ is the smallest number such that all the paths leading from state $$i$$ back to state i have a period that is a multiple of $$k$$. Thus it is possible to predict the number of steps until the Markov process will revisit a periodic state. In other words, for a periodic state, all cycles to that state have a greatest common divisor (GCD) that is greater than $$1$$.
 
-**Accessible state.** A state $j \in \mathcal{S}$ of a discrete-time and finite Markov process $\langle \mathcal{S}, \mathcal{P} \rangle$ is *accessible* from another state $i \in \mathbb{S}$, and we write $i \rightarrow j$, if there exists a *finite* integer $n \geq 0$ such that:
+**Accessible state.** A state $$j \in \mathcal{S}$$ of a discrete-time and finite Markov process $$\langle \mathcal{S}, \mathcal{P} \rangle$$ is *accessible* from another state $$i \in \mathbb{S}$$, and we write $$i \rightarrow j$$, if there exists a *finite* integer $$n \geq 0$$ such that:
 $$\mathcal{P}^{n}_{i,j} = \mathbb{P}\left[X_n = j | X_0 = i\right] > 0$$
-  In other words, it is possible to travel from $i$ to $j$ with non-zero probability in a certain (random) number of steps.
+  In other words, it is possible to travel from $$i$$ to $$j$$ with non-zero probability in a certain (random) number of steps.
 
-**Recurrent state.** A state $i \in \mathcal{S}$ of a discrete-time and finite Markov process $\langle \mathcal{S}, \mathcal{P} \rangle$ is *recurrent* if, starting from state $i$, the process will return to state $i$ within a finite (random) time $T^r_i$, with probability $1$, i.e.
+**Recurrent state.** A state $$i \in \mathcal{S}$$ of a discrete-time and finite Markov process $$\langle \mathcal{S}, \mathcal{P} \rangle$$ is *recurrent* if, starting from state $$i$$, the process will return to state $$i$$ within a finite (random) time $$T^r_i$$, with probability $$1$$, i.e.
 $$\mathcal{P}_{i,i} = \mathbb{P}\left[T_i^r < \infty | X_0 = i\right] = \mathbb{P}[X_n = i \text{ for some } n \geq 1 | X_0 = i] = 1$$
 
-**Transient state.** A state $i \in \mathcal{S}$ of a discrete-time and finite Markov process $\langle \mathcal{S}, \mathcal{P} \rangle$ is *transient* when it is not recurrent, i.e.
+**Transient state.** A state $$i \in \mathcal{S}$$ of a discrete-time and finite Markov process $$\langle \mathcal{S}, \mathcal{P} \rangle$$ is *transient* when it is not recurrent, i.e.
 $$\mathcal{P}_{i,i} = \mathbb{P}\left[T_i^r < \infty | X_0 = i\right] = \mathbb{P}[X_n = i \text{ for some }n \geq 1 | X_0 = i] < 1$$
 
-When analyzing discrete-time Markov processes in the limit, you can be assured that as $t\rightarrow \infty$, the Markov process will eventually leave a transient state and never revisit again. Similarly, as $t\rightarrow \infty$ you can be assured that the Markov process will eventually revisit a recurrent state (assuming that it has visited that state before). Sometimes, a Markov process contains multiple ``classes'' (sub-graphs in the graphical model) of recurrent states as well as some transient states that connects the two recurrent classes. In such cases, depending on in which recurrent class the Markov process starts in, or to which recurrent class it transitions in case it starts in a transient state, the limiting behavior of the Markov process will be different.
+When analyzing discrete-time Markov processes in the limit, you can be assured that as $$t\rightarrow \infty$$, the Markov process will eventually leave a transient state and never revisit again. Similarly, as $$t\rightarrow \infty$$ you can be assured that the Markov process will eventually revisit a recurrent state (assuming that it has visited that state before). Sometimes, a Markov process contains multiple ``classes'' (sub-graphs in the graphical model) of recurrent states as well as some transient states that connects the two recurrent classes. In such cases, depending on in which recurrent class the Markov process starts in, or to which recurrent class it transitions in case it starts in a transient state, the limiting behavior of the Markov process will be different.
 
 ### Classification of Markov Processes
 
