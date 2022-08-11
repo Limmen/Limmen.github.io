@@ -7,7 +7,7 @@ In this post I will explain how to use transforms to analyze finite discrete-tim
 
 ## A Review of discrete-time Markov Processes and their Stationary Distributions
 
-A finite discrete-time Markov process $$(X_t)_{t\geq 1}$$ is a stochastic process defined by $$\langle \mathcal{S}, \mathcal{P} \rangle$$ where $$\mathcal{S} = \{1,2,\hdots,|\mathcal{S}|\} $$
+A finite discrete-time Markov process $$(X_t)_{t\geq 1}$$ is a stochastic process defined by $$\langle \mathcal{S}, \mathcal{P} \rangle$$
 
 ### Classification of States
 
