@@ -86,15 +86,25 @@ To show that the process is aperiodic we must show that all states $$X_i \in \ma
 ### Finding the Stationary Distribution through Spectral Analysis
 
 The equation for the stationary distribution of the Markov chain is $$\pi^T\mathcal{P} = \pi^T$$ where $$\pi^{T}$$ is a row vector, this is equivalent to the eigenvalue problem:
+
 $$(\pi^T\mathcal{P})^T = (\pi^T)^T$$
+
 $$\mathcal{P}^T\pi = \pi$$
+
 Hence, $$\pi$$ is an eigenvector of $$\mathcal{P}^T$$ with eigenvalue $$\lambda_1 = 1$$. The stationary distribution for the Markov process derived below by solving the mentioned eigenvalue problem.
+
 $$\mathcal{P}^T\pi = \pi$$
+
 $$\implies \mathcal{P}^T\pi -\pi = 0$$
+
 $$\implies (\mathcal{P}^T - I)\pi = 0$$
+
 For a usual eigenvalue problem we would first have to compute the eigenvalue $$\lambda$$ but in this case we know, from the fundamental theorem that the eigenvalue is $$1$$ and hence we can proceed to calculate the eigenvector by solving the equation:
+
 $$(\mathcal{P}^T - I)\pi = 0$$
+
 where
+
 $$\mathcal{P}^T - I =
 \begin{bmatrix}
 0.8 & 0.3\\
@@ -111,7 +121,9 @@ $$\mathcal{P}^T - I =
 0.2 & -0.3
 \end{bmatrix}
 $$
+
 Hence, the principal eigenvector $$\pi$$ is the solution to the equation:
+
 $$
 \begin{bmatrix}
 -0.2 & 0.3 \\
@@ -123,6 +135,7 @@ $$
   0
 \end{bmatrix}
 $$
+
 Adding the constraint that $$\sum_i \pi_i = 1$$, we get the linear system.
 $$
 \begin{bmatrix}
@@ -131,7 +144,9 @@ $$
 1 & 1 & 1
 \end{bmatrix}
 $$
+
 Performing Gauss-jordian reduction using elentary row operations we get the eigenvector:
+
 $$
 \pi =
 \begin{bmatrix}
@@ -144,6 +159,7 @@ which also, by the fundamental theorem, is the stationary distribution of the Ma
 ### Finding the Stationary Distribution through Power Iteration
 
 For large matrices it may not be convenient to calculate the principal eigenvector algebraically. In this case, the *power iteration* method can be used, which computes the eigenvector iteratively through the following update:
+
 $$
 \pi = \frac{\mathcal{P}^T\pi}{\pi}
 $$
@@ -157,6 +173,7 @@ In our case, power iteration converges in less than around $$20$$ iterations:
 An alternative approach to understanding the asymptotic behavior of a Markov process is through transform analysis. In particular, we will see that we can obtain a closed form expression for the $$t$$-step transition matrix as $$t \rightarrow \infty$$ by using the *z-transform*, from which the stationary distribution of the Markov process can be extracted.
 
 Recall that the $$t$$-step transition probabilities are given by the Chapman-Kolmogorov equations:
+
 $$\mathbb{P}\left[X_{t} = j | X_0 = i \right] = \mathbb{P}\left[X_{n+t} = j | X_n = i \right] = (\mathcal{P}^{t})_{ij} \quad\quad \text{for any n}$$
 
 Let $$\phi(t) = \mathcal{P}^{t}$$ and $$\phi = \lim_{t\rightarrow \infty} \mathcal{P}^{t}$$. Then it follows that, if the Markov process has a stationary distribution, then any row of $$\phi$$ will be the stationary distribution. Now let us define the z-transform for a discrete matrix function $$M(t)$$ to be:
@@ -177,9 +194,11 @@ where we can utilize the following table of elementary functions and their z-tra
 | $$a^n$$                                        | $$\frac{1}{1-az}$$             |
 
 Now we note that $$\phi(t) = \mathcal{P}^{t}$$ is a matrix function. If we apply the z-transform to $$\phi(t)$$ we obtain:
+
 $$\phi_Z(z) = \sum_{t=0}^{\infty}\phi(t)z^t = \sum_{t=0}^{\infty}\mathcal{P}^tz^t = I + \mathcal{P}z + \mathcal{P}^2z^2 + ... = [I - \mathcal{P}z]^{-1}$$
 
 Now let's apply the z-transform to $$\phi(t) = \mathcal{P}^t$$ where
+
 $$
 \mathcal{P}=
 \begin{bmatrix}
@@ -187,7 +206,9 @@ $$
 0.3 & 0.7
 \end{bmatrix}
 $$
+
 , we obtain:
+
 $$
 \phi_Z(z) = [I - \mathcal{P}z]^{-1} =
 \left(
@@ -202,6 +223,7 @@ $$
 \frac{0.3z}{1-1.5z + 0.5z^2} & \frac{1-0.8z}{1-1.5z+0.5z^2}
 \end{bmatrix}
 $$
+
 $$=
 \frac{1}{1-1.5z + 0.5z^2}
 \begin{bmatrix}
@@ -214,45 +236,61 @@ $$=
 1-0.7z & 0.2z\\
 0.3z & 1-0.8z
 \end{bmatrix}
+
 $$
 Next we want to take the inverse z-transform. To avoid having to compute a contour integral we can apply partial fraction decomposition and then utilize the pre-computed transforms in Table 1.
 
 We obtain:
+
 $$
 \frac{1}{(1-z)(1-0.5z)} = \frac{A}{1-z} + \frac{B}{1-0.5z}
 $$
+
 $$
 \implies A = \frac{1}{1-0.5z} - B\frac{1-z}{1-0.5z}
 $$
+
 $$
 \implies B = \frac{1}{(1-z)} - A\frac{1-0.5z}{1-z}
 $$
+
 Now if we evaluate the first equation at $$z=1$$, we get:
+
 $$
 \implies A = 2
 $$
+
 and if we evalute the second equation at $$z=2$$, we get:
+
 $$
 \implies B = -1
 $$
+
 Hence:
+
 $$
 \frac{1}{(1-z)(1-0.5z)} = \frac{2}{1-z} + \frac{-1}{1-0.5z}
 $$
 From which it follows that:
+
 $$
 \frac{1-0.7z}{(1-z)(1-0.5z)} = \frac{0.6}{1-z} + \frac{0.4}{1-0.5z}
 $$
+
 $$
 \frac{0.2z}{(1-z)(1-0.5z)} = \frac{0.4}{1-z} - \frac{0.4}{1-0.5z}
 $$
+
 $$
 \frac{0.3z}{(1-z)(1-0.5z)} = \frac{0.6}{1-z} + \frac{0.6}{1-0.5z}
 $$
+
 $$
 \frac{1-0.8z}{(1-z)(1-0.5z)} = \frac{0.4}{1-z} - \frac{0.6}{1-0.5z}
 $$
+
 Thus:
+
 $$
 \phi_Z(z) =
 \frac{1}{(1-z)(1-0.5z)}
@@ -289,6 +327,7 @@ $$
 = \phi(t)
 $$
 Now why is this useful? We already knew $$\phi(t) = \mathcal{P}^t$$ to begin with. The useful property here is that we obtained a closed form expression for the $$t$$th power of $$\mathcal{P}$$. Recall that $$\phi = \lim_{t\rightarrow \infty}\phi(t)$$ and that the rows of $$\phi$$ contain the stationary distribution of the Markov process with transition matrix $$\mathcal{P}$$ if it exists. Using the closed form expression of $$\phi(t)$$ it becomes trivial to compute the limit $$\phi = \lim_{t\rightarrow \infty}\phi(t)$$:
+
 $$
 \phi = \lim_{t\rightarrow \infty}\phi(t) = \lim_{t\rightarrow \infty}
 \begin{bmatrix}
@@ -307,6 +346,7 @@ $$
 0.6 & 0.4
 \end{bmatrix}
 $$
+
 Since the rows of $$\phi$$ are all equal, we conclude that the stationary distribution of the Markov process is $$\pi^T = [0.6, 0.4]$$.
 
 In general the inverse z-transform of the $$t$$-step transition matrix will always be of the form $$\phi = \phi + T(t)$$ for $$t=0,1,...$$, where the first term is the limiting $$t$$-step transition matrix and the second term, $$T(t)$$ are transient terms that disappears when $$t\rightarrow \infty$$.
