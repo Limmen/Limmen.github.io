@@ -7,14 +7,7 @@ In this post I will explain how to use transforms to analyze finite discrete-tim
 
 ## A Review of discrete-time Markov Processes and their Stationary Distributions
 
-A finite discrete-time Markov process $$(X_t)_{t\geq 1}$$ is a stochastic process defined by $$\langle \mathcal{S}, \mathcal{P} \rangle$$ where $$\mathcal{S} = \{1,2,\hdots,|\mathcal{S}|\}$$ is the state space and $$\mathcal{P} \in \mathbb{R}^{|\mathcal{S}|^2}$$ is a square row-stochastic transition matrix and the transitions $$X_t\rightarrow X_{t+1}$$ satisfies the Markov property:
-$$\mathbb{P}[X_{t+1}|X_t,X_{t-1}, \hdots, X_1] = \mathbb{P}[X_{t+1}|X_t]$$
-
-From the Chapman-Kolmogorov equations we obtain that the $$t$$-step transition probabilities are given by the matrix power $$\mathcal{P}^t$$:
-$$\mathbb{P}\left[X_{t} = j | X_0 = i \right] = \mathbb{P}\left[X_{n+t} = j | X_n = i \right] = (\mathcal{P}^{t})_{ij} \quad\quad \text{for any n}$$
-
-Similarly, the probability distribution of $$X_t$$ at time $$t$$ given that the initial state distribution is given by the row vector $$\pi_{0}^T$$ is:
-$$X_0 \sim \pi_{0}^{T} \implies X_t \sim \pi_{0}^{T}\mathcal{P}^t$$
+A finite discrete-time Markov process $$(X_t)_{t\geq 1}$$ is a stochastic process defined by $$\langle \mathcal{S}, \mathcal{P} \rangle$$ where $$\mathcal{S} = \{1,2,\hdots,|\mathcal{S}|\} $$
 
 ### Classification of States
 
