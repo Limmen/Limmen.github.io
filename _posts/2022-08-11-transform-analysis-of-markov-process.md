@@ -1,6 +1,6 @@
 ---
 title: Transform Analysis of Markov Processes.
-updated: 2022-08-11 11:26
+updated: 2022-08-11 17:30
 ---
 
 In this post I will explain how to use transforms to analyze finite discrete-time Markov processes and their limiting behavior, an approach to Markov process analysis that is not very well known. Before I explain the transform analysis I briefly review the basics of discrete-time Markov processes; this material can be skipped if you are already familiar with the basics.
