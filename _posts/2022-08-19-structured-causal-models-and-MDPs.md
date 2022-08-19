@@ -23,7 +23,11 @@ $$\mathbb{P}[V] = \prod_{i}^{|V|}\mathbb{P}[V_i|Pa(V_i)]$$
 
 $$U_i \cup Pa(V_i)$$
 
-to $$V_i$$ for $$i=1,...,|V|$$, where
+to $$V_i$$
+
+for $$i=1,...,|V|$$
+
+where
 
 $$Pa(V_i) \subseteq V\setminus V_i$$
 
