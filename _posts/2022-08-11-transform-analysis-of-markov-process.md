@@ -231,13 +231,14 @@ $$
 \end{bmatrix}
 $$
 
-$$
-=
-\frac{1}{1-1.5z + 0.5z^2}
+$$=\frac{1}{1-1.5z + 0.5z^2}
 \begin{bmatrix}
 1-0.7z & 0.2z\\
 0.3z & 1-0.8z
 \end{bmatrix}
+$$
+
+$$
 =
 \frac{1}{(1-z)(1-0.5z)}
 \begin{bmatrix}

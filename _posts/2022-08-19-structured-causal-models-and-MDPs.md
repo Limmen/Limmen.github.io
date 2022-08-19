@@ -161,7 +161,7 @@ which has an associated causal diagram $$\mathcal{G}$$:
 ![causal diagram for the example use case](/assets/ctf_example_3.png "causal diagram for the example use case")
 
 
-## Conclusio
+## Conclusions
 
 From the above exercise in modeling a decision problem both as an MDP and as an SCM, we note that any MDP can be converted into an SCM but not vice-versa. Hence, an MDP is encoding implicit causal structure that is explicit in the SCM. In this sense, the SCM is a more general model than an MDP. Thus, the SCM should be preferred over the MDP when additional causal information is available that is not already encoded in the MDP. If no additional causal information than what is already implicit in the MDP is available, the gain of using an SCM is limited.
 
