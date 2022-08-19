@@ -41,7 +41,17 @@ where $$U_i \subseteq U$$, and $$dom(\cdot)$$ denotes the domain of a variable.
 
 ## Markov decision processes (MDPs)
 
-A Markov Decision Process (MDP) models the control of a discrete-time dynamical system and is defined by a seven-tuple $$\mathcal{M} = \langle \mathcal{S}, \mathcal{A}, \mathcal{P}^{a_t}_{s_t,s_{t+1}}, \mathcal{R}^{a_t}_{s_t,s_{t+1}}, \gamma, \rho_1, T \rangle$$. $$\mathcal{S}$$ denotes the set of states and $$\mathcal{A}$$ denotes the set of actions. $$\mathcal{P}^{a_t}_{s_t,s_{t+1}}$$ refers to the probability of transitioning from state $$s_t$$ to state $$s_{t+1}$$ when taking action $$a_t$$, which has the Markov property $$\mathbb{P}\left[s_{t+1}|s_t\right] = \mathbb{P}\left[s_{t+1}| s_1, ..., s_t\right]$$:
+A Markov Decision Process (MDP) models the control of a discrete-time dynamical system and is defined by a seven-tuple
+
+$$\mathcal{M} = \langle \mathcal{S}, \mathcal{A}, \mathcal{P}^{a_t}_{s_t,s_{t+1}}, \mathcal{R}^{a_t}_{s_t,s_{t+1}}, \gamma, \rho_1, T \rangle$$. $$\mathcal{S}$$
+
+denotes the set of states and $$\mathcal{A}$$ denotes the set of actions.
+
+$$\mathcal{P}^{a_t}_{s_t,s_{t+1}}$$
+
+refers to the probability of transitioning from state $$s_t$$ to state $$s_{t+1}$$ when taking action $$a_t$$, which has the Markov property
+
+$$\mathbb{P}\left[s_{t+1}|s_t\right] = \mathbb{P}\left[s_{t+1}| s_1, ..., s_t\right]$$:
 
 $$\mathcal{P}^{a_t}_{s_t,s_{t+1}} = \mathbb{P}\left[s_{t+1}| s_t, a_t\right]$$
 
@@ -49,7 +59,25 @@ Similarly, $$\mathcal{R}^{a_t}_{s_t,s_{t+1}} \in \mathbb{R}$$ is the expected re
 
 $$\mathcal{R}^{a_t}_{s_t,s_{t+1}} = \mathbb{E}\left[r_{t+1}| a_t,  s_t, s_{t+1}\right]$$
 
-which is bounded, i.e. $$|\mathcal{R}^{a_t}_{s_t,s_{t+1}}| \leq M < \infty$$ for some $$M \in \mathbb{R}$$. If $$\mathcal{P}^{a_t}_{s_t,s_{t+1}}$$ and $$\mathcal{R}^{a_t}_{s_t,s_{t+1}}$$ are independent of the time-step $$t$$, the MDP is *stationary* and if $$\mathcal{S}$$ and $$\mathcal{A}$$ are finite, the MDP is *finite*. Finally, $$\gamma \in \left[0,1\right]$$ is the discount factor, $$\rho_1 : \mathcal{S} \rightarrow [0,1]$$ is the initial state distribution, and $$T$$ is the time horizon.
+which is bounded, i.e.
+
+$$|\mathcal{R}^{a_t}_{s_t,s_{t+1}}| \leq M < \infty$$
+
+for some
+
+$$M \in \mathbb{R}$$. If $$\mathcal{P}^{a_t}_{s_t,s_{t+1}}$$ and $$\mathcal{R}^{a_t}_{s_t,s_{t+1}}$$
+
+are independent of the time-step $$t$$, the MDP is *stationary* and if $$\mathcal{S}$$ and $$\mathcal{A}$$ are finite, the MDP is *finite*.
+
+Finally,
+
+$$\gamma \in \left[0,1\right]$$
+
+is the discount factor,
+
+$$\rho_1 : \mathcal{S} \rightarrow [0,1]$$
+
+is the initial state distribution, and $$T$$ is the time horizon.
 
 The system evolves in discrete time-steps from $$t=1$$ to $$t=T$$, which constitute one *episode* of the system.
 
