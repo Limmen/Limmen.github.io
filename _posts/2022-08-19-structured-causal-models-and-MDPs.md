@@ -51,7 +51,7 @@ $$\mathcal{P}^{a_t}_{s_t,s_{t+1}}$$
 
 refers to the probability of transitioning from state $$s_t$$ to state $$s_{t+1}$$ when taking action $$a_t$$, which has the Markov property
 
-$$\mathbb{P}\left[s_{t+1}|s_t\right] = \mathbb{P}\left[s_{t+1}| s_1, ..., s_t\right]$$:
+$$\mathbb{P}[s_{t+1}|s_t] = \mathbb{P}[s_{t+1}| s_1, ..., s_t]$$
 
 $$\mathcal{P}^{a_t}_{s_t,s_{t+1}} = \mathbb{P}\left[s_{t+1}| s_t, a_t\right]$$
 
@@ -124,22 +124,46 @@ We assume a model of perfect information where all parameters of the model are o
 We model the above use case as an MDP $$\mathcal{M} = \langle \mathcal{S}, \mathcal{A}, \mathcal{R}, \mathcal{P}, \gamma, \rho_1, T \rangle$$ as follows:
 
 $$
-\mathcal{S} = \{1,2,3,4,5\} \quad\quad\quad \text{state space}\\
-\mathcal{A} = \mathcal{S} = \{1,2,3,4,5\} \quad\quad\quad \text{action space}\\
-\mathcal{R}^{a_t}_{s_t} = -C_{s_t,a_t} \quad\quad\quad \text{reward function}\\
-\mathcal{R}_{s_t} = D_{s_t} \quad\quad\quad \text{terminal rewards}\\
+\mathcal{S} = \{1,2,3,4,5\} \quad\quad\quad \text{state space}
+$$
+
+$$
+\mathcal{A} = \mathcal{S} = \{1,2,3,4,5\} \quad\quad\quad \text{action space}
+$$
+
+$$
+\mathcal{R}^{a_t}_{s_t} = -C_{s_t,a_t} \quad\quad\quad \text{reward function}
+$$
+
+$$
+\mathcal{R}_{s_t} = D_{s_t} \quad\quad\quad \text{terminal rewards}
+$$
+
+$$
 \mathcal{P}_{s_t,s_{t+1}}^{a_t} =
 \begin{dcases}
   1 & \quad \text{if }s_{t+1}= a_t \\
   0 & \quad \text{otherwise}
-\end{dcases} \quad\quad\quad \text{transition probabilities}\\
+\end{dcases} \quad\quad\quad \text{transition probabilities}
+$$
+
+$$
 \rho_1(s) =
 \begin{dcases}
   1 & \quad \text{if }s=1 \\
   0 & \quad \text{otherwise}
-\end{dcases} \quad\quad\quad \text{initial state distribution}\\
-T &= 4 && \text{time horizon}  \\
-\gamma &= 1 \quad\quad\quad \text{discount factor}\\
+\end{dcases} \quad\quad\quad \text{initial state distribution}
+$$
+
+$$
+T = 4 \quad\quad\quad \text{time horizon}
+$$
+
+$$
+\gamma = 1 \quad\quad\quad \text{discount factor}
+$$
+
+$$
 \pi_t^{*} \in \argmax_{\pi_t \in \Pi} \mathbb{E}_{\pi_t}\left[\sum_{t=1}^{T}\gamma^{t-1}r_{t}\right] \quad\quad\quad \text{objective}
 $$
 
@@ -158,19 +182,58 @@ $$
 Now we model the same use case as an SCM $$M = \langle U,V, F\rangle$$:
 
 $$
-V = X \cup Z \cup Y \quad\quad\quad \text{endogeneous variables}\\
-X = \{X_1,X_2,X_3\} \quad\quad\quad \text{control variables}    \\
-Z = \{Z_1,Z_2,Z_3, Z_4\} \quad\quad\quad \text{covariates (states)}      \\
-Y = \{Y\} \quad\quad\quad \text{outcome variable}\\
-U = \{U,\pi\} \quad\quad\quad \text{exogeneous variables}\\
-F = \{f_{X_1},f_{X_2},f_{X_3},f_{Z_1},f_{Z_2},f_{Z_3},f_{Z_4},f_{Y}\} \quad\quad\quad \text{system functions}\\
-dom(X_i) = \{1,2,3,4,5\} \quad\quad\quad \text{control values}\\
-dom(Z_i) = \{1,2,3,4,5\} \quad\quad\quad \text{state values}\\
-dom(Y) = \mathbb{R} \quad\quad\quad \text{cumulative reward}\\
-dom(U) = \{1\} \quad\quad\quad \text{initial state}\\
-dom(\pi) = \{(1\rightarrow 1, 2\rightarrow 2, 3\rightarrow 3, 4\rightarrow 4, 5\rightarrow 5,...),...\} && \text{policy space}\\
-f_{Z_1}: Z_1 = U_1, f_{X_1}: X_1 = \pi(Z_1),f_{Z_2} : Z_2 = X_1,f_{X_2} : X_2 = \pi(Z_2),\\
-f_{Z_3} : Z_3 p= X_2,f_{X_3} : X_3 = \pi(Z_3),f_{Z_4} : Z_4 = X_3,\\
+V = X \cup Z \cup Y \quad\quad\quad \text{endogeneous variables}
+$$
+
+$$
+X = \{X_1,X_2,X_3\} \quad\quad\quad \text{control variables}
+$$
+
+$$
+Z = \{Z_1,Z_2,Z_3, Z_4\} \quad\quad\quad \text{covariates (states)}
+$$
+
+$$
+Y = \{Y\} \quad\quad\quad \text{outcome variable}
+$$
+
+$$
+U = \{U,\pi\} \quad\quad\quad \text{exogeneous variables}
+$$
+
+$$
+F = \{f_{X_1},f_{X_2},f_{X_3},f_{Z_1},f_{Z_2},f_{Z_3},f_{Z_4},f_{Y}\} \quad\quad\quad \text{system functions}
+$$
+
+$$
+dom(X_i) = \{1,2,3,4,5\} \quad\quad\quad \text{control values}
+$$
+
+$$
+dom(Z_i) = \{1,2,3,4,5\} \quad\quad\quad \text{state values}
+$$
+
+$$
+dom(Y) = \mathbb{R} \quad\quad\quad \text{cumulative reward}
+$$
+
+$$
+dom(U) = \{1\} \quad\quad\quad \text{initial state}
+$$
+
+$$
+dom(\pi) = \{(1\rightarrow 1, 2\rightarrow 2, 3\rightarrow 3, 4\rightarrow 4, 5\rightarrow 5,...),...\} && \text{policy space}
+$$
+
+$$
+f_{Z_1}: Z_1 = U_1, f_{X_1}: X_1 = \pi(Z_1),f_{Z_2} : Z_2 = X_1,f_{X_2} : X_2 = \pi(Z_2),
+$$
+
+$$
+f_{Z_3} : Z_3 p= X_2,f_{X_3} : X_3 = \pi(Z_3),f_{Z_4} : Z_4 = X_3
+$$
+
+$$
 f_{Y} : Y = C_{Z_1,X_1} + C_{Z_2,X_2} + C_{Z_3,X_3} + D_{Z_4}
 $$
 
@@ -191,18 +254,54 @@ $$
 Then, the SCM simplifies to:
 
 $$
-V = X \cup Z \cup Y \quad\quad\quad \text{endogeneous variables}\\
-X = \{X_1,X_2,X_3\} \quad\quad\quad \text{control variables}    \\
-Z = \{Z_1,Z_2,Z_3, Z_4\} \quad\quad\quad \text{covariates (states)}      \\
-Y = \{Y\} \quad\quad\quad \text{outcome variable}\\
-U = \{U\} \quad\quad\quad \text{exogeneous variables}\\
-F = \{f_{X_1},f_{X_2},f_{X_3},f_{Z_1},f_{Z_2},f_{Z_3},f_{Z_4},f_{Y}\} \quad\quad\quad \text{system functions}\\
-dom(X_i) = \{1,2,3,4,5\} \quad\quad\quad \text{control values}\\
-dom(Z_i) = \{1,2,3,4,5\} \quad\quad\quad \text{state values}\\
-dom(Y) = \mathbb{R} \quad\quad\quad \text{cumulative reward}\\
-dom(U) = \{1\} \quad\quad\quad \text{initial state}\\
-f_{Z_1}: Z_1 = U_1, f_{X_1}: X_1 = Z_1,f_{Z_2} : Z_2 = X_1,f_{X_2} : X_2 = Z_2,\\
-f_{Z_3} : Z_3 = X_2,f_{X_3} : X_3 = Z_3,f_{Z_4} : Z_4 = X_3,\\
+V = X \cup Z \cup Y \quad\quad\quad \text{endogeneous variables}
+$$
+
+$$
+X = \{X_1,X_2,X_3\} \quad\quad\quad \text{control variables}
+$$
+
+$$
+Z = \{Z_1,Z_2,Z_3, Z_4\} \quad\quad\quad \text{covariates (states)}
+$$
+
+$$
+Y = \{Y\} \quad\quad\quad \text{outcome variable}
+$$
+
+$$
+U = \{U\} \quad\quad\quad \text{exogeneous variables}
+$$
+
+$$
+F = \{f_{X_1},f_{X_2},f_{X_3},f_{Z_1},f_{Z_2},f_{Z_3},f_{Z_4},f_{Y}\} \quad\quad\quad \text{system functions}
+$$
+
+$$
+dom(X_i) = \{1,2,3,4,5\} \quad\quad\quad \text{control values}
+$$
+
+$$
+dom(Z_i) = \{1,2,3,4,5\} \quad\quad\quad \text{state values}
+$$
+
+$$
+dom(Y) = \mathbb{R} \quad\quad\quad \text{cumulative reward}
+$$
+
+$$
+dom(U) = \{1\} \quad\quad\quad \text{initial state}
+$$
+
+$$
+f_{Z_1}: Z_1 = U_1, f_{X_1}: X_1 = Z_1,f_{Z_2} : Z_2 = X_1,f_{X_2} : X_2 = Z_2
+$$
+
+$$
+f_{Z_3} : Z_3 = X_2,f_{X_3} : X_3 = Z_3,f_{Z_4} : Z_4 = X_3,
+$$
+
+$$
 f_{Y} : Y = C_{Z_1,X_1} + C_{Z_2,X_2} + C_{Z_3,X_3} + D_{Z_4}
 $$
 
