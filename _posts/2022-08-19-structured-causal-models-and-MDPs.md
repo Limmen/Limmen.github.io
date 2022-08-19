@@ -140,19 +140,11 @@ $$
 $$
 
 $$
-\mathcal{P}_{s_t,s_{t+1}}^{a_t} =
-\begin{dcases}
-  1 & \quad \text{if }s_{t+1}= a_t \\
-  0 & \quad \text{otherwise}
-\end{dcases} \quad\quad\quad \text{transition probabilities}
+\mathcal{P}_{s_t,s_{t+1}}^{a_t} = 1 \text{ if } s_{t+1}= a_t \text{ and } 0 \text{ otherwise} \quad\quad\quad \text{transition probabilities}
 $$
 
 $$
-\rho_1(s) =
-\begin{dcases}
-  1 & \quad \text{if }s=1 \\
-  0 & \quad \text{otherwise}
-\end{dcases} \quad\quad\quad \text{initial state distribution}
+\rho_1(s) = 1 \text{ if }s=1 \text{ and }0 \text{ otherwise} \quad\quad\quad \text{initial state distribution}
 $$
 
 $$
@@ -164,7 +156,7 @@ $$
 $$
 
 $$
-\pi_t^{*} \in \argmax_{\pi_t \in \Pi} \mathbb{E}_{\pi_t}\left[\sum_{t=1}^{T}\gamma^{t-1}r_{t}\right] \quad\quad\quad \text{objective}
+\pi_t^{*} \in arg\max_{\pi_t \in \Pi} \mathbb{E}_{\pi_t}\left[\sum_{t=1}^{T}\gamma^{t-1}r_{t}\right] \quad\quad\quad \text{objective}
 $$
 
 where $$\Pi$$ is the set of Markovian and deterministic policies (It follows from classical results in Markov decision theory that an optimal policy $$\pi^{*}$$ that is deterministic and Markovian exists.):
@@ -222,7 +214,7 @@ dom(U) = \{1\} \quad\quad\quad \text{initial state}
 $$
 
 $$
-dom(\pi) = \{(1\rightarrow 1, 2\rightarrow 2, 3\rightarrow 3, 4\rightarrow 4, 5\rightarrow 5,...),...\} && \text{policy space}
+dom(\pi) = \{(1\rightarrow 1, 2\rightarrow 2, 3\rightarrow 3, 4\rightarrow 4, 5\rightarrow 5,...),...\} \quad\quad \text{policy space}
 $$
 
 $$
