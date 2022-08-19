@@ -23,9 +23,9 @@ $$\mathbb{P}[V] = \prod_{i}^{|V|}\mathbb{P}[V_i|Pa(V_i)]$$
 
 $$U_i \cup Pa(V_i)$$
 
-to $$V_i$$
+to
 
-for $$i=1,...,|V|$$
+$$V_i$$
 
 where
 
