@@ -1,5 +1,5 @@
 ---
-title: Structured Causal Models (SCMS) and MDPs
+title: Structured Causal Models (SCMs) and MDPs
 updated: 2022-08-19 08:30
 ---
 
