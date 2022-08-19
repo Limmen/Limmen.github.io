@@ -231,7 +231,8 @@ $$
 \end{bmatrix}
 $$
 
-$$=
+$$
+=
 \frac{1}{1-1.5z + 0.5z^2}
 \begin{bmatrix}
 1-0.7z & 0.2z\\
@@ -243,8 +244,8 @@ $$=
 1-0.7z & 0.2z\\
 0.3z & 1-0.8z
 \end{bmatrix}
-
 $$
+
 Next we want to take the inverse z-transform. To avoid having to compute a contour integral we can apply partial fraction decomposition and then utilize the pre-computed transforms in Table 1.
 
 We obtain:
