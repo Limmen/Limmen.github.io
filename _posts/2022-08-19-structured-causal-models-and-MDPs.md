@@ -7,9 +7,9 @@ Structured causal models are the standard models in the causal modeling literatu
 
 ## Structured causal models (SCMs)
 
-A structured causal model (SCM) encodes causal relationships among variables and is defined by the tuple $M = \langle \bm{U},\bm{V}, \bm{F}\rangle$. $\bm{U}$ is a set of \textit{exogeneous} variables that are determined by factors outside the model and $$\bm{V}=\{V_1,\hdots,V_{|\bm{V}|}\}$$ is a set of \textit{endogeneous} variables that are determined by $$\bm{U} \cup \bm{V}$. $M$$ is associated with a directed acyclic graph (DAG) $$\mathcal{G}$$ that factorizes $$\mathbb{P}[\bm{V}]$$ as $$\mathbb{P}[\bm{V}] = \prod_{i}^{|\bm{V}|}\mathbb{P}[V_i|Pa(V_i)]$$, called a \textit{causal diagram} of $$M$$. A node in $$\mathcal{G}$$ corresponds to a variable in $$\bm{U} \cup \bm{V}$$ and the directed edges point from elements of $$U_i \cup Pa(V_i)$$ to $$V_i$$ for $$i=1,\hdots,|\bm{V}|$$, where $$Pa(V_i) \subseteq V\setminus V_i$$ is the set of predecessors of $$V_i$$ in $$\mathcal{G}$$.
+A structured causal model (SCM) encodes causal relationships among variables and is defined by the tuple $$M = \langle U,V, F\rangle$$. $$U$$ is a set of *exogeneous* variables that are determined by factors outside the model and $$V=\{V_1,\hdots,V_{|V|}\}$$ is a set of *endogeneous* variables that are determined by $$U \cup V$$. $$M$$ is associated with a directed acyclic graph (DAG) $$\mathcal{G}$$ that factorizes $$\mathbb{P}[V]$$ as $$\mathbb{P}[V] = \prod_{i}^{|V|}\mathbb{P}[V_i|Pa(V_i)]$$, called a *causal diagram* of $$M$$. A node in $$\mathcal{G}$$ corresponds to a variable in $$U \cup V$$ and the directed edges point from elements of $$U_i \cup Pa(V_i)$$ to $$V_i$$ for $$i=1,\hdots,|V|$$, where $$Pa(V_i) \subseteq V\setminus V_i$$ is the set of predecessors of $$V_i$$ in $$\mathcal{G}$$.
 
-The relationships among the variables in $$\bm{U} \cup \bm{V}$$ are determined by a set of functions $$F = \{f_1,\hdots,f_n\}$$ such that each $$f_i$$ is a mapping from $$dom(U_i) \cup dom(Pa(V_i))$$ to $$dom(V_i)$$:
+The relationships among the variables in $$U \cup V$$ are determined by a set of functions $$F = \{f_1,\hdots,f_n\}$$ such that each $$f_i$$ is a mapping from $$dom(U_i) \cup dom(Pa(V_i))$$ to $$dom(V_i)$$:
 
 $$v_i = f_i(pa_i, u_i), \quad \quad i=1,\hdots,n $$
 
@@ -105,15 +105,15 @@ $$
 
 ### The Example Problem as a Structured Causal Model (SCM)
 
-Now we model the same use case as an SCM $$M = \langle \bm{U},\bm{V}, \bm{F}\rangle$$:
+Now we model the same use case as an SCM $$M = \langle U,V, F\rangle$$:
 
 $$
-\bm{V} = \bm{X} \cup \bm{Z} \cup \bm{Y} \quad\quad\quad \text{endogeneous variables}\\
-\bm{X} = \{X_1,X_2,X_3\} \quad\quad\quad \text{control variables}    \\
-\bm{Z} = \{Z_1,Z_2,Z_3, Z_4\} \quad\quad\quad \text{covariates (states)}      \\
-\bm{Y} = \{Y\} \quad\quad\quad \text{outcome variable}\\
-\bm{U} = \{U,\pi\} \quad\quad\quad \text{exogeneous variables}\\
-\bm{F} = \{f_{X_1},f_{X_2},f_{X_3},f_{Z_1},f_{Z_2},f_{Z_3},f_{Z_4},f_{Y}\} \quad\quad\quad \text{system functions}\\
+V = X \cup Z \cup Y \quad\quad\quad \text{endogeneous variables}\\
+X = \{X_1,X_2,X_3\} \quad\quad\quad \text{control variables}    \\
+Z = \{Z_1,Z_2,Z_3, Z_4\} \quad\quad\quad \text{covariates (states)}      \\
+Y = \{Y\} \quad\quad\quad \text{outcome variable}\\
+U = \{U,\pi\} \quad\quad\quad \text{exogeneous variables}\\
+F = \{f_{X_1},f_{X_2},f_{X_3},f_{Z_1},f_{Z_2},f_{Z_3},f_{Z_4},f_{Y}\} \quad\quad\quad \text{system functions}\\
 dom(X_i) = \{1,2,3,4,5\} \quad\quad\quad \text{control values}\\
 dom(Z_i) = \{1,2,3,4,5\} \quad\quad\quad \text{state values}\\
 dom(Y) = \mathbb{R} \quad\quad\quad \text{cumulative reward}\\
@@ -141,12 +141,12 @@ $$
 Then, the SCM simplifies to:
 
 $$
-\bm{V} = \bm{X} \cup \bm{Z} \cup \bm{Y} \quad\quad\quad \text{endogeneous variables}\\
-\bm{X} = \{X_1,X_2,X_3\} \quad\quad\quad \text{control variables}    \\
-\bm{Z} = \{Z_1,Z_2,Z_3, Z_4\} \quad\quad\quad \text{covariates (states)}      \\
-\bm{Y} = \{Y\} \quad\quad\quad \text{outcome variable}\\
-\bm{U} = \{U\} \quad\quad\quad \text{exogeneous variables}\\
-\bm{F} = \{f_{X_1},f_{X_2},f_{X_3},f_{Z_1},f_{Z_2},f_{Z_3},f_{Z_4},f_{Y}\} \quad\quad\quad \text{system functions}\\
+V = X \cup Z \cup Y \quad\quad\quad \text{endogeneous variables}\\
+X = \{X_1,X_2,X_3\} \quad\quad\quad \text{control variables}    \\
+Z = \{Z_1,Z_2,Z_3, Z_4\} \quad\quad\quad \text{covariates (states)}      \\
+Y = \{Y\} \quad\quad\quad \text{outcome variable}\\
+U = \{U\} \quad\quad\quad \text{exogeneous variables}\\
+F = \{f_{X_1},f_{X_2},f_{X_3},f_{Z_1},f_{Z_2},f_{Z_3},f_{Z_4},f_{Y}\} \quad\quad\quad \text{system functions}\\
 dom(X_i) = \{1,2,3,4,5\} \quad\quad\quad \text{control values}\\
 dom(Z_i) = \{1,2,3,4,5\} \quad\quad\quad \text{state values}\\
 dom(Y) = \mathbb{R} \quad\quad\quad \text{cumulative reward}\\
