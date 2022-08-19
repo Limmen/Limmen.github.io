@@ -7,11 +7,19 @@ Structured causal models are the standard models in the causal modeling literatu
 
 ## Structured causal models (SCMs)
 
-A structured causal model (SCM) encodes causal relationships among variables and is defined by the tuple $$M = \langle U,V, F\rangle$$. $$U$$ is a set of *exogeneous* variables that are determined by factors outside the model and $$V=\{V_1,\hdots,V_{|V|}\}$$ is a set of *endogeneous* variables that are determined by $$U \cup V$$. $$M$$ is associated with a directed acyclic graph (DAG) $$\mathcal{G}$$ that factorizes $$\mathbb{P}[V]$$ as $$\mathbb{P}[V] = \prod_{i}^{|V|}\mathbb{P}[V_i|Pa(V_i)]$$, called a *causal diagram* of $$M$$. A node in $$\mathcal{G}$$ corresponds to a variable in $$U \cup V$$ and the directed edges point from elements of $$U_i \cup Pa(V_i)$$ to $$V_i$$ for $$i=1,\hdots,|V|$$, where $$Pa(V_i) \subseteq V\setminus V_i$$ is the set of predecessors of $$V_i$$ in $$\mathcal{G}$$.
+A structured causal model (SCM) encodes causal relationships among variables and is defined by the tuple
 
-The relationships among the variables in $$U \cup V$$ are determined by a set of functions $$F = \{f_1,\hdots,f_n\}$$ such that each $$f_i$$ is a mapping from $$dom(U_i) \cup dom(Pa(V_i))$$ to $$dom(V_i)$$:
+$$M = \langle U,V, F\rangle$$.
 
-$$v_i = f_i(pa_i, u_i), \quad \quad i=1,\hdots,n $$
+$$U$$ is a set of *exogeneous* variables that are determined by factors outside the model and $$V=\{V_1,...,V_{|V|}\}$$ is a set of *endogeneous* variables that are determined by $$U \cup V$$. $$M$$ is associated with a directed acyclic graph (DAG) $$\mathcal{G}$$ that factorizes $$\mathbb{P}[V]$$ as:
+
+$$\mathbb{P}[V] = \prod_{i}^{|V|}\mathbb{P}[V_i|Pa(V_i)]$$
+
+, called a *causal diagram* of $$M$$. A node in $$\mathcal{G}$$ corresponds to a variable in $$U \cup V$$ and the directed edges point from elements of $$U_i \cup Pa(V_i)$$ to $$V_i$$ for $$i=1,...,|V|$$, where $$Pa(V_i) \subseteq V\setminus V_i$$ is the set of predecessors of $$V_i$$ in $$\mathcal{G}$$.
+
+The relationships among the variables in $$U \cup V$$ are determined by a set of functions $$F = \{f_1,...,f_n\}$$ such that each $$f_i$$ is a mapping from $$dom(U_i) \cup dom(Pa(V_i))$$ to $$dom(V_i)$$:
+
+$$v_i = f_i(pa_i, u_i), \quad \quad i=1,...,n $$
 
 where $$U_i \subseteq U$$, and $$dom(\cdot)$$ denotes the domain of a variable.
 
@@ -19,7 +27,7 @@ where $$U_i \subseteq U$$, and $$dom(\cdot)$$ denotes the domain of a variable.
 
 ## Markov decision processes (MDPs)
 
-A Markov Decision Process (MDP) models the control of a discrete-time dynamical system and is defined by a seven-tuple $$\mathcal{M} = \langle \mathcal{S}, \mathcal{A}, \mathcal{P}^{a_t}_{s_t,s_{t+1}}, \mathcal{R}^{a_t}_{s_t,s_{t+1}}, \gamma, \rho_1, T \rangle$$. $$\mathcal{S}$$ denotes the set of states and $$\mathcal{A}$$ denotes the set of actions. $$\mathcal{P}^{a_t}_{s_t,s_{t+1}}$$ refers to the probability of transitioning from state $$s_t$$ to state $$s_{t+1}$$ when taking action $$a_t$$, which has the Markov property $$\mathbb{P}\left[s_{t+1}|s_t\right] = \mathbb{P}\left[s_{t+1}| s_1, \hdots, s_t\right]$$:
+A Markov Decision Process (MDP) models the control of a discrete-time dynamical system and is defined by a seven-tuple $$\mathcal{M} = \langle \mathcal{S}, \mathcal{A}, \mathcal{P}^{a_t}_{s_t,s_{t+1}}, \mathcal{R}^{a_t}_{s_t,s_{t+1}}, \gamma, \rho_1, T \rangle$$. $$\mathcal{S}$$ denotes the set of states and $$\mathcal{A}$$ denotes the set of actions. $$\mathcal{P}^{a_t}_{s_t,s_{t+1}}$$ refers to the probability of transitioning from state $$s_t$$ to state $$s_{t+1}$$ when taking action $$a_t$$, which has the Markov property $$\mathbb{P}\left[s_{t+1}|s_t\right] = \mathbb{P}\left[s_{t+1}| s_1, ..., s_t\right]$$:
 
 $$\mathcal{P}^{a_t}_{s_t,s_{t+1}} = \mathbb{P}\left[s_{t+1}| s_t, a_t\right]$$
 
@@ -37,7 +45,7 @@ Consider the classical computer security challenge of *Capture the Flag* (CTF). 
 
 ![example shortest path problem](/assets/ctf_example_1.png "example shortest path problem")
 
-We model the infrastructure as a graph $$\mathcal{G} = \langle \mathcal{N}, \mathcal{E} \rangle$$. The nodes $$\mathcal{N} = \{N_1,\hdots,N_5\}$$ represent components of the infrastructure and the edges $$\mathcal{E} = \{e_{1,2}, e_{1,3}, e_{3,1}, e_{2,4}, e_{4,2}, e_{3,4}, e_{4,5}, e_{5,4}\}$$ represent connectivity between components. A flag is hidden at node $$N_5$$. The decision maker is located in a dedicated start position $$N_1$$, from which he can move to adjacent nodes in the infrastructure through execution of network commands. Associated with each edge $$e_{i,j}$$ is a cost $$C_{i,j}$$, that represents the cost of moving from node $$i$$ to node $$j$$ in the network:
+We model the infrastructure as a graph $$\mathcal{G} = \langle \mathcal{N}, \mathcal{E} \rangle$$. The nodes $$\mathcal{N} = \{N_1,...,N_5\}$$ represent components of the infrastructure and the edges $$\mathcal{E} = \{e_{1,2}, e_{1,3}, e_{3,1}, e_{2,4}, e_{4,2}, e_{3,4}, e_{4,5}, e_{5,4}\}$$ represent connectivity between components. A flag is hidden at node $$N_5$$. The decision maker is located in a dedicated start position $$N_1$$, from which he can move to adjacent nodes in the infrastructure through execution of network commands. Associated with each edge $$e_{i,j}$$ is a cost $$C_{i,j}$$, that represents the cost of moving from node $$i$$ to node $$j$$ in the network:
 
 $$
 C =
@@ -52,7 +60,7 @@ $$
 
 here we adopt the convention that $$C_{i,j} = \infty$$ means that there is no control that moves the decision maker from $$i$$ to $$j$$.
 
-Commands are assumed to be executed in a round-based fashion and time progresses in discrete time-steps $$t=1,\hdots,T$$, where $$T=4$$. At $$t=T$$, the decision maker incurs a terminal reward $$D_i$$:
+Commands are assumed to be executed in a round-based fashion and time progresses in discrete time-steps $$t=1,...,T$$, where $$T=4$$. At $$t=T$$, the decision maker incurs a terminal reward $$D_i$$:
 
 $$
 D =
@@ -97,9 +105,9 @@ where $$\Pi$$ is the set of Markovian and deterministic policies (It follows fro
 
 $$
   \Pi = \Bigg\{\Big((1,1)\rightarrow 1, (1,2)\rightarrow 2, (1,3)\rightarrow 3, (1,4)\rightarrow 4, (1,5)\rightarrow 5,\\
-           \vdots\\
+           ..\\
           (T,1)\rightarrow 1, (T,2)\rightarrow 2, (T,3)\rightarrow 3, (T,4)\rightarrow 4, (T,5)\rightarrow 5\Big),
-            \vdots\\
+            ..\\
   \Bigg\}
 $$
 
@@ -118,7 +126,7 @@ dom(X_i) = \{1,2,3,4,5\} \quad\quad\quad \text{control values}\\
 dom(Z_i) = \{1,2,3,4,5\} \quad\quad\quad \text{state values}\\
 dom(Y) = \mathbb{R} \quad\quad\quad \text{cumulative reward}\\
 dom(U) = \{1\} \quad\quad\quad \text{initial state}\\
-dom(\pi) = \{(1\rightarrow 1, 2\rightarrow 2, 3\rightarrow 3, 4\rightarrow 4, 5\rightarrow 5,\hdots),\hdots\} && \text{policy space}\\
+dom(\pi) = \{(1\rightarrow 1, 2\rightarrow 2, 3\rightarrow 3, 4\rightarrow 4, 5\rightarrow 5,...),...\} && \text{policy space}\\
 f_{Z_1}: Z_1 = U_1, f_{X_1}: X_1 = \pi(Z_1),f_{Z_2} : Z_2 = X_1,f_{X_2} : X_2 = \pi(Z_2),\\
 f_{Z_3} : Z_3 p= X_2,f_{X_3} : X_3 = \pi(Z_3),f_{Z_4} : Z_4 = X_3,\\
 f_{Y} : Y = C_{Z_1,X_1} + C_{Z_2,X_2} + C_{Z_3,X_3} + D_{Z_4}
