@@ -11,13 +11,27 @@ A structured causal model (SCM) encodes causal relationships among variables and
 
 $$M = \langle U,V, F\rangle$$.
 
-$$U$$ is a set of *exogeneous* variables that are determined by factors outside the model and $$V=\{V_1,...,V_{|V|}\}$$ is a set of *endogeneous* variables that are determined by $$U \cup V$$. $$M$$ is associated with a directed acyclic graph (DAG) $$\mathcal{G}$$ that factorizes $$\mathbb{P}[V]$$ as:
+$$U$$ is a set of *exogeneous* variables that are determined by factors outside the model and
+
+$$V=\{V_1,...,V_{|V|}\}$$
+
+is a set of *endogeneous* variables that are determined by $$U \cup V$$. $$M$$ is associated with a directed acyclic graph (DAG) $$\mathcal{G}$$ that factorizes $$\mathbb{P}[V]$$ as:
 
 $$\mathbb{P}[V] = \prod_{i}^{|V|}\mathbb{P}[V_i|Pa(V_i)]$$
 
-, called a *causal diagram* of $$M$$. A node in $$\mathcal{G}$$ corresponds to a variable in $$U \cup V$$ and the directed edges point from elements of $$U_i \cup Pa(V_i)$$ to $$V_i$$ for $$i=1,...,|V|$$, where $$Pa(V_i) \subseteq V\setminus V_i$$ is the set of predecessors of $$V_i$$ in $$\mathcal{G}$$.
+, called a *causal diagram* of $$M$$. A node in $$\mathcal{G}$$ corresponds to a variable in $$U \cup V$$ and the directed edges point from elements of
 
-The relationships among the variables in $$U \cup V$$ are determined by a set of functions $$F = \{f_1,...,f_n\}$$ such that each $$f_i$$ is a mapping from $$dom(U_i) \cup dom(Pa(V_i))$$ to $$dom(V_i)$$:
+$$U_i \cup Pa(V_i)$$
+
+to $$V_i$$ for $$i=1,...,|V|$$, where
+
+$$Pa(V_i) \subseteq V\setminus V_i$$
+
+is the set of predecessors of $$V_i$$ in $$\mathcal{G}$$.
+
+The relationships among the variables in $$U \cup V$$ are determined by a set of functions $$F = \{f_1,...,f_n\}$$ such that each $$f_i$$ is a mapping from
+
+$$dom(U_i) \cup dom(Pa(V_i))$$ to $$dom(V_i)$$:
 
 $$v_i = f_i(pa_i, u_i), \quad \quad i=1,...,n $$
 
