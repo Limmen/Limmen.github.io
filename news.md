@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+27 Aug '22
+:   Our conference paper "An Online Framework for Adapting Security Policies in Dynamic IT Environments" was accepted to CNSM´22.
+
 17 Jul '22
 :   Attending ICML 22 in Baltimore. We will present our paper "Learning Security Strategies through Game Play and Optimal Stopping ([Camera ready version](/assets/papers/icml_ml4cyber_Hammar_Stadler_final_24_june_2022.pdf)) on 22 July at the workshop on machine learning for cyber security ([workshop](https://sites.google.com/view/icml-ml4cyber/home)). A pre-recorded video of our presentation is [available](https://www.youtube.com/watch?v=Qz6huGXjhec).
 
