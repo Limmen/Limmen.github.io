@@ -18,7 +18,7 @@ $$\pi_l^{*} \in arg\max_{\pi_l} \mathbb{E}_{\pi_l}\Bigg[\sum_{t=1}^{\tau_{L}-1}\
 
 Due to the Markov property, any policy that satisfies the above equation also satisfies the Bellman equation given below, which in the partially observed case is:
 $$\pi_l^{*}(b) \in arg\max_{\{S,C\}}  \Bigg[\underbrace{\mathbb{E}_l\left[\mathcal{R}^{S}_{b,b^{o}_{S},l} + \gamma V_{l-1}^{*}(b^{o}_{S})\right]}_{\text{stop } (S)}, \underbrace{\mathbb{E}_l\left[\mathcal{R}^{C}_{b,b_C^o,l} + \gamma V_{l}^{*}(b_C^o)\right]}_{\text{continue } (C)}\Bigg] \quad \quad \forall b \in \mathcal{B}$$
-where $$\pi_l$$ is the stopping policy with $$l$$ stops remaining, $$\mathbb{E}_l$$ denotes the expectation with $l$ stops remaining, $$b$$ is the belief state, $$V_{l}^{*}$$ is the value function with $$l$$ stops remaining, $$b^o_{S}$$ and $$b^{o}_{C}$$ can be computed using a Bayesian filter, and $$\mathcal{R}_{b,b^o_{a},l}^{a}$$ is the expected reward of action $$a \in \{S,C\}$$ in belief state $$b_t$$ when observing $$o$$ with $$l$$ stops remaining.
+where $$\pi_l$$ is the stopping policy with $$l$$ stops remaining, $$\mathbb{E}_l$$ denotes the expectation with $$l$$ stops remaining, $$b$$ is the belief state, $$V_{l}^{*}$$ is the value function with $$l$$ stops remaining, $$b^o_{S}$$ and $$b^{o}_{C}$$ can be computed using a Bayesian filter, and $$\mathcal{R}_{b,b^o_{a},l}^{a}$$ is the expected reward of action $$a \in \{S,C\}$$ in belief state $$b_t$$ when observing $$o$$ with $$l$$ stops remaining.
 
 ### References
 
