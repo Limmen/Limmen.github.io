@@ -30,6 +30,12 @@ title: Publications
 
 ### Conferences
 
+
+2022
+:   **Learning Intrusion Prevention Policies through Optimal Stopping**; Conference paper, CNSM 2022: International Conference on Network and Service Management, Thessaloniki, Greece October 31 - November 4.
+    **Kim Hammar** and Rolf Stadler
+	[PDF(preprint)](/assets/papers/CNSM22_preprint_8_sep_Hammar_Stadler.pdf)
+
 2022
 :   **Learning Security Strategies through Game Play and Optimal Stopping**; Conference paper, ICML Ml4Cyber Workshop 2022: International Conference on Machine Learning, Baltimore, USA July 17-23.
     **Kim Hammar** and Rolf Stadler
