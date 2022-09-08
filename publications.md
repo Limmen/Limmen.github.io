@@ -32,7 +32,7 @@ title: Publications
 
 
 2022
-:   **Learning Intrusion Prevention Policies through Optimal Stopping**; Conference paper, CNSM 2022: International Conference on Network and Service Management, Thessaloniki, Greece October 31 - November 4.
+:   **An Online Framework for Adapting Security Policies in Dynamic IT Environments**; Conference paper, CNSM 2022: International Conference on Network and Service Management, Thessaloniki, Greece October 31 - November 4.
     **Kim Hammar** and Rolf Stadler
 	[PDF(preprint)](/assets/papers/CNSM22_preprint_8_sep_Hammar_Stadler.pdf)
 
