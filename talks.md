@@ -4,6 +4,11 @@ title: Talks
 ---
 
 2022
+:   **Paper Review: Developing Optimal Causal Cyber Agents**; Stockholm, KTH, ML+Security Reading Group NSE Sep 23 2022, Division of Network and Systems Engineering.
+    **Kim Hammar**
+	[PDF](/assets/slides/MLsec_reading_group_NSE_2022_23_sep_Kim_Hammar.pdf)
+
+2022
 :   **Learning Security Strategies through Game Play and Optimal Stopping**; Baltimore, ML4Cyber workshop at ICML 2022: International Conference on Machine Learning July 15-23.
     **Kim Hammar** and Rolf Stadler
 	[Slides](https://www.slideshare.net/KimHammar/learning-security-strategies-through-game-play-and-optimal-stopping)
