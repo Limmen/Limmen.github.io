@@ -48,14 +48,13 @@ The first state equation states that the atmospheric concentration of $$CO_2$$ (
 The system model includes five free parameters: $$\alpha, \beta, \gamma, \delta, \epsilon$$. We estimate these parameters based on historical climate data (see the figure above). Specifically, we use Bayesian optimization [6] to find model parameters that minimize the difference between the model's predictions and historical climate data from the years $$1960-2015$$. Formally, we minimize the optimization criterion:
 
 $$
-\min_{\alpha, \beta, \gamma, \delta, \epsilon} \int_{t_i}^{t_f}||x(t) - x_{real}(t)||dt \quad \quad \text{subject to }
-                                                    \begin{dcases}
-                                                      t_f=2015\\
-                                                      t_i =1960\\
-                                                      x(1960)=x_{real}(1960)\\
-                                                      \dot{x}(t)=f(x(t), u(t)) \quad  t\in [t_i,t_f]\\
-                                                      u(t) = u_{real}(t) \quad t \in [t_i,t_f]
-                                                    \end{dcases}
+\min_{\alpha, \beta, \gamma, \delta, \epsilon} \int_{t_i}^{t_f}||x(t) - x_{real}(t)||dt \\
+\quad \quad \text{subject to }\\
+t_f=2015\\
+t_i =1960\\
+x(1960)=x_{real}(1960)\\
+\dot{x}(t)=f(x(t), u(t)) \quad  t\in [t_i,t_f]\\
+u(t) = u_{real}(t) \quad t \in [t_i,t_f]
 $$
 
 where $$x(t)$$ is the predicted values of $$CO_2$$ concentration and temperature increase when $$u_{real}(t), t \in [t_i,t_f]$$ is input to the model and $$u_{real}(t)$$ and $$x_{real}(t)$$ refers to the actual $$CO_2$$ emissions, the actual $$CO_2$$ levels in the atmosphere, and the actual temperature increase recorded at year $$t$$, where $$t \in [1960,2015]$$.
