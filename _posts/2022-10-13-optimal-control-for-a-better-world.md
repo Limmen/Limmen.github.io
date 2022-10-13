@@ -72,13 +72,12 @@ A comparison between the state trajectory predicted by the model with the optimi
 The goal is to find a control law for climate engineering that minimizes global warming over the coming thousand years (the years $$2000-3000$$) at the minimal cost (reducing $$CO_2$$ emissions involves a cost). We express this objective mathematically as follows:
 
 $$
-\min_{u(\cdot)} J(x(\cdot), u(\cdot)) = \min_{u(\cdot)} \left[\int_{0}^{t_f} \left(x_2(t)-\ln(u(t)) \right)dt\right] \quad\quad \text{subject to }
-  \begin{dcases}
-    \dot{x}(t) = f(x(t), u(t))  \quad t \in [0,t_f]\\
-    t_f=100\\
-    u(t) \geq 0\\
-    x(0) = x_{real}(2000)
-  \end{dcases}
+\min_{u(\cdot)} J(x(\cdot), u(\cdot)) = \min_{u(\cdot)} \left[\int_{0}^{t_f} \left(x_2(t)-\ln(u(t)) \right)dt\right] \\
+\quad\quad \text{subject to }\\
+\dot{x}(t) = f(x(t), u(t))  \quad t \in [0,t_f]\\
+t_f=100\\
+u(t) \geq 0\\
+x(0) = x_{real}(2000)
 $$
 
 where we have normalized the time interval to start from $$t=0$$ rather than $$t=2000$$.
