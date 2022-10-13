@@ -45,7 +45,8 @@ The first state equation states that the atmospheric concentration of $$CO_2$$ (
 
 ## System identification
 
-The system model includes five free parameters: $$\alpha, \beta, \gamma, \delta, \epsilon$$. We estimate these parameters based on historical climate data (see Fig. 2). Specifically, we use Bayesian optimization [6] to find model parameters that minimize the difference between the model's predictions and historical climate data from the years $$1960-2015$$. Formally, we minimize the optimization criterion:
+The system model includes five free parameters: $$\alpha, \beta, \gamma, \delta, \epsilon$$. We estimate these parameters based on historical climate data (see the figure above). Specifically, we use Bayesian optimization [6] to find model parameters that minimize the difference between the model's predictions and historical climate data from the years $$1960-2015$$. Formally, we minimize the optimization criterion:
+
 $$
 \min_{\alpha, \beta, \gamma, \delta, \epsilon} \int_{t_i}^{t_f}||x(t) - x_{real}(t)||dt \quad \quad \text{subject to }
                                                     \begin{dcases}
@@ -59,15 +60,18 @@ $$
 
 where $$x(t)$$ is the predicted values of $$CO_2$$ concentration and temperature increase when $$u_{real}(t), t \in [t_i,t_f]$$ is input to the model and $$u_{real}(t)$$ and $$x_{real}(t)$$ refers to the actual $$CO_2$$ emissions, the actual $$CO_2$$ levels in the atmosphere, and the actual temperature increase recorded at year $$t$$, where $$t \in [1960,2015]$$.
 
-The convergence curve of Bayesian optimization is shown in Fig. 3 and a comparison between the state trajectory predicted by the model with the optimized parameters $$\alpha=0.93,\delta=-0.05,\beta=0.01,\gamma=3.398,\epsilon=0.14$$ and the historical climate data is shown in Fig. 4.
+The convergence curve of Bayesian optimization is shown below:
 
 ![system_id](/assets/system_id.png "Convergence curves produced by optimizing model parameters through Bayesian optimization; the x-axis shows the optimization iteration; the y-axis shows the norm of the difference between the historical climate data and the predicted climate trajectories.")
+
+A comparison between the state trajectory predicted by the model with the optimized parameters $$\alpha=0.93,\delta=-0.05,\beta=0.01,\gamma=3.398,\epsilon=0.14$$ and the historical climate data is shown below:
 
 ![climate_system_model_2](/assets/climate_system_model_2.png "Comparison between historical climate data ($x_{real}(t)$) from the years $1960-2015$ and the $CO_2$ levels and temperature increase predicted by the model ($x(t$)); the model outputs were produced numerically through the Runge-Kutta method.")
 
 
 ## The Optimal Control Problem
 The goal is to find a control law for climate engineering that minimizes global warming over the coming thousand years (the years $$2000-3000$$) at the minimal cost (reducing $$CO_2$$ emissions involves a cost). We express this objective mathematically as follows:
+
 $$
 \min_{u(\cdot)} J(x(\cdot), u(\cdot)) = \min_{u(\cdot)} \left[\int_{0}^{t_f} \left(x_2(t)-\ln(u(t)) \right)dt\right] \quad\quad \text{subject to }
   \begin{dcases}
@@ -94,7 +98,7 @@ f_2(x_1(t), x_2(t))
 \end{bmatrix}
 $$
 
-and the stage cost (see Fig. 5):
+and the stage cost (see the figure below):
 $$
 f_0(x(t), u(t)) \triangleq x_2(t)-\ln(u(t))
 $$
@@ -129,8 +133,8 @@ H^{*}(x^{*}(\cdot), u^{*}(\cdot), \lambda(t)) = \min_{u(\cdot)}H(x^{*}(\cdot), u
 $$
 In our case, the above conditions implies that:
 $$
-  u^{*}(t) = \tilde{\mu}(t,x(t), u(t)) \triangleq \argmin_{u(t)}\left[x_2(t)-\ln(u(t)) + \lambda_1(t)\left(\alpha u(t) - \beta x_1(t) + \gamma x_2(t)x_1(t)\right) + \lambda_2(t)\left(\delta(\epsilon x_2(t) - x_1(t))\right)\right]\\
-           =\argmin_{u(t)}\left[\underbrace{-\ln(u(t)) + \lambda_1(t)\alpha u(t)}_{\text{convex in $u$}} \right]
+  u^{*}(t) = \tilde{\mu}(t,x(t), u(t)) \triangleq arg\min_{u(t)}\left[x_2(t)-\ln(u(t)) + \lambda_1(t)\left(\alpha u(t) - \beta x_1(t) + \gamma x_2(t)x_1(t)\right) + \lambda_2(t)\left(\delta(\epsilon x_2(t) - x_1(t))\right)\right]\\
+           =arg\min_{u(t)}\left[\underbrace{-\ln(u(t)) + \lambda_1(t)\alpha u(t)}_{\text{convex in $u$}} \right]
 $$
 Since the expression inside the minimization is convex in $$u$$, a necessary and sufficient condition for minimality is:
 $$n
@@ -215,7 +219,8 @@ $$
 \end{bmatrix}
 $$
 
-with constants $$\alpha=0.9,\delta=-0.05,\beta=0.01,\gamma=0,\epsilon=0.14$$ and $$t_f=1000$$ are shown in Fig. 6. From the results in the figure we conclude that the optimal control is to reduce the $$CO_2$$ emissions to a level close to zero for the coming $$800$$ years and then to increase the emissions exponentially around year $$800$$. This control law keeps the temperature increase safely below $$2$$ degrees and quickly reduces the $$CO_2$$ concentration in the atmosphere. That the optimal control is to first reduce the $$CO_2$$ emissions and then to increase it is a result of the fixed time horizon $$t_f$$. Since the time horizon is fixed, it is optimal to act myopically when close to the final time since any dynamical effects after the final time will not affect the cost. From this observation we conclude that to obtain more sensible results, an infinite horizon version of the optimal control problem should be considered.
+with constants $$\alpha=0.9,\delta=-0.05,\beta=0.01,\gamma=0,\epsilon=0.14$$ and $$t_f=1000$$ are shown in the figure below. From the results in the figure we conclude that the optimal control is to reduce the $$CO_2$$ emissions to a level close to zero for the coming $$800$$ years and then to increase the emissions exponentially around year $$800$$. This control law keeps the temperature increase safely below $$2$$ degrees and quickly reduces the $$CO_2$$ concentration in the atmosphere. That the optimal control is to first reduce the $$CO_2$$ emissions and then to increase it is a result of the fixed time horizon $$t_f$$. Since the time horizon is fixed, it is optimal to act myopically when close to the final time since any dynamical effects after the final time will not affect the cost. From this observation we conclude that to obtain more sensible results, an infinite horizon version of the optimal control problem should be considered.
+
 ![numerical results](/assets/numerical_results.png "Numerical results when following the optimal control law; the upper plot shows the evolution of the $$CO_2$$ concentration in the atmosphere during the years $$2000-3000$$ ($$x_1(t)$$); the middle plot shows the evolution of land temperature on Earth ($$x_2(t)$$); and the middle plot shows the evolution of the control $$u(t)$$ (amount of $$CO_2$$ emissions);")
 
 ## Discussion
@@ -232,15 +237,25 @@ Our conclusion is that the global climate is too complex to be captured by a mod
 ## References
 
 [1] Data Overview. Sept. 2022. URL: http://berkeleyearth.org/data/.
-[2] Berkeley Earth. Climate change: Earth surface temperature data. May 2017. URL: https://www.kaggle.
-com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data.
+
+[2] Berkeley Earth. Climate change: Earth surface temperature data. May 2017. URL: https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data.
+
 [3] Paul N. Edwards. A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming. The MIT Press, 2010. ISBN: 9780262518635. URL: http://www.jstor.org/stable/j.ctt5hhds1 (visited on 10/04/2022).
+
 [4] Paul N. Edwards. “History of climate modeling”. In: Wiley Interdisciplinary Reviews: Climate Change 2 (2011).
+
 [5] Gary Erickson. Optimal Control of Global Warming. 2012.
+
 [6] Donald R. Jones, Matthias Schonlau, and William J. Welch. “Efficient Global Optimization of Expensive Black-Box Functions”. In: J. of Global Optimization 13.4 (Dec. 1998), pp. 455–492. ISSN: 0925-5001. DOI: 10.1023/A:1008306431147. URL: https://doi.org/10.1023/A:1008306431147.
+
 [7] United Nations. Paris Agreement. 2015.
+
 [8] William D. Nordhaus. “To Slow or Not to Slow: The Economics of The Greenhouse Effect”. In: The Economic Journal 101.407 (1991), pp. 920–937. ISSN: 00130133, 14680297. URL: http://www.jstor. org/stable/2233864 (visited on 10/06/2022).
+
 [9] L.S. Pontrjagin. The Mathematical Theory of Optimal Processes. Interscience Publ., 1962. URL: https: //books.google.se/books?id=jzJPAQAAIAAJ.
+
 [10] Regeringskansliet. En samlad politik fo ̈r klimatet. 2020.
+
 [11] The Royal Society. Climate change: a summary of the science. 2010.
+
 [12] Gustav Strandberg. Säkerhet och osäkerhet i klimatscenarierna. 2020.
