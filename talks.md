@@ -4,6 +4,12 @@ title: Talks
 ---
 
 2022
+:   **Self-learning Intrusion Prevention Systems**; Stockholm, KTH, NSE Seminar, October 21 2022, Division of Network and Systems Engineering.
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/selflearning-intrusion-prevention-systems)
+	[PDF](/assets/slides/NSE_seminar_oct_2022_Kim.pdf)
+
+2022
 :   **Paper Review: Developing Optimal Causal Cyber Agents**; Stockholm, KTH, ML+Security Reading Group NSE Sep 23 2022, Division of Network and Systems Engineering.
     **Kim Hammar**
 	[PDF](/assets/slides/MLsec_reading_group_NSE_2022_23_sep_Kim_Hammar.pdf)
