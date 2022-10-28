@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+1 Nov '22
+:   Attending CNSM´22 in Thessaloniki, Greece.
+
 27 Aug '22
 :   Our conference paper "An Online Framework for Adapting Security Policies in Dynamic IT Environments" was accepted to CNSM´22.
 
