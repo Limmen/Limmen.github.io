@@ -8,6 +8,7 @@ title: Talks
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-defense)
 	[PDF](/assets/slides/CDIS_fall_retreat_28_oct_22.pdf)
+    [Video](https://youtu.be/tpal1DoNBy8)
 
 2022
 :   **Self-learning Intrusion Prevention Systems**; Stockholm, KTH, NSE Seminar, October 21 2022, Division of Network and Systems Engineering.
