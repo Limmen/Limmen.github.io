@@ -24,7 +24,7 @@ title: Services
 **Reviewer CNSM 2021** (International Conference on Network and Service Management).
 [link](http://www.cnsm-conf.org/2021/)
 
-**Member - Cyber Security Academy, Unga forskare**.
+**Member - Cyber Security Academy, Unga forskare (2021-)**.
 [link](https://ungaforskare.se/cybersecurityacademy/)
 
 **Video streaming chair CDIS spring conference 2021**. Managed video conference over zoom with ~150 participants.
