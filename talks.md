@@ -4,6 +4,14 @@ title: Talks
 ---
 
 2022
+:   **An Online Framework for Adapting Security Policies in Dynamic IT Environment**; Thessaloniki, Greece, CNSM 2022: International Conference on Network and Service Management Oct 31 - Nov 4.
+    **Kim Hammar** and Rolf Stadler
+	[Slides](https://www.slideshare.net/KimHammar/cnsm-2022-an-online-framework-for-adapting-security-policies-in-dynamic-it-environment-hammar-stadler)
+	[PDF](/assets/slides/CNSM_22_Hammar_Stadler_2_Nov.pdf)
+	[Event](http://www.cnsm-conf.org/2022/)
+	[Video](https://www.youtube.com/watch?v=r1FD2-b-25g)
+
+2022
 :   **Self-learning Systems for Cyber Defense**; Lidingö, CDIS fall retreat, October 28 2022.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-defense)
