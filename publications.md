@@ -34,6 +34,9 @@ title: Publications
 2022
 :   **An Online Framework for Adapting Security Policies in Dynamic IT Environments**; Conference paper, CNSM 2022: International Conference on Network and Service Management, Thessaloniki, Greece October 31 - November 4.
     **Kim Hammar** and Rolf Stadler
+	[IEEE Proceedings](https://ieeexplore.ieee.org/document/9964838)
+	[IFIP Open Library Conference Proceedings](https://dl.ifip.org/db/conf/cnsm/cnsm2022/)
+	[IFIP Open Library PDF](https://dl.ifip.org/db/conf/cnsm/cnsm2022/58.pdf)
 	[PDF(preprint)](/assets/papers/CNSM22_preprint_8_sep_Hammar_Stadler.pdf)
 
 2022

@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+6 Dec '22
+:   Erik Hemberg from MIT [ALFA](https://alfagroup.csail.mit.edu/anyscale-learning-all) is visiting us at KTH.
+
 1 Nov '22
 :   Attending CNSM´22 in Thessaloniki, Greece.
 
