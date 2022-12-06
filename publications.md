@@ -38,6 +38,7 @@ title: Publications
 	[IFIP Open Library Conference Proceedings](https://dl.ifip.org/db/conf/cnsm/cnsm2022/)
 	[IFIP Open Library PDF](https://dl.ifip.org/db/conf/cnsm/cnsm2022/58.pdf)
 	[PDF(preprint)](/assets/papers/CNSM22_preprint_8_sep_Hammar_Stadler.pdf)
+	[bib](/assets/citations/cnsm_22_hammar_stadler.bib)
 
 2022
 :   **Learning Security Strategies through Game Play and Optimal Stopping**; Conference paper, ICML Ml4Cyber Workshop 2022: International Conference on Machine Learning, Baltimore, USA July 17-23.
