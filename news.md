@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+21 Dec '22
+:   [Neil Dhir](https://neildhir.github.io/) from Siemens Research is visiting us at KTH.
+
 6 Dec '22
 :   Erik Hemberg from MIT [ALFA](https://alfagroup.csail.mit.edu/anyscale-learning-all) is visiting us at KTH.
 
