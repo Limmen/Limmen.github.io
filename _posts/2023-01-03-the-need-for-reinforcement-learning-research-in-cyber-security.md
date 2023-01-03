@@ -1,5 +1,5 @@
 ---
-title: Reinforcement Learning for Automated Security
+title: The Need for Reinforcement Learning Research in Cyber Security
 updated: 2023-01-03 16:52
 ---
 
