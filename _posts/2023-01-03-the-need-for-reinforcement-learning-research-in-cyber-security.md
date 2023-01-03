@@ -27,5 +27,7 @@ As vital societal functions are increasingly reliant on digital technology, e.g.
 ### References
 
 1] Defense Use Case. Analysis of the cyber attack on the ukrainian power grid. Electricity Information Sharing and Analysis Center (E-ISAC), 388:1–29, 2016.
+
 [2] World Economic Forum. Global cybersecurity outlook, 2022.
+
 [3] Kim Hammar and Rolf Stadler. Intrusion prevention through optimal stopping. IEEE Transactions on Network and Service Management, 19(3):2333–2348, 2022.
