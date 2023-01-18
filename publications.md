@@ -5,11 +5,11 @@ title: Publications
 
 ### Preprints
 
-2022
-:   **Learning Security Strategies through Game Play and Optimal Stopping**; To be submitted.
+2023
+:   **Learning Near-Optimal Intrusion Responses Against Dynamic Attackers**; Under review at IEEE.
     **Kim Hammar** and Rolf Stadler
-	[arXiv(preprint)](https://arxiv.org/abs/2205.14694)
-	[PDF(preprint)](/assets/papers/ml4cy_ext.pdf)
+	[arXiv(preprint)](https://arxiv.org/abs/2301.06085)
+	[PDF(preprint)](/assets/papers/TNSM_23_preprint_learning_Hammar_Stadler_18_Jan.pdf)
 
 ### Journals
 
@@ -103,6 +103,14 @@ Mihhail Matskin
 	[PDF](/assets/papers/deep_text_mining_wi18.pdf)
 	[ArXiv](https://arxiv.org/abs/1909.10812)
     [bib](/assets/citations/text_mining.bib)
+
+
+### Workshops
+
+2022
+:   **Learning Security Strategies through Game Play and Optimal Stopping**; Workshop paper, ML4Cyber workshop ICML 2022, Baltimore USA, July 17-23.
+    **Kim Hammar** and Rolf Stadler
+	[PDF](/assets/papers/icml_ml4cyber_Hammar_Stadler_final_24_june_2022.pdf)
 
 ### Posters
 
