@@ -4,13 +4,13 @@ title: Talks
 ---
 
 2023
-:   **Intrusion Response through Optimal Stopping**; New York, invited talk, Quanyan Zhu's research group. 2023 30 January.
+:   **Intrusion Response through Optimal Stopping**; New York, USA, invited talk, Quanyan Zhu's research group. 2023 30 January.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/intrusion-response-through-optimal-stopping)
 	[PDF](/assets/slides/NYU_Invited_Talk_Optimal_Stopping_Hammar_30_jan_2023.pdf)
 
 2022
-:   **Självlärande system för cyberförsvar**; Linköping, IT-försvarsdagen 2022 Dec 6.
+:   **Självlärande system för cyberförsvar**; Linköping, Sweden, IT-försvarsdagen 2022 Dec 6.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/cnsm-2022-an-online-framework-for-adapting-security-policies-in-dynamic-it-environment-hammar-stadler)
 	[PDF](/assets/slides/IT_forsvarsdagen_22_Hammar.pdf)
@@ -25,14 +25,14 @@ title: Talks
 	[Video](https://www.youtube.com/watch?v=r1FD2-b-25g)
 
 2022
-:   **Self-learning Systems for Cyber Defense**; Lidingö, CDIS fall retreat, October 28 2022.
+:   **Self-learning Systems for Cyber Defense**; Lidingö, Sweden, CDIS fall retreat, October 28 2022.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-defense)
 	[PDF](/assets/slides/CDIS_fall_retreat_28_oct_22.pdf)
     [Video](https://youtu.be/tpal1DoNBy8)
 
 2022
-:   **Self-learning Intrusion Prevention Systems**; Stockholm, KTH, NSE Seminar, October 21 2022, Division of Network and Systems Engineering.
+:   **Self-learning Intrusion Prevention Systems**; Stockholm, Sweden, KTH, NSE Seminar, October 21 2022, Division of Network and Systems Engineering.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/selflearning-intrusion-prevention-systems)
 	[PDF](/assets/slides/NSE_seminar_oct_2022_Kim.pdf)
@@ -43,7 +43,7 @@ title: Talks
 	[PDF](/assets/slides/MLsec_reading_group_NSE_2022_23_sep_Kim_Hammar.pdf)
 
 2022
-:   **Learning Security Strategies through Game Play and Optimal Stopping**; Baltimore, ML4Cyber workshop at ICML 2022: International Conference on Machine Learning July 15-23.
+:   **Learning Security Strategies through Game Play and Optimal Stopping**; Baltimore, USA, ML4Cyber workshop at ICML 2022: International Conference on Machine Learning July 15-23.
     **Kim Hammar** and Rolf Stadler
 	[Slides](https://www.slideshare.net/KimHammar/learning-security-strategies-through-game-play-and-optimal-stopping)
 	[PDF](/assets/slides/ICML_22_HAMMAR_STADLER_SLIDES.PDF)
@@ -51,54 +51,54 @@ title: Talks
 	![icml22_presentation](/assets/icml22_presentation.png "Presentation at ICML 2022")
 
 2022
-:   **A System for Interactive Examination of Learned Security Policies**; Budapest, NOMS 2022: IEEE/IFIP Network Operations and Management Symposium April 25-29.
+:   **A System for Interactive Examination of Learned Security Policies**; Budapest, Hungary NOMS 2022: IEEE/IFIP Network Operations and Management Symposium April 25-29.
     **Kim Hammar** and Rolf Stadler
 	[Video](https://www.youtube.com/watch?v=18P7MjPKNDg)
    ![noms_2022_presentation](/assets/noms22_presentation_26_april_22.png "Presentation at NOMS 2022")
 
 2022
-:   **Intrusion Prevention through Optimal Stopping**; London, Alan Turing Institute, invited talk, Mar 25 2022
+:   **Intrusion Prevention through Optimal Stopping**; London, UK, Alan Turing Institute, invited talk, Mar 25 2022
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/intrusion-prevention-through-optimal-stopping-251427388)
 	[PDF](/assets/slides/IPS_through_OptimalStopping_25_mar_2022_ATI_KimHammar.pdf)
 
 2022
-:   **Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing**; Stockholm, KTH, ML+Security Reading Group NSE March 18 2022, Division of Network and Systems Engineering.
+:   **Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing**; Stockholm, Sweden, KTH, ML+Security Reading Group NSE March 18 2022, Division of Network and Systems Engineering.
     **Kim Hammar**
 	[PDF](/assets/slides/MLSec_Reading_group_NSE_18_mar_22.pdf)
 
 2022
-:   **Intrusion Prevention through Optimal Stopping and Self-Play**; Stockholm, KTH, NSE Seminar, March 18 2022, Division of Network and Systems Engineering.
+:   **Intrusion Prevention through Optimal Stopping and Self-Play**; Stockholm, Sweden, KTH, NSE Seminar, March 18 2022, Division of Network and Systems Engineering.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/intrusion-prevention-through-optimal-stopping-and-selfplay)
 	[PDF](/assets/slides/NSE_Seminar_18_March_2022_Kim_Hammar.pdf)
 
 2022
-:   **Introduktion till försvar mot nätverksintrång**; Stockholm, KTH EP1200, Feb 22 2022.
+:   **Introduktion till försvar mot nätverksintrång**; Stockholm, Sweden, KTH EP1200, Feb 22 2022.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/introduktion-till-frsvar-mot-ntverksintrng-22-feb-2022-ep1200-kth)
 	[PDF](/assets/slides/Intro_till_forsvar_mot_natverksintrang_EP1200_16_2_22.pdf)
 
 2022
-:   **Intrusion Prevention through Optimal Stopping**; Stockholm, KTH, Netcon Seminar, invited talk, Feb 7 2022, Division of Decision and Control Systems.
+:   **Intrusion Prevention through Optimal Stopping**; Stockholm, Sweden, KTH, Netcon Seminar, invited talk, Feb 7 2022, Division of Decision and Control Systems.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/intrusion-prevention-through-optimal-stopping-251125924)
 	[PDF](/assets/slides/Netcon_talk_7_feb_2022_OptimalStopping_Intrusion_Prevention_Kim_Hammar.pdf)
 
 2022
-:   **Intrusion Prevention through Optimal Stopping**; Stockholm, KTH, Machine Learning Day Digital futures, Jan 17 2022, Division of Network and Systems Engineering.
+:   **Intrusion Prevention through Optimal Stopping**; Stockholm, Sweden, KTH, Machine Learning Day Digital futures, Jan 17 2022, Division of Network and Systems Engineering.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/intrusion-prevention-through-optimal-stopping)
 	[PDF](/assets/slides/Machine_Learning_Day_Digital_Futures_17_Jan_2022_Hammar_Stadler.pdf)
 
 2021
-:   **A Game Theoretic Analysis of Intrusion Detection in Access Control Systems**; Stockholm, KTH, FEP3301 Computational Game Theory Course, Dec 8 2021, Division of Network and Systems Engineering.
+:   **A Game Theoretic Analysis of Intrusion Detection in Access Control Systems**; Stockholm, Sweden, KTH, FEP3301 Computational Game Theory Course, Dec 8 2021, Division of Network and Systems Engineering.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/a-game-theoretic-analysis-of-intrusion-detection-in-access-control-systems-paper-review)
 	[PDF](/assets/slides/FEP3301_Presentation_Hammar_8_Dec_2021.pdf)
 
 2021
-:   **Learning Intrusion Prevention Policies through Optimal Stopping**; Izmir, CNSM 2021: International Conference on Network and Service Management October 25-29.
+:   **Learning Intrusion Prevention Policies through Optimal Stopping**; Izmir, Turkey, CNSM 2021: International Conference on Network and Service Management October 25-29.
     **Kim Hammar** and Rolf Stadler
 	[Slides](https://www.slideshare.net/KimHammar/learning-intrusion-prevention-policies-through-optimal-stopping-cnsm2021)
 	[PDF](/assets/slides/CNSM_2021_Hammar_Stadler_28_Oct.pdf)
@@ -108,13 +108,13 @@ title: Talks
 	![cnsm_2021_presentation](/assets/cnsm21_presentation.png "Presentation at CNSM 2021")
 
 2021
-:   **Reinforcement Learning Algorithms for Adaptive Cyber Defense against Heartbleed**; Stockholm, KTH, ML+Security Reading Group NSE October 22 2021, Division of Network and Systems Engineering.
+:   **Reinforcement Learning Algorithms for Adaptive Cyber Defense against Heartbleed**; Stockholm, Sweden, KTH, ML+Security Reading Group NSE October 22 2021, Division of Network and Systems Engineering.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/reinforcement-learning-algorithms-for-adaptive-cyber-defense-against-heartbleed)
 	[PDF](/assets/slides/mlsec_NSE_reading_group_22_oct_2021_Hammar.pdf)
 
 2021
-:   **Självlärande system för cybersäkerhet**; Stockholm, KTH, CDIS, Division of Network and Systems Engineering, Besök av riksdagens försvarsutskott (S) 20 Oct 2021.
+:   **Självlärande system för cybersäkerhet**; Stockholm, Sweden, KTH, CDIS, Division of Network and Systems Engineering, Besök av riksdagens försvarsutskott (S) 20 Oct 2021.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/sjlvlrande-system-fr-cyberskerhet)
 	[PDF](/assets/slides/riksdagens_forsvarsutskott_S_CDIS_Hammar_20_oct_2021.pdf)
@@ -132,37 +132,37 @@ title: Talks
 	[PDF](/assets/slides/NSE_seminar_8_oct_21_Hammar_Stadler.pdf)
 
 2021
-:   **Self-Learning Systems for Cyber Security**; Enköping, Ledningsregementet, August 18 2021.
+:   **Self-Learning Systems for Cyber Security**; Enköping, Sweden, Ledningsregementet, August 18 2021.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-security-250086888)
 	[PDF](/assets/slides/Hammar_Stadler_Self_Learning_Systems_Enkoping_18_aug_21.pdf)
 
 2021
-:   **MuZero**; Stockholm, KTH, ML+Security Reading Group NSE April 23 2021, Division of Network and Systems Engineering.
+:   **MuZero**; Stockholm, Sweden, KTH, ML+Security Reading Group NSE April 23 2021, Division of Network and Systems Engineering.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/muzero-ml-security-reading-group)
 	[PDF](/assets/slides/muzero_ml_reading_group_23_apr_21_KimHammar.pdf)
 
 2021
-:   **Self-Learning Systems for Cyber Security**; Stockholm, KTH, NSE Seminar April 9 2021, Division of Network and Systems Engineering.
+:   **Self-Learning Systems for Cyber Security**; Stockholm, Sweden, KTH, NSE Seminar April 9 2021, Division of Network and Systems Engineering.
     **Kim Hammar** and Rolf Stadler
 	[Slides](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-security-245974483)
 	[PDF](/assets/slides/nse_seminar_9_april_21_KimHammar.pdf)
 
 2021
-:   **Self-Learning Systems for Cyber Security**; Stockholm, KTH, CDIS Spring Conference March 24 2021.
+:   **Self-Learning Systems for Cyber Security**; Stockholm, Sweden, KTH, CDIS Spring Conference March 24 2021.
     **Kim Hammar** and Rolf Stadler
 	[Slides](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-security-245001363)
 	[PDF](/assets/slides/Kim_Hammar_Rolf_Stadler_CDIS_Spring_Conference_March_24_Self_learning_Systems_for_Defense.pdf)
 
 2020
-:   **Self-Learning Systems for Cyber Security**; Stockholm, KTH, NSE Seminar 4 Dec 2020, Division of Network and Systems Engineering.
+:   **Self-Learning Systems for Cyber Security**; Stockholm, Sweden, KTH, NSE Seminar 4 Dec 2020, Division of Network and Systems Engineering.
     **Kim Hammar** and Rolf Stadler
 	[Slides](https://www.slideshare.net/KimHammar/nse-seminar-4dechammarstadler)
 	[PDF](/assets/slides/NSE_seminar_4_dec_Hammar_Stadler.pdf)
 
 2020
-:   **Finding Effective Security Strategies through Reinforcement Learning and Self-Play**; Izmir, CNSM 2020: International Conference on Network and Service Management November 2-6.
+:   **Finding Effective Security Strategies through Reinforcement Learning and Self-Play**; Izmir, Turkey, CNSM 2020: International Conference on Network and Service Management November 2-6.
     **Kim Hammar** and Rolf Stadler
 	[Slides](https://www.slideshare.net/KimHammar/cdis-hammar-stadler15oct2020)
 	[PDF](/assets/slides/cnsm_2020_hammar_stadler_3_nov.pdf)
@@ -171,17 +171,17 @@ title: Talks
 	![cnsm_2020_presentation](/assets/cnsm20_presentation.png "Presentation at CNSM 2020")
 
 2020
-:   **Self-Learning Systems for Cyber Security**; Stockholm, KTH, Center for Cyber Defense and Information Security, October 15 2020.
+:   **Self-Learning Systems for Cyber Security**; Stockholm, Sweden, KTH, Center for Cyber Defense and Information Security, October 15 2020.
 	[Slides](https://www.slideshare.net/KimHammar/selflearning-systems-for-cyber-security)
 	[PDF](/assets/slides/cdis_hammar_stadler_15_oct_2020.pdf)
 
 2020
-:   **A Deep Journey of Playing Games with Reinforcement Learning**; Stockholm, KTH, Division of Network and Systems Engineering, January 31 2020.
+:   **A Deep Journey of Playing Games with Reinforcement Learning**; Stockholm, Sweden, KTH, Division of Network and Systems Engineering, January 31 2020.
 	[Slides](https://www.slideshare.net/KimHammar/nse-kth-seminardeeprlgameskimhammar31jan2020)
 	[PDF](/assets/slides/deepmind_rl_nse.pdf)
 
 2019
-:   **End-to-End ML Pipelines with Databricks Delta and Hopsworks Feature Store**; Amsterdam, Spark+AI Summit October 2019.
+:   **End-to-End ML Pipelines with Databricks Delta and Hopsworks Feature Store**; Amsterdam, Netherlands, Spark+AI Summit October 2019.
 	[Event](https://databricks.com/session_eu19/end-to-end-spark-tensorflow-pytorch-pipelines-with-databricks-delta)
 	[Video](https://www.youtube.com/watch?v=zGNQQfEjCQY)
 	[Slides](https://www.slideshare.net/KimHammar/spark-ai-summitoct172019kimhammarjimdowlingv6)
@@ -189,24 +189,24 @@ title: Talks
 	![sais_2019](/assets/sais2019.jpg "Spark+AI Summit 2019 Amsterdam")
 
 2019
-:   **Distributed Deep Learning with Hopsworks**; Bosön, EIT Big Data Summer School, 10 August 2019.
+:   **Distributed Deep Learning with Hopsworks**; Bosön, Sweden, EIT Big Data Summer School, 10 August 2019.
 	[Event](https://bdaschool2019.github.io)
 	[Slides](https://www.slideshare.net/KimHammar/eit-digital-bigdatasummerschool8aug2019kimhammar-162409943)
 	[PDF](/assets/slides/ddl_eit.pdf)
 	![eit_summer_school](/assets/summer_school.jpg "EIT Summer School Hopsworks")
 
 2019
-:   **Introduction to Large Scale Machine Learning**; Stockholm, CGI Trainee Lecture, May 2019.
+:   **Introduction to Large Scale Machine Learning**; Stockholm, Sweden, CGI Trainee Lecture, May 2019.
 	[Slides](https://www.slideshare.net/KimHammar/cgi-trainees-workshop-distributed-deep-learning-245-2019-kim-hammar)
 	[PDF](/assets/slides/ddl_cgi.pdf)
 
 2019
-:   **Machine Learning Infrastructure for the Steel Industry**; Hagfors, meeting at Uddeholm AB, May 8 2019.
+:   **Machine Learning Infrastructure for the Steel Industry**; Hagfors, Sweden, meeting at Uddeholm AB, May 8 2019.
 	[Slides](https://www.slideshare.net/KimHammar/uddeholm-ml-workshophagforskimhammar)
 	[PDF](/assets/slides/uddeholm.pdf)
 
 2019
-:   **Distributed Deep Learning with Hopsworks**; San Francisco, SF machine Learning Meetup, 25 April 2019.
+:   **Distributed Deep Learning with Hopsworks**; San Francisco, USA, SF machine Learning Meetup, 25 April 2019.
 	[Slides](https://www.slideshare.net/KimHammar/distributed-deep-learningwithhopsworkskimhammar25april2019)
 	[Event](https://www.meetup.com/sfmachinelearning/events/260177607)
 	[Video](https://www.youtube.com/watch?v=V6siDg2REZQ&feature=youtu.be&t=2697)
@@ -214,19 +214,19 @@ title: Talks
 	![sf_ml_meetup](/assets/mesosphere_meetup_sf.jpeg "Mesosphere Meetup San Francisco")
 
 2019
-:   **Distributed Deep Learning with the Hopsworks Feature Store**; Palo Alto, HopsML Meetup, 23 April 2019.
+:   **Distributed Deep Learning with the Hopsworks Feature Store**; Palo Alto, USA, HopsML Meetup, 23 April 2019.
 	[Slides](https://www.slideshare.net/KimHammar/hopsworks-hands-onfeaturestorepaloaltokimhammar23april2019)
 	[PDF](/assets/slides/featurestore_palo_alto.pdf)
 	[Event](https://www.eventbrite.ie/e/hopsworks-hands-on-feature-store-distributed-deep-learning-and-more-tickets-58136928117)
 	![sf_featurestore_train](/assets/sf_train_office_w_jim.png "SF Feature Store HopsML Meetup")
 
 2019
-:   **Feature Store: the missing data layer in ML pipelines**; Stockholm, Spotify Machine Learning Guild Fika, February 26 2019.
+:   **Feature Store: the missing data layer in ML pipelines**; Stockholm, Sweden, Spotify Machine Learning Guild Fika, February 26 2019.
 	[Slides](https://www.slideshare.net/KimHammar/kim-hammar-spotify-ml-guild-meetup-feature-stores)
 	[PDF](/assets/slides/featurestore_spotify.pdf)
 
 2019
-:   **Feature Store: the missing data layer in ML pipelines**; Brussels, FOSDEM, January 30 2019.
+:   **Feature Store: the missing data layer in ML pipelines**; Brussels, Belgium, FOSDEM, January 30 2019.
 	[Event](https://archive.fosdem.org/2019/schedule/event/feature_store/)
 	[Slides](https://www.slideshare.net/KimHammar/kim-hammar-feature-store-the-missing-data-layer-in-ml-pipelines-hopsml-meetup-stockholm)
 	[Video](https://www.youtube.com/watch?v=86rrEJqRLO4&t=)
@@ -234,44 +234,44 @@ title: Talks
 	![fosdem_featurestore](/assets/fosdem_brussels5.jpeg "Feature Store - FOSDEM")
 
 2019
-:   **Feature Store: the missing data layer in ML pipelines**; Stockholm, HopsML meetup, January 29 2019.
+:   **Feature Store: the missing data layer in ML pipelines**; Stockholm, Sweden, HopsML meetup, January 29 2019.
 	[Event](https://www.meetup.com/HopsML-Stockholm/events/257952659/)
 	[Slides](https://www.slideshare.net/KimHammar/kim-hammar-feature-store-the-missing-data-layer-in-ml-pipelines-hopsml-meetup-stockholm)
 	[PDF](/assets/slides/featurestore_hopsml.pdf)
 	![hopsml_featurestore](/assets/hopsml_meetup_stockholm.jpeg "Feature Store - HopsML")
 
 2018
-:   **Deep Text Mining of Instagram Data Without Strong Supervision**; Santiago, International conference on Web Intelligence, December 4 2018.
+:   **Deep Text Mining of Instagram Data Without Strong Supervision**; Santiago, Chile, International conference on Web Intelligence, December 4 2018.
 	[Event](https://webintelligence2018.com/)
 	[PDF](/assets/slides/web_intelligence_santiago_pres.pdf)
 	[Slides](https://www.slideshare.net/KimHammar/wi-2018-santiago)
 
 2018
-:   **The Future of Deep Learning**; Stockholm, HopsML Meetup panel discussion.
+:   **The Future of Deep Learning**; Stockholm, Sweden, HopsML Meetup panel discussion.
 	[Event](https://www.meetup.com/HopsML-Stockholm/events/256064863/)
     ![panel_discussion](/assets/hopsml_meetup_panel.jpeg "HopsML Meetup Panel Discussion: The Future of Deep Learning")
 
 2018
-:   **Distributed Deep Learning**; Stockholm, RISE Machine Learning Study group.
+:   **Distributed Deep Learning**; Stockholm, Sweden, RISE Machine Learning Study group.
 	[Slides](https://www.slideshare.net/KimHammar/kim-hammar-distributed-deep-learning-rise-learning-machines-meetup)
 	[PDF](/assets/slides/rise_ml.pdf)
 
 2018
-:   **Building a Fault-Tolerant ETL Pipeline for Claims CAFé**; Chicago, Internship Presentation, Allstate, August 30 2018.
+:   **Building a Fault-Tolerant ETL Pipeline for Claims CAFé**; Chicago, USA, Internship Presentation, Allstate, August 30 2018.
 	[Slides](https://www.slideshare.net/KimHammar/kim-hammar-allstate-internship-presentation-data-engineering-analytics-claims-cafe)
 	[PDF](/assets/slides/allstate_defense.pdf)
 	![allstate_1](/assets/allstate1.jpg "Allstate Internship")
 	![allstate_2](/assets/allstate2.jpg "Allstate Internship")
 
 2018
-:   **Deep Text Mining of Instagram Data Without Strong Supervision**; Stockholm, Master's Thesis Defense, KTH, June 1 2018.
+:   **Deep Text Mining of Instagram Data Without Strong Supervision**; Stockholm, Sweden, Master's Thesis Defense, KTH, June 1 2018.
 	[Video](https://www.youtube.com/watch?v=OgFQIGAhPgQ&t=1567s)
 	[Slides](https://www.slideshare.net/KimHammar/kim-hammar-msc-thesis-defense-2018)
 	[PDF](/assets/slides/master_defense.pdf)
 	![master_thesis_defense](/assets/master_thesis_defense.jpeg "Master Thesis Defense")
 
 2018
-:   **Human Activity Recognition: On-Edge Inference and Distributed Deep Learning**; Stockholm, Hadoop User Group Meetup, January 9, 2018.
+:   **Human Activity Recognition: On-Edge Inference and Distributed Deep Learning**; Stockholm, Sweden, Hadoop User Group Meetup, January 9, 2018.
 	[Event](https://www.meetup.com/stockholm-hug/events/247080325/)
 	[Slides](https://www.slideshare.net/KimHammar/kim-hammar-konstantin-sozinov-distributed-lstm-training-predicting-human-activities-on-edge-devices-stockholm-hadoop-user-group-meetup)
 	[PDF](/assets/slides/har.pdf)
