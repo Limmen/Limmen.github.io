@@ -3,8 +3,14 @@ layout: page
 title: Talks
 ---
 
+2023
+:   **Intrusion Response through Optimal Stopping**; New York, invited talk, Quanyan Zhu's research group. 2023 30 January.
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/intrusion-response-through-optimal-stopping)
+	[PDF](/assets/slides/NYU_Invited_Talk_Optimal_Stopping_Hammar_30_jan_2023.pdf)
+
 2022
-:   **Självlärande system för cyberförsvar**; Linköping, Stockholm, IT-försvarsdagen 2022 Dec 6.
+:   **Självlärande system för cyberförsvar**; Linköping, IT-försvarsdagen 2022 Dec 6.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/cnsm-2022-an-online-framework-for-adapting-security-policies-in-dynamic-it-environment-hammar-stadler)
 	[PDF](/assets/slides/IT_forsvarsdagen_22_Hammar.pdf)
