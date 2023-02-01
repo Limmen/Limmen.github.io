@@ -8,6 +8,7 @@ title: Talks
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/intrusion-response-through-optimal-stopping)
 	[PDF](/assets/slides/NYU_Invited_Talk_Optimal_Stopping_Hammar_30_jan_2023.pdf)
+    [Video](https://www.youtube.com/watch?v=Qzp_wiNW91o)
 
 2022
 :   **Självlärande system för cyberförsvar**; Linköping, Sweden, IT-försvarsdagen 2022 Dec 6.
