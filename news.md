@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+30 Jan '23
+:   I gave a talk at [New York University](https://engineering.nyu.edu/research-innovation/centers/nyu-center-cybersecurity-ccs), a recording is available [here](https://www.youtube.com/watch?v=Qzp_wiNW91o).
+
 21 Dec '22
 :   Dr. [Neil Dhir](https://neildhir.github.io/) from Siemens Research is visiting us at KTH.
 
