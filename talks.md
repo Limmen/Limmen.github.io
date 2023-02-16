@@ -4,6 +4,11 @@ title: Talks
 ---
 
 2023
+:   **Optimal Patching in Clustered Malware Epidemics - Paper Review**; , Stockholm, KTH, ML+Security Reading Group NSE Feb 16 2023, Division of Network and Systems Engineering.
+    **Kim Hammar**
+	[PDF](/assets/slides/MLSec_readinggroup_16_Feb_2023_Hammar.pdf)
+
+2023
 :   **Intrusion Response through Optimal Stopping**; New York, USA, invited talk, Quanyan Zhu's research group. 2023 30 January.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/intrusion-response-through-optimal-stopping)
