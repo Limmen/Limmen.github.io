@@ -4,6 +4,12 @@ title: Talks
 ---
 
 2023
+:   **Självlärande system för cybersäkerhet**; Stockholm, Sweden, KTH, CDIS, Division of Network and Systems Engineering, Besök av försvarsdepartementet 21 Feb 2023.
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/sjlvlrande-system-fr-cyberfrsvar)
+	[PDF](/assets/slides/CDIS_forsvarsdepartementet_21_feb_2023.pdf)
+
+2023
 :   **Optimal Patching in Clustered Malware Epidemics - Paper Review**; , Stockholm, KTH, ML+Security Reading Group NSE Feb 16 2023, Division of Network and Systems Engineering.
     **Kim Hammar**
 	[PDF](/assets/slides/MLSec_readinggroup_16_Feb_2023_Hammar.pdf)
