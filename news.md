@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+22 Feb '23
+:   We have a summer internship opening in our group: https://kth.varbi.com/se/what:job/jobID:597497/where:4/. Apply!
+
 30 Jan '23
 :   I gave a talk at [New York University](https://engineering.nyu.edu/research-innovation/centers/nyu-center-cybersecurity-ccs), a recording is available [here](https://www.youtube.com/watch?v=Qzp_wiNW91o).
 
