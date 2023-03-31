@@ -4,6 +4,12 @@ title: Talks
 ---
 
 2023
+:   **Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition**; Stockholm, Sweden, KTH, NSE Seminar, Mar 31 2023, Division of Network and Systems Engineering.
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/learning-nearoptimal-intrusion-response-for-largescale-it-infrastructures-via-decomposition)
+	[PDF](/assets/slides/NSE_seminar_Kim_Hammar_31_mar_2023.pdf)
+
+2023
 :   **Självlärande system för cybersäkerhet**; Stockholm, Sweden, KTH, CDIS, Division of Network and Systems Engineering, Besök av försvarsdepartementet 21 Feb 2023.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/sjlvlrande-system-fr-cyberfrsvar)
