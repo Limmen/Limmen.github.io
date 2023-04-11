@@ -10,6 +10,7 @@ title: Teaching
 2022
 :   **Master thesis**, main supervisor;
 	Jakob Stymne, Self-Play Reinforcement Learning for Finding Intrusion Prevention Strategies, Spring 2022.
+	[DiVA](http://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=21&af=%5B%5D&searchType=LIST_LATEST&sortOrder2=title_sort_asc&query=&language=en&pid=diva2%3A1736915&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-7314)
     [PDF](/assets/papers/Master_Thesis_Jakob_Stymne_Final_2_June.pdf)
 
 2021
