@@ -3,6 +3,12 @@ layout: page
 title: News
 ---
 
+29 Mar '23
+:   Our demo paper "Demonstrating a System for Dynamically Meeting Management Objectives on a Service Mesh" was accepted to NOMS´23.
+
+29 Mar '23
+:   Our workshop paper "Digital Twins for Security Automation" was accepted to NOMS´23.
+
 22 Feb '23
 :   We have a [summer internship](https://kth.varbi.com/se/what:job/jobID:597497/where:4/) opening in our group. Apply!
 
