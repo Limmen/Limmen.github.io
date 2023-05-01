@@ -4,6 +4,12 @@ title: Talks
 ---
 
 2023
+:   **Digital Twins for Security Automation**; Miami, USA, KTH, NOMS 2023: IEEE/IFIP Network Operations and Management Symposium May 8-12.
+    **Kim Hammar**
+    [Video](https://www.youtube.com/watch?v=Gi-_KSNYVCk)
+	[PDF](/assets/slides/Digital_twins_security_noms23_Hammar_Stadler.pdf)
+
+2023
 :   **Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition**; Stockholm, Sweden, KTH, NSE Seminar, Mar 31 2023, Division of Network and Systems Engineering.
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/learning-nearoptimal-intrusion-response-for-largescale-it-infrastructures-via-decomposition)

@@ -30,6 +30,15 @@ title: Publications
 
 ### Conferences
 
+2023
+:   **Digital Twins for Security Automation**; Conference paper, NOMS 2023: IEEE/IFIP Network Operations and Management Symposium, Miami, USA May 8-12.
+    **Kim Hammar** and Rolf Stadler
+	[PDF(preprint)](/assets/papers/NOMS23_DigitalTwins_Hammar_Stadler.pdf)
+
+2023
+:   **Demonstrating a System for Dynamically Meeting Management Objectives on a Service Mesh**; Conference paper, NOMS 2023: IEEE/IFIP Network Operations and Management Symposium, Miami, USA May 8-12.
+    Forough Shahab Samani, **Kim Hammar** and Rolf Stadler
+	[PDF(preprint)](/assets/papers/NOMS23_Demo_Shahab_Hammar_Stadler.pdf)
 
 2022
 :   **An Online Framework for Adapting Security Policies in Dynamic IT Environments**; Conference paper, CNSM 2022: International Conference on Network and Service Management, Thessaloniki, Greece October 31 - November 4.
@@ -113,6 +122,11 @@ Mihhail Matskin
 	[PDF](/assets/papers/icml_ml4cyber_Hammar_Stadler_final_24_june_2022.pdf)
 
 ### Posters
+
+2023
+:   **Demonstrating a System for Dynamically Meeting Management Objectives on a Service Mesh**; NOMS 2023: IEEE/IFIP Network Operations and Management Symposium, Miami, USA May 8-12.
+    Forough Shahab Samani, **Kim Hammar** and Rolf Stadler
+	[PDF(preprint)](/assets/papers/NOMS23_poster_Shahab_Hammar_Stadler.pdf)
 
 2022
 :   **Intrusion Prevention through Optimal Stopping**; Poster, KTH EECS Summer Conference 8 June 2022.
