@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+8 May '23
+:   Attending NOMS´23 in Miami, Florida.
+
 29 Mar '23
 :   Our demo paper "Demonstrating a System for Dynamically Meeting Management Objectives on a Service Mesh" was accepted to NOMS´23.
 

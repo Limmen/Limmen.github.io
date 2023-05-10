@@ -38,7 +38,7 @@ title: Talks
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/cnsm-2022-an-online-framework-for-adapting-security-policies-in-dynamic-it-environment-hammar-stadler)
 	[PDF](/assets/slides/IT_forsvarsdagen_22_Hammar.pdf)
-	[Video](https://www.youtube.com/watch?v=airADaCzNGU&)
+	[Video](https://www.youtube.com/watch?v=IWs8z8G8OWg)
 
 2022
 :   **An Online Framework for Adapting Security Policies in Dynamic IT Environment**; Thessaloniki, Greece, CNSM 2022: International Conference on Network and Service Management Oct 31 - Nov 4.
