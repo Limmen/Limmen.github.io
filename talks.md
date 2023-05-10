@@ -8,6 +8,7 @@ title: Talks
     **Kim Hammar**
     [Video](https://www.youtube.com/watch?v=Gi-_KSNYVCk)
 	[PDF](/assets/slides/Digital_twins_security_noms23_Hammar_Stadler.pdf)
+	[Slides](https://www.slideshare.net/KimHammar/digital-twins-for-security-automation)
 
 2023
 :   **Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition**; Stockholm, Sweden, KTH, NSE Seminar, Mar 31 2023, Division of Network and Systems Engineering.
