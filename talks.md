@@ -4,6 +4,24 @@ title: Talks
 ---
 
 2023
+:   **Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition**; Siemens Research Princeton, USA, May 17 2023
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/learning-nearoptimal-intrusion-responses-for-it-infrastructures-via-decomposition)
+	[PDF](/assets/slides/Kim_Talk_Princeton_17_May_23.pdf)
+
+2023
+:   **Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition**; Princeton University, USA, May 17 2023
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/learning-nearoptimal-intrusion-responses-for-it-infrastructures-via-decomposition	)
+	[PDF](/assets/slides/Kim_Talk_Princeton_17_May_23.pdf)
+
+2023
+:   **Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition**; New York University, USA, May 15 2023
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/learning-optimal-intrusion-responses-via-decomposition)
+	[PDF](/assets/slides/Kim_Talk_NYU_14_May_23.pdf)
+
+2023
 :   **Digital Twins for Security Automation**; Miami, USA, KTH, NOMS 2023: IEEE/IFIP Network Operations and Management Symposium May 8-12.
     **Kim Hammar**
     [Video](https://www.youtube.com/watch?v=Gi-_KSNYVCk)

@@ -3,9 +3,21 @@ layout: page
 title: News
 ---
 
+17 May '23
+:   Visit to Dr. [Neil Dhir](https://neildhir.github.io/) at Siemens Research in Princeton.
+
+17 May '23
+:   Visit to Professor [Maria Apostolaki](https://ece.princeton.edu/people/maria-apostolaki) at Princeton University
+
+15 May '23
+:   Visit to Professor [Quanyan Zhu](https://engineering.nyu.edu/faculty/quanyan-zhu) at New York University
+
 8 May '23
 :   Attending NOMS´23 in Miami, Florida.
    ![NOMSposter](/assets/noms23.jpg "Poster NOMS 2023")
+
+5 May '23
+:   Attending [Aurora23](https://www.forsvarsmakten.se/en/activities/exercises/aurora-23/)
 
 29 Mar '23
 :   Our demo paper "Demonstrating a System for Dynamically Meeting Management Objectives on a Service Mesh" was accepted to NOMS´23.
