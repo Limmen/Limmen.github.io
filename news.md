@@ -7,10 +7,10 @@ title: News
 :   Visit to Dr. [Neil Dhir](https://neildhir.github.io/) at Siemens Research in Princeton.
 
 17 May '23
-:   Visit to Professor [Maria Apostolaki](https://ece.princeton.edu/people/maria-apostolaki) at Princeton University
+:   Visit to Professor [Maria Apostolaki](https://ece.princeton.edu/people/maria-apostolaki) at Princeton University.
 
 15 May '23
-:   Visit to Professor [Quanyan Zhu](https://engineering.nyu.edu/faculty/quanyan-zhu) at New York University
+:   Visit to Professor [Quanyan Zhu](https://engineering.nyu.edu/faculty/quanyan-zhu) at New York University.
 
 8 May '23
 :   Attending NOMS´23 in Miami, Florida.
