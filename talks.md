@@ -4,6 +4,12 @@ title: Talks
 ---
 
 2023
+:   **Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition**; MIT, Boston, USA, May 19 2023
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/learning-nearoptimal-intrusion-responses-for-it-infrastructures-via-decomposition-257924209)
+	[PDF](/assets/slides/MIT_talk_may_19_KimHammar.pdf)
+
+2023
 :   **Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition**; Siemens Research Princeton, USA, May 17 2023
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/learning-nearoptimal-intrusion-responses-for-it-infrastructures-via-decomposition)
