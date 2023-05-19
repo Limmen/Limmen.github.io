@@ -5,6 +5,7 @@ title: News
 
 19 May '23
 :   Visit to Dr. Una-May O'Reilly from MIT [ALFA](https://alfagroup.csail.mit.edu/anyscale-learning-all).
+  ![MITvisit](/assets/MIT23_visit.jpg "Visit to MIT 2023")
 
 17 May '23
 :   Visit to Dr. [Neil Dhir](https://neildhir.github.io/) at Siemens Research in Princeton.
