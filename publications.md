@@ -124,9 +124,14 @@ Mihhail Matskin
 ### Posters
 
 2023
+:   **Learning Near-Optimal Intrusion Responses Against Dynamic Attackers**; CDIS pring conference 2023, Stockholm, Sweden May 25.
+    **Kim Hammar** and Rolf Stadler
+	[PDF](/assets/papers/CDIS_conf_23_Hammar_Stadler_poster_12_may.pdf)
+
+2023
 :   **Demonstrating a System for Dynamically Meeting Management Objectives on a Service Mesh**; NOMS 2023: IEEE/IFIP Network Operations and Management Symposium, Miami, USA May 8-12.
     Forough Shahab Samani, **Kim Hammar** and Rolf Stadler
-	[PDF(preprint)](/assets/papers/NOMS23_poster_Shahab_Hammar_Stadler.pdf)
+	[PDF](/assets/papers/NOMS23_poster_Shahab_Hammar_Stadler.pdf)
 
 2022
 :   **Intrusion Prevention through Optimal Stopping**; Poster, KTH EECS Summer Conference 8 June 2022.

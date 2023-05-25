@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+25 May '23
+:   Attending the [CDIS](https://www.kth.se/cdis/about-cdis-1.946971) conference in Stockholm.
+   ![cdis23](/assets/cdis23.jpg "CDIS conference 2023")
+
 19 May '23
 :   Visit to Dr. Una-May O'Reilly from MIT [ALFA](https://alfagroup.csail.mit.edu/anyscale-learning-all).
   ![MITvisit](/assets/MIT23_visit.jpg "Visit to MIT 2023")
