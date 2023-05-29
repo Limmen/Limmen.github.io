@@ -2,6 +2,9 @@
 layout: page
 title: Teaching
 ---
+2023
+:   **Introduction to Cyber security**; Teaching Assistant to Prof. Gunnar Karlsson.
+     KTH online course.
 
 2023
 :   **Master thesis**, main supervisor;
