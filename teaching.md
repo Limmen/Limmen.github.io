@@ -2,6 +2,11 @@
 layout: page
 title: Teaching
 ---
+
+2023
+:   **Summer internship**, main supervisor;
+	Nils Forsgren, Software development for automated security.
+
 2023
 :   **Introduction to Cyber security**; Teaching Assistant to Prof. Gunnar Karlsson.
      KTH online course.
