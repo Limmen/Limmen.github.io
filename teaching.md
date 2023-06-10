@@ -5,7 +5,7 @@ title: Teaching
 
 2023
 :   **Summer internship**, main supervisor;
-	Nils Forsgren, Software development for automated security.
+	Nils Forsgren, Software development for automated security, Summer 2023.
 
 2023
 :   **Introduction to Cyber security**; Teaching Assistant to Prof. Gunnar Karlsson.
