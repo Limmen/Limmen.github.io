@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+24 June '23
+:   Our conference paper "Digital Twins for Security Automation" is available in the NOMS´23 [proceedings](https://ieeexplore.ieee.org/abstract/document/10154288).
+
 25 May '23
 :   Attending the [CDIS](https://www.kth.se/cdis/about-cdis-1.946971) conference in Stockholm.
    ![cdis23](/assets/cdis23.jpg "CDIS conference 2023")
