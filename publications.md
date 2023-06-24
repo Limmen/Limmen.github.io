@@ -33,12 +33,13 @@ title: Publications
 2023
 :   **Digital Twins for Security Automation**; Conference paper, NOMS 2023: IEEE/IFIP Network Operations and Management Symposium, Miami, USA May 8-12.
     **Kim Hammar** and Rolf Stadler
-	[IEEE Proceedings](https://ieeexplore.ieee.org/abstract/document/1015428)
+	[IEEE Proceedings](https://ieeexplore.ieee.org/document/10154288)
 	[PDF(preprint)](/assets/papers/NOMS23_DigitalTwins_Hammar_Stadler.pdf)
 
 2023
 :   **Demonstrating a System for Dynamically Meeting Management Objectives on a Service Mesh**; Conference paper, NOMS 2023: IEEE/IFIP Network Operations and Management Symposium, Miami, USA May 8-12.
     Forough Shahab Samani, **Kim Hammar** and Rolf Stadler
+	[IEEE Proceedings](https://ieeexplore.ieee.org/document/10154365)
 	[PDF(preprint)](/assets/papers/NOMS23_Demo_Shahab_Hammar_Stadler.pdf)
 
 2022
