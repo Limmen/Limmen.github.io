@@ -35,12 +35,14 @@ title: Publications
     **Kim Hammar** and Rolf Stadler
 	[IEEE Proceedings](https://ieeexplore.ieee.org/document/10154288)
 	[PDF(preprint)](/assets/papers/NOMS23_DigitalTwins_Hammar_Stadler.pdf)
+	[bib](/assets/citations/noms_23_hammar_stadler.bib)
 
 2023
 :   **Demonstrating a System for Dynamically Meeting Management Objectives on a Service Mesh**; Conference paper, NOMS 2023: IEEE/IFIP Network Operations and Management Symposium, Miami, USA May 8-12.
     Forough Shahab Samani, **Kim Hammar** and Rolf Stadler
 	[IEEE Proceedings](https://ieeexplore.ieee.org/document/10154365)
 	[PDF(preprint)](/assets/papers/NOMS23_Demo_Shahab_Hammar_Stadler.pdf)
+	[bib](/assets/citations/noms_23_shahab_hammar_stadler.bib)
 
 2022
 :   **An Online Framework for Adapting Security Policies in Dynamic IT Environments**; Conference paper, CNSM 2022: International Conference on Network and Service Management, Thessaloniki, Greece October 31 - November 4.
