@@ -5,13 +5,16 @@ title: Publications
 
 ### Preprints
 
+### Journals
+
 2023
-:   **Learning Near-Optimal Intrusion Responses Against Dynamic Attackers**; Under review at IEEE.
+:   **Learning Near-Optimal Intrusion Responses Against Dynamic Attackers**; Journal paper, TNSM 2023: IEEE Transactions on Network and Service Management (IEEE TNSM).
     **Kim Hammar** and Rolf Stadler
+	[IEEE Proceedings](https://ieeexplore.ieee.org/document/10175554)
 	[arXiv(preprint)](https://arxiv.org/abs/2301.06085)
 	[PDF(preprint)](/assets/papers/TNSM_23_preprint_learning_Hammar_Stadler_18_Jan.pdf)
+	[bib](/assets/citations/tnsm_23_hammar_stadler.bib)
 
-### Journals
 
 2022
 :   **Intrusion Prevention through Optimal Stopping**; Journal paper, TNSM 2022: IEEE Transactions on Network and Service Management (IEEE TNSM), special issue on recent advances in network security management.
