@@ -3,7 +3,7 @@ layout: page
 title: Services
 ---
 
-**Reviewer CNSM 2022** (International Conference on Network and Service Management).
+**Reviewer CNSM 2023** (International Conference on Network and Service Management).
 [link](http://www.cnsm-conf.org/2023/)
 
 **Reviewer Springer Cybersecurity journal 2023**
