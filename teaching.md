@@ -4,6 +4,10 @@ title: Teaching
 ---
 
 2023
+:   **Summer internship**,  co-supervisor;
+	Lukas Gamard, Jose WIlliam Esteban Velasquez Cristancho, Thomas Eriksson Mueller, Mikael Lundqvist, Software development of a platform for interactive cyber security education, Summer 2023.
+
+2023
 :   **Summer internship**, main supervisor;
 	Nils Forsgren, Software development for automated security, Summer 2023.
 
@@ -14,6 +18,7 @@ title: Teaching
 2023
 :   **Master thesis**, main supervisor;
 	Arvid Lagerqvist, Emulating Client Populations in a Self-Learning Security Environment, Spring 2023.
+[PDF](/assets/papers/Master_Thesis_Arvid_Lagerqvist_Draft_9_Aug.pdf)
 
 2022
 :   **Master thesis**, main supervisor;
