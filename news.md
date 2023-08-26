@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+26 Aug '23
+:   Our conference paper "Scalable Learning of Intrusion Responses through Recursive Decomposition" was accepted to [GameSec23](https://www.gamesec-conf.org/registration.php). A preprint will be available soon.
+
 24 June '23
 :   Our conference paper "Digital Twins for Security Automation" is available in the NOMS´23 [proceedings](https://ieeexplore.ieee.org/document/10154288).
 
