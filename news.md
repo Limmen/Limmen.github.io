@@ -4,7 +4,7 @@ title: News
 ---
 
 28 Aug '23
-:   Our system the "Cyber Security Learnign Environment" (CSLE) is now available open source [here](https://github.com/Limmen).
+:   Our system the "Cyber Security Learning Environment" (CSLE) is now available open source [here](https://github.com/Limmen).
 
 26 Aug '23
 :   Our conference paper "Scalable Learning of Intrusion Responses through Recursive Decomposition" was accepted to [GameSec23](https://www.gamesec-conf.org/registration.php). A preprint will be available soon.
