@@ -3,7 +3,6 @@ layout: page
 title: Publications
 ---
 
-### Preprints
 
 ### Journals
 
@@ -127,6 +126,16 @@ Mihhail Matskin
 :   **Learning Security Strategies through Game Play and Optimal Stopping**; Workshop paper, ML4Cyber workshop ICML 2022, Baltimore USA, July 17-23.
     **Kim Hammar** and Rolf Stadler
 	[PDF](/assets/papers/icml_ml4cyber_Hammar_Stadler_final_24_june_2022.pdf)
+
+
+### Preprints
+
+2023
+:   **Optimal Observation-Intervention Trade-Off in Optimisation Problems with Causal Structure**;
+    **Kim Hammar** and Neil Dhir
+	[arXiv(preprint)](https://arxiv.org/abs/2309.02287)
+	[bib](/assets/citations/causal_stopping.bib)
+
 
 ### Posters
 
