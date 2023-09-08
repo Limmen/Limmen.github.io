@@ -33,6 +33,11 @@ title: Publications
 ### Conferences
 
 2023
+:   **Scalable Learning of Intrusion Responses through Recursive Decomposition**; Conference paper, GameSec 2023: International Conference on Decision and Game Theory for Security, Avignon, France Oct 18-20.
+    **Kim Hammar** and Rolf Stadler
+	[arXiv(preprint)](https://arxiv.org/abs/2309.03292)
+
+2023
 :   **Digital Twins for Security Automation**; Conference paper, NOMS 2023: IEEE/IFIP Network Operations and Management Symposium, Miami, USA May 8-12.
     **Kim Hammar** and Rolf Stadler
 	[IEEE Proceedings](https://ieeexplore.ieee.org/document/10154288)
