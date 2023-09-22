@@ -4,6 +4,11 @@ title: Talks
 ---
 
 2023
+:   **3D-IDS: Doubly Disentangled Dynamic Intrusion Detection**; , Stockholm, KTH, ML+Security Reading Group NSE Sep 22 2023, Division of Network and Systems Engineering.
+    **Kim Hammar**
+	[PDF](/assets/slides/MLSec_Reading_group_NSE_22_sep_23.pdf)
+
+2023
 :   **Learning Near-Optimal Intrusion Response for Large-Scale IT Infrastructures via Decomposition**; MIT, Boston, USA, May 19 2023
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/learning-nearoptimal-intrusion-responses-for-it-infrastructures-via-decomposition-257924209)
