@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+18 Oct '23
+:   Attending [GameSec23](https://www.gamesec-conf.org/registration.php) in Avignon.
+
 28 Aug '23
 :   Our system the "Cyber Security Learning Environment" (CSLE) is now available open source [here](https://github.com/Limmen).
 ![csle](/assets/csle_logo_cropped.png "CSLE")

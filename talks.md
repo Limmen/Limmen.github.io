@@ -4,6 +4,12 @@ title: Talks
 ---
 
 2023
+:   **Scalable Learning of Intrusion Response through Recursive Decomposition**; Avignon, France, Oct 18 2023
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/gamesec23-scalable-learning-of-intrusion-response-through-recursive-decomposition)
+	[PDF](/assets/slides/gamesec23_hammar.pdf)
+
+2023
 :   **3D-IDS: Doubly Disentangled Dynamic Intrusion Detection**; , Stockholm, KTH, ML+Security Reading Group NSE Sep 22 2023, Division of Network and Systems Engineering.
     **Kim Hammar**
 	[PDF](/assets/slides/MLSec_Reading_group_NSE_22_sep_23.pdf)
