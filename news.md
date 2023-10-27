@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+28 Oct '23
+:   Participating in the [IEEE Xtreme Conding Challenge](https://ieeextreme.org/).
+
 18 Oct '23
 :   Attending [GameSec23](https://www.gamesec-conf.org/registration.php) in Avignon.
 
