@@ -4,7 +4,7 @@ title: Talks
 ---
 
 2023
-:   **Learning Automated Intrusion Response**; Stockholm, Sweden, Dec 8 2023
+:   **Learning Automated Intrusion Response**; Ericsson research, Stockholm, Sweden, Dec 8 2023
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/learning-automated-intrusion-response)
 	[PDF](/assets/slides/hammar_ericsson_research_dec_2023.pdf)
