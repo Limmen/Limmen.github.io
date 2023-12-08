@@ -10,7 +10,7 @@ title: Talks
 	[PDF](/assets/slides/hammar_ericsson_research_dec_2023.pdf)
 
 2023
-:   **Intrusion Tolerance for Networked Systems through Two-Level Feedback Control**; Stockholm, Sweden, Nov 10 2023
+:   **Intrusion Tolerance for Networked Systems through Two-Level Feedback Control**; NSE seminar, Division of Network and Systems Engineering, Stockholm, Sweden, Nov 10 2023
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/intrusion-tolerance-for-networked-systems-through-twolevel-feedback-control)
 	[PDF](/assets/slides/nse_seminar_10_nov_2023_kim.pdf)
