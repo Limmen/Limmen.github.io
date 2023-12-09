@@ -8,6 +8,7 @@ title: Talks
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/learning-automated-intrusion-response)
 	[PDF](/assets/slides/hammar_ericsson_research_dec_2023.pdf)
+	[Video](https://www.youtube.com/watch?v=_Y_1I_BEb58)
 
 2023
 :   **Intrusion Tolerance for Networked Systems through Two-Level Feedback Control**; NSE seminar, Division of Network and Systems Engineering, Stockholm, Sweden, Nov 10 2023
