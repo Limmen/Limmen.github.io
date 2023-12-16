@@ -4,7 +4,7 @@ title: News
 ---
 
 28 Oct '23
-:   Participating in the [IEEE Xtreme programming competition](https://ieeextreme.org/). (We ranked first among the teams from sweden)[/assets/awards/ieee_xtreme_certificate_23.pdf].
+:   Participating in the [IEEE Xtreme programming competition](https://ieeextreme.org/). [We ranked first among the teams from sweden](/assets/awards/ieee_xtreme_certificate_23.pdf).
 
 18 Oct '23
 :   Attending [GameSec23](https://www.gamesec-conf.org/registration.php) in Avignon.
