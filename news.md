@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+23 Dec '23
+:   Our conference paper "Online Policy Adaptation for Networked Systems using Rollout" was accepted to [NOMS24](https://noms2024.ieee-noms.org/). A preprint will be available soon.
+
 28 Oct '23
 :   Participating in the [IEEE Xtreme programming competition](https://ieeextreme.org/). [We ranked first among the teams from sweden](/assets/awards/ieee_xtreme_certificate_23.pdf).
 
