@@ -1,0 +1,15 @@
+@InProceedings{10.1007/978-3-031-50670-3_9,
+author="Hammar, Kim
+and Stadler, Rolf",
+editor="Fu, Jie
+and Kroupa, Tomas
+and Hayel, Yezekael",
+title="Scalable Learning of Intrusion Response Through Recursive Decomposition",
+booktitle="Decision and Game Theory for Security",
+year="2023",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="172--192",
+abstract="We study automated intrusion response for an IT infrastructure and formulate the interaction between an attacker and a defender as a partially observed stochastic game. To solve the game we follow an approach where attack and defense strategies co-evolve through reinforcement learning and self-play toward an equilibrium. Solutions proposed in previous work prove the feasibility of this approach for small infrastructures but do not scale to realistic scenarios due to the exponential growth in computational complexity with the infrastructure size. We address this problem by introducing a method that recursively decomposes the game into subgames with low computational complexity which can be solved in parallel. Applying optimal stopping theory we show that the best response strategies in these subgames exhibit threshold structures, which allows us to compute them efficiently. To solve the decomposed game we introduce an algorithm called Decompositional Fictitious Self-Play (dfsp), which learns Nash equilibria through stochastic approximation. We evaluate the learned strategies in an emulation environment where real intrusions and response actions can be executed. The results show that the learned strategies approximate an equilibrium and that dfsp significantly outperforms a state-of-the-art algorithm for a realistic infrastructure configuration.",
+isbn="978-3-031-50670-3"
+}

@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+29 Dec '23
+:   The [camera ready](https://link.springer.com/chapter/10.1007/978-3-031-50670-3_9) of our paper "Scalable Learning of Intrusion Responses through Recursive Decomposition" is now available in the GameSec23 [proceedings](https://link.springer.com/chapter/10.1007/978-3-031-50670-3_9).
+
 23 Dec '23
 :   Our conference paper "Online Policy Adaptation for Networked Systems using Rollout" was accepted to [NOMS24](https://noms2024.ieee-noms.org/). A preprint will be available soon.
 
