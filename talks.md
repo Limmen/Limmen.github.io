@@ -3,6 +3,12 @@ layout: page
 title: Talks
 ---
 
+2024
+:   **Självlärande System för Cybersäkerhet**; Besök av Handelsbanken, Stockholm, Sweden, Jan 11 2024
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/KimHammar/sjlvlrande-system-fr-cyberskerhet-kth)
+	[PDF](/assets/slides/handelsbanken_2024_jan.pdf)
+
 2023
 :   **Learning Automated Intrusion Response**; Ericsson research, Stockholm, Sweden, Dec 8 2023
     **Kim Hammar**
