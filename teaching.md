@@ -40,17 +40,17 @@ title: Teaching
 	[DiVA](https://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=antonio+frederico+nesti&language=sv&pid=diva2%3A1631269&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=9136)
 	[PDF](/assets/papers/Antonio_Nesti_Lopes_2021_Master_Thesis.pdf)
 
-2019-2023
+2019-2024
 :   **EP1100 Data Communications and Computer Networks**; Teaching Assistant to Prof. Gunnar Karlsson.
      KTH first cycle course
  	[Link](https://www.kth.se/student/kurser/kurs/EP1100?l=en)
 
-2019-2023
+2019-2024
 :   **EP1200 Introduction to Computing Systems Engineering**; Teaching Assistant to Prof. Gunnar Karlsson.
      KTH first cycle course
  	[Link](https://www.kth.se/student/kurser/kurs/EP1200)
 
-2019-2023
+2019-2024
 :   **Introduction to Operating Systems**; Teaching Assistant to Prof. Gunnar Karlsson.
     Course for recruits at the Swedish Armed Forces within the "cyber soldier" position.
  	[Link](https://jobb.forsvarsmakten.se/sv/utbildning/befattningsguiden/cybersoldat/)
