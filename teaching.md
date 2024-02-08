@@ -3,6 +3,14 @@ layout: page
 title: Teaching
 ---
 
+2024
+:   **Master thesis**, main supervisor;
+	Bength Roland Pappila, Emulating and Profiling Cyber Attacks Based on the MITRE Framework in a Virtualized IT Environment, Spring 2024.
+
+2023-2024
+:   **Amanuens**, main supervisor;
+	Nils Forsgren, Software development for automated security, Autumn 2023-Summer 2024.
+
 2023
 :   **Summer internship**,  co-supervisor;
 	Lukas Gamard, Jose WIlliam Esteban Velasquez Cristancho, Thomas Eriksson Mueller, Mikael Lundqvist, Software development of a platform for interactive cyber security education, Summer 2023.
