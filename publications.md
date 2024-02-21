@@ -138,6 +138,14 @@ Mihhail Matskin
 ### Preprints
 
 2023
+:   **Automated Security Response through Online Learning with Adaptive Conjectures**;
+    **Kim Hammar**, Tao Li, Rolf Stadler, and Quanyan Zhu
+	[arXiv(preprint)](https://arxiv.org/abs/2402.12499)
+	[bib](/assets/citations/conjectural_learning24.bib)
+
+### Technical reports
+
+2023
 :   **Optimal Observation-Intervention Trade-Off in Optimisation Problems with Causal Structure**;
     **Kim Hammar** and Neil Dhir
 	[arXiv(preprint)](https://arxiv.org/abs/2309.02287)

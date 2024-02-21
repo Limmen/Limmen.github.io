@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+21 Feb '24
+:   A [preprint](https://arxiv.org/abs/2402.12499) of our paper "Automated Security Response through Online Learning with Adaptive Conjectures" is available.
+
 29 Dec '23
 :   The [camera ready](https://link.springer.com/chapter/10.1007/978-3-031-50670-3_9) of our paper "Scalable Learning of Intrusion Responses through Recursive Decomposition" is now available in the GameSec23 [proceedings](https://link.springer.com/chapter/10.1007/978-3-031-50670-3_9).
 
