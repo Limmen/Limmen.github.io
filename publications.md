@@ -3,6 +3,21 @@ layout: page
 title: Publications
 ---
 
+### Preprints
+
+2024
+:   **Conjectural Online Learning with First-order Beliefs in Asymmetric Information Stochastic Games**;
+     Tao Li, **Kim Hammar**, Rolf Stadler, and Quanyan Zhu
+	[arXiv(preprint)](https://arxiv.org/pdf/2402.18781.pdf)
+	[bib](/assets/citations/tao_cdc_24.bib)
+
+
+2024
+:   **Automated Security Response through Online Learning with Adaptive Conjectures**;
+    **Kim Hammar**, Tao Li, Rolf Stadler, and Quanyan Zhu
+	[arXiv(preprint)](https://arxiv.org/abs/2402.12499)
+	[bib](/assets/citations/conjectural_learning24.bib)
+
 
 ### Journals
 
@@ -134,14 +149,6 @@ Mihhail Matskin
     **Kim Hammar** and Rolf Stadler
 	[PDF](/assets/papers/icml_ml4cyber_Hammar_Stadler_final_24_june_2022.pdf)
 
-
-### Preprints
-
-2023
-:   **Automated Security Response through Online Learning with Adaptive Conjectures**;
-    **Kim Hammar**, Tao Li, Rolf Stadler, and Quanyan Zhu
-	[arXiv(preprint)](https://arxiv.org/abs/2402.12499)
-	[bib](/assets/citations/conjectural_learning24.bib)
 
 ### Technical reports
 
