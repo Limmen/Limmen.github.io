@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+20 Mar '24
+:   We have a [summer internship](https://www.kth.se/lediga-jobb/711882?l=en) opening in our group. Apply!
+
 21 Feb '24
 :   A [preprint](https://arxiv.org/abs/2402.12499) of our paper "Automated Security Response through Online Learning with Adaptive Conjectures" is available.
 
