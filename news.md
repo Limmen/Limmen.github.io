@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+21 Mar '24
+:   Our conference paper "Intrusion Tolerance for Networked Systems Through Two-Level Feedback Control" was accepted to [DSN24](https://dsn2024uq.github.io/index.html). A preprint will be available soon.
+
 20 Mar '24
 :   We have a [summer internship](https://www.kth.se/lediga-jobb/711882?l=en) opening in our group. Apply!
 
