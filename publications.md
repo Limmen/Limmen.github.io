@@ -47,8 +47,14 @@ title: Publications
 
 ### Conferences
 
+2024
+:   **Intrusion Tolerance for Networked Systems through Two-Level Feedback Control**; Conference paper, 54th IEEE/IFIP Dependable Systems and Networks Conference (DSN'24), Brisbane, Australia, June 24-27.
+    **Kim Hammar** and Rolf Stadler
+	[arXiv(preprint)](https://arxiv.org/abs/2404.01741)
+    [bib](/assets/citations/dsn24_hammar_stadler.bib)
+
 2023
-:   **Scalable Learning of Intrusion Responses through Recursive Decomposition**; Conference paper, GameSec 2023: International Conference on Decision and Game Theory for Security, Avignon, France Oct 18-20.
+:   **Scalable Learning of Intrusion Responses through Recursive Decomposition**; Conference paper, GameSec 2023: International Conference on Decision and Game Theory for Security, Avignon, France, Oct 18-20.
     **Kim Hammar** and Rolf Stadler
 	[Springer book chapter](https://link.springer.com/chapter/10.1007/978-3-031-50670-3_9)
 	[arXiv(preprint)](https://arxiv.org/abs/2309.03292)
