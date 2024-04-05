@@ -8,6 +8,7 @@ title: Talks
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/slideshow/automated-security-response-through-online-learning-with-adaptive-con-jectures/267113392)
 	[PDF](/assets/slides/NSE_seminar_5_april_2024.pdf)
+	[Video](https://www.youtube.com/watch?v=K2JnC6z72fI)
 
 2024
 :   **Självlärande System för Cybersäkerhet**; Besök av Handelsbanken, Stockholm, Sweden, Jan 11 2024
