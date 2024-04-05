@@ -53,6 +53,10 @@ title: Publications
 	[arXiv(preprint)](https://arxiv.org/abs/2404.01741)
     [bib](/assets/citations/dsn24_hammar_stadler.bib)
 
+2024
+:   **Online Policy Adaptation for Networked Systems using Rollout**; Conference paper, NOMS 2024: IEEE/IFIP Network Operations and Management Symposium, Seoul, South Korea May 6-10.
+    Forough Shahab Samani, **Kim Hammar** and Rolf Stadler
+
 2023
 :   **Scalable Learning of Intrusion Responses through Recursive Decomposition**; Conference paper, GameSec 2023: International Conference on Decision and Game Theory for Security, Avignon, France, Oct 18-20.
     **Kim Hammar** and Rolf Stadler
