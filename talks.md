@@ -4,6 +4,11 @@ title: Talks
 ---
 
 2024
+:   **PID-Piper: Recovering Robotic Vehicles from Physical Attacks**; , Stockholm, KTH, ML+Security Reading Group NSE Apr 19 2024, Division of Network and Systems Engineering.
+    **Kim Hammar**
+	[PDF](/assets/slides/mlsec_reading_group_19_apr_2024_hammar.pdf)
+
+2024
 :   **Självlärande System för Cybersäkerhet**; Besök av Handelsbanken, Stockholm, Sweden, Jan 11 2024
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/KimHammar/sjlvlrande-system-fr-cyberskerhet-kth)
