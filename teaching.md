@@ -4,6 +4,10 @@ title: Teaching
 ---
 
 2024
+:   **Amanuens**, main supervisor;
+	Yu Hu, Software development for automated security, May-Dec 2024.
+
+2024
 :   **Master thesis**, main supervisor;
 	Bength Roland Pappila, Emulating and Profiling Cyber Attacks Based on the MITRE Framework in a Virtualized IT Environment, Spring 2024.
 
