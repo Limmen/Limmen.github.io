@@ -171,6 +171,11 @@ Mihhail Matskin
 
 ### Posters
 
+2024
+:   **Intrusion Tolerance for Networked Systems through Two-Level Feedback Control**; CDIS pring conference 2024, Stockholm, Sweden May 22.
+    **Kim Hammar** and Rolf Stadler
+	[PDF](/assets/papers/CDIS_conf_24_hammar_stadler_poster.pdf)
+
 2023
 :   **Learning Near-Optimal Intrusion Responses Against Dynamic Attackers**; CDIS pring conference 2023, Stockholm, Sweden May 25.
     **Kim Hammar** and Rolf Stadler

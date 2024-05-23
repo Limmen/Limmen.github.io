@@ -3,6 +3,12 @@ layout: page
 title: News
 ---
 
+22 May '24
+:   Gave a presentation at the [CDIS Spring Conference 2024](https://www.kth.se/en/cdis/event/konferens/cdis-spring-conference-2024-1.1334029).
+
+20 May '24
+:   A preprint of our [DSN24](https://dsn2024uq.github.io/index.html) paper is [available](https://arxiv.org/abs/2404.01741).
+
 21 Mar '24
 :   Our conference paper "Intrusion Tolerance for Networked Systems Through Two-Level Feedback Control" was accepted to [DSN24](https://dsn2024uq.github.io/index.html). A preprint will be available soon.
 
