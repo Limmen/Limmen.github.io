@@ -172,6 +172,11 @@ Mihhail Matskin
 ### Posters
 
 2024
+:   **Intrusion Tolerance for Networked Systems through Two-Level Feedback Control**; IEEE/IFIP Dependable Systems and Networks Conference (DSN'24), Brisbane, Australia, June 24-27.
+    **Kim Hammar** and Rolf Stadler
+	[PDF](/assets/papers/kim_dsn_24_poster.pdf)
+
+2024
 :   **Intrusion Tolerance for Networked Systems through Two-Level Feedback Control**; CDIS pring conference 2024, Stockholm, Sweden May 22.
     **Kim Hammar** and Rolf Stadler
 	[PDF](/assets/papers/CDIS_conf_24_hammar_stadler_poster.pdf)
