@@ -4,10 +4,14 @@ title: Talks
 ---
 
 2024
+:   **Automated Intrusion Response**; Stockholm, Sweden, CTO seminar, May 31, 2024.
+	[PDF](/assets/slides/CTO_seminar_31_may_2024.pdf)
+
+2024
 :   **Automated Intrusion Response**; Stockholm, Sweden, CDIS Spring Conference, May 22, 2024.
 	[Slides](https://www.slideshare.net/slideshow/automated-intrusion-response-cdis-spring-conference-2024/269220115)
 	[PDF](/assets/slides/CDIS_spring_conference24_slides_kim.pdf)
-	![sais_2019](/assets/cdis_spring_conf24.jpg "CDIS Spring Conference 2024")
+	![cdisconf24](/assets/cdis_spring_conf24.jpg "CDIS Spring Conference 2024")
 
 2024
 :   **PID-Piper: Recovering Robotic Vehicles from Physical Attacks**; , Stockholm, KTH, ML+Security Reading Group NSE Apr 19 2024, Division of Network and Systems Engineering.
