@@ -4,7 +4,7 @@ title: News
 ---
 
 20 June '24
-:   Visit to Prof. [Tansu Alpcan](https://www.tansu.alpcan.org/) from the University of Melbourne.
+:   Visit to Prof. [Tansu Alpcan](https://www.tansu.alpcan.org/) at the University of Melbourne.
 
 22 May '24
 :   Gave a presentation at the [CDIS Spring Conference 2024](https://www.kth.se/en/cdis/event/konferens/cdis-spring-conference-2024-1.1334029).
