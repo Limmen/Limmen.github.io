@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+25 June '24
+:   Attending [DSN24](https://dsn2024uq.github.io/index.html) in Brisbane, Australia.
+   ![dsn24](/assets/dsn24.jpg "DSN conference 2024")
+
 20 June '24
 :   Visit to Prof. [Tansu Alpcan](https://www.tansu.alpcan.org/) at the University of Melbourne.
 
