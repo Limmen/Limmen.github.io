@@ -31,7 +31,7 @@ title: News
 23 Dec '23
 :   Our conference paper "Online Policy Adaptation for Networked Systems using Rollout" was accepted to [NOMS24](https://noms2024.ieee-noms.org/). A preprint will be available soon.
 
-19 Dec '22
+19 Dec '23
 :   Dr. [Neil Dhir](https://neildhir.github.io/) from Siemens Research is visiting our lab at KTH.
 
 28 Oct '23
