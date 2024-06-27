@@ -4,6 +4,12 @@ title: Talks
 ---
 
 2024
+:   **Intrusion Tolerance for Networked Systems through Two-Level Feedback Control**; Brisbane, Australia, June 27 2024
+    **Kim Hammar**
+	[Slides](https://www.slideshare.net/slideshow/intrusion-tolerance-for-networked-systems-through-two-level-feedback-control/269914107)
+	[PDF](/assets/slides/dsn24_hammar_stadler.pdf)
+
+2024
 :   **Intrusion Tolerance as a Two-Level Game**; Melbourne, Australia, June 20, 2024.
 	[Slides](https://www.slideshare.net/slideshow/intrusion-tolerance-as-a-two-level-game-visit-to-melbourne-university/269781964)
 	[PDF](/assets/slides/presentation_at_unimelb_kim_hammar_20_june_2024.pdf)
