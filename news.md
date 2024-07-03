@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+3 Jul '24
+:   Our conference paper "Online Policy Adaptation for Networked Systems using Rollout" is available in the NOMS´24 [proceedings](https://ieeexplore.ieee.org/document/10575707).
+
 22 May '24
 :   Gave a presentation at the [CDIS Spring Conference 2024](https://www.kth.se/en/cdis/event/konferens/cdis-spring-conference-2024-1.1334029).
 
