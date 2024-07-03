@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+3 Jul '24
+:   Our conference paper "Online Policy Adaptation for Networked Systems using Rollout" is available in the NOMS´24 [proceedings](https://ieeexplore.ieee.org/document/10575707).
+
 25 June '24
 :   Attending [DSN24](https://dsn2024uq.github.io/index.html) in Brisbane, Australia.
    ![dsn24](/assets/dsn24.jpg "DSN conference 2024")
