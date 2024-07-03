@@ -3,8 +3,12 @@ layout: page
 title: News
 ---
 
-3 Jul '24
-:   Our conference paper "Online Policy Adaptation for Networked Systems using Rollout" is available in the NOMS´24 [proceedings](https://ieeexplore.ieee.org/document/10575707).
+25 June '24
+:   Attending [DSN24](https://dsn2024uq.github.io/index.html) in Brisbane, Australia.
+   ![dsn24](/assets/dsn24.jpg "DSN conference 2024")
+
+20 June '24
+:   Visit to Prof. [Tansu Alpcan](https://www.tansu.alpcan.org/) at the University of Melbourne.
 
 22 May '24
 :   Gave a presentation at the [CDIS Spring Conference 2024](https://www.kth.se/en/cdis/event/konferens/cdis-spring-conference-2024-1.1334029).
@@ -27,7 +31,7 @@ title: News
 23 Dec '23
 :   Our conference paper "Online Policy Adaptation for Networked Systems using Rollout" was accepted to [NOMS24](https://noms2024.ieee-noms.org/). A preprint will be available soon.
 
-19 Dec '22
+19 Dec '23
 :   Dr. [Neil Dhir](https://neildhir.github.io/) from Siemens Research is visiting our lab at KTH.
 
 28 Oct '23
