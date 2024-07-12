@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+12 Jul '24
+:   A [video](https://play.kth.se/media/Automated%20Intrusion%20Response%20%E2%80%93%20Kim%20Hammar%2C%20KTH/0_nz67k1v4) of my presentation at the CDIS conference 2024 is available.
+
 3 Jul '24
 :   Our conference paper "Online Policy Adaptation for Networked Systems using Rollout" is available in the NOMS´24 [proceedings](https://ieeexplore.ieee.org/document/10575707).
 

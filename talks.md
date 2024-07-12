@@ -23,6 +23,7 @@ title: Talks
 :   **Automated Intrusion Response**; Stockholm, Sweden, CDIS Spring Conference, May 22, 2024.
 	[Slides](https://www.slideshare.net/slideshow/automated-intrusion-response-cdis-spring-conference-2024/269220115)
 	[PDF](/assets/slides/CDIS_spring_conference24_slides_kim.pdf)
+	[Video](https://play.kth.se/media/Automated%20Intrusion%20Response%20%E2%80%93%20Kim%20Hammar%2C%20KTH/0_nz67k1v4)
 	![cdisconf24](/assets/cdis_spring_conf24.jpg "CDIS Spring Conference 2024")
 
 2024
