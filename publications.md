@@ -6,6 +6,12 @@ title: Publications
 ### Preprints
 
 2024
+:   **Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search**;
+     **Kim Hammar**, Neil Dhir, and Rolf Stadler
+	[arXiv(preprint)](https://arxiv.org/abs/2407.11070)
+	[bib](/assets/citations/cage2_causal.bib)
+
+2024
 :   **Conjectural Online Learning with First-order Beliefs in Asymmetric Information Stochastic Games**;
      Tao Li, **Kim Hammar**, Rolf Stadler, and Quanyan Zhu
 	[arXiv(preprint)](https://arxiv.org/pdf/2402.18781.pdf)
