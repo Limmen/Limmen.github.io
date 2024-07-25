@@ -11,12 +11,6 @@ title: Publications
 	[arXiv(preprint)](https://arxiv.org/abs/2407.11070)
 	[bib](/assets/citations/cage2_causal.bib)
 
-2024
-:   **Conjectural Online Learning with First-order Beliefs in Asymmetric Information Stochastic Games**;
-     Tao Li, **Kim Hammar**, Rolf Stadler, and Quanyan Zhu
-	[arXiv(preprint)](https://arxiv.org/pdf/2402.18781.pdf)
-	[bib](/assets/citations/tao_cdc_24.bib)
-
 
 2024
 :   **Automated Security Response through Online Learning with Adaptive Conjectures**;

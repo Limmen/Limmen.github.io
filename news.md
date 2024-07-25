@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+25 Jul '24
+:   Our conference paper "Conjectural Online Learning with First-order Beliefs in Asymmetric Information Stochastic Games" was accepted to [CDC24](https://cdc2024.ieeecss.org/). A preprint is [available](https://arxiv.org/pdf/2402.18781.pdf).
+
 12 Jul '24
 :   A [video](https://play.kth.se/media/Automated%20Intrusion%20Response%20%E2%80%93%20Kim%20Hammar%2C%20KTH/0_nz67k1v4) of my presentation at the CDIS conference 2024 is available.
 
