@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+5 Aug '24
+:   Our conference paper "Intrusion Tolerance as a Two-Level Game" was accepted to [GameSec24](https://www.gamesec-conf.org/). A preprint will be available soon.
+
 25 Jul '24
 :   Our conference paper "Conjectural Online Learning with First-order Beliefs in Asymmetric Information Stochastic Games" was accepted to [CDC24](https://cdc2024.ieeecss.org/). A preprint is [available](https://arxiv.org/pdf/2402.18781.pdf).
 
