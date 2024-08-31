@@ -56,6 +56,7 @@ title: Publications
 2024
 :   **Intrusion Tolerance for Networked Systems through Two-Level Feedback Control**; Conference paper, 54th IEEE/IFIP Dependable Systems and Networks Conference (DSN'24), Brisbane, Australia, June 24-27, 2024.
     **Kim Hammar** and Rolf Stadler
+	[IEEE Proceedings](https://ieeexplore.ieee.org/document/10647020)
 	[arXiv(preprint)](https://arxiv.org/abs/2404.01741)
     [bib](/assets/citations/dsn24_hammar_stadler.bib)
 

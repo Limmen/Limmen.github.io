@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+31 Aug '24
+:   Our conference paper "Intrusion Tolerance for Networked Systems Through Two-Level Feedback Control" is available in the [DSN24 proceedings](https://ieeexplore.ieee.org/document/10647020).
+
 5 Aug '24
 :   Our conference paper "Intrusion Tolerance as a Two-Level Game" was accepted to [GameSec24](https://www.gamesec-conf.org/). A preprint will be available soon.
 
