@@ -9,7 +9,8 @@ title: Teaching
 
 2024
 :   **Master thesis**, main supervisor;
-	Bength Roland Pappila, Emulating and Profiling Cyber Attacks Based on the MITRE Framework in a Virtualized IT Environment, Spring 2024.
+	Bength Roland Pappila, Automated Profiling of Cyber Attacks Based on MITRE ATT&CK, Spring 2024.
+	[PDF](/assets/papers/master_thesis_bength_pappila_1_sep_2024.pdf)
 
 2023-2024
 :   **Amanuens**, main supervisor;
