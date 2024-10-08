@@ -3,6 +3,9 @@ layout: page
 title: Services
 ---
 
+ **Reviewer  IEEE Intelligent Systems 2024**.
+[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9670)
+
 **Reviewer CNSM 2024** (International Conference on Network and Service Management).
 [link](http://www.cnsm-conf.org/2024/)
 
