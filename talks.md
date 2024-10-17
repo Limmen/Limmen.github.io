@@ -4,6 +4,11 @@ title: Talks
 ---
 
 2024
+:   **Intrusion Tolerance as a Two-Level Game**; New York, USA, Oct 16, 2024.
+	[Slides](https://www.slideshare.net/slideshow/intrusion-tolerance-as-a-two-level-game-gamesec24/272500784)
+	[PDF](/assets/slides/hammar_gs24.pdf)
+
+2024
 :   **Intrusion Tolerance for Networked Systems through Two-Level Feedback Control**; Brisbane, Australia, June 27 2024
     **Kim Hammar**
 	[Slides](https://www.slideshare.net/slideshow/intrusion-tolerance-for-networked-systems-through-two-level-feedback-control/269914107)
