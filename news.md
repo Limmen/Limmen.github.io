@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+17 Oct '24
+:   Attending [GameSec24](https://www.gamesec-conf.org/) in New York, USA.
+
 31 Aug '24
 :   Our conference paper "Intrusion Tolerance for Networked Systems Through Two-Level Feedback Control" is available in the [DSN24 proceedings](https://ieeexplore.ieee.org/document/10647020).
 

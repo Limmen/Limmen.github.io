@@ -48,6 +48,12 @@ title: Publications
 ### Conferences
 
 2024
+:   **Intrusion Tolerance as a Two-Level Game**; Conference paper, GameSec 2024: International Conference on Decision and Game Theory for Security, New York, USA, Oct 16-18.
+    **Kim Hammar** and Rolf Stadler
+	[Springer book chapter](https://link.springer.com/chapter/10.1007/978-3-031-74835-6_1)
+    [bib](/assets/citations/hammar_stadler_gamesec24.bib)
+
+2024
 :   **Conjectural Online Learning with First-order Beliefs in Asymmetric Information Stochastic Games**; Conference paper, 63rd IEEE Conference on Decision and Control (CDC'24), Milan, Italy, December 16-19, 2024.
      Tao Li, **Kim Hammar**, Rolf Stadler, and Quanyan Zhu
 	[arXiv(preprint)](https://arxiv.org/pdf/2402.18781.pdf)
