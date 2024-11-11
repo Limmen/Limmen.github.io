@@ -4,7 +4,7 @@ title: News
 ---
 
 11 Nov '24
-:   My Ph.D. defense is planned for Dec 5 at F3, Lindstedtsvägen 26, KTH Campus, Stockholm. Opponent: Professor Tansu Alpcan, The University of Melbourne, Australia. Grading committee: Professor Emil Lupu, Imperial College London, UK; Professor Alina Oprea, Northeastern University, USA; Professor Karl H. Johansson, KTH, Sweden. Reviewer: Professor Henrik Sandberg, KTH, Sweden.
+:   My Ph.D. defense is planned for Dec 5 at F3, Lindstedtsvägen 26, KTH Campus, Stockholm. Opponent: Professor Tansu Alpcan, The University of Melbourne, Australia. Grading committee: Professor Emil Lupu, Imperial College London, UK; Professor Alina Oprea, Northeastern University, USA; Professor Karl H. Johansson, KTH, Sweden. Reviewer: Professor Henrik Sandberg, KTH, Sweden. Chair: Professor Viktoria Fodor, KTH, Sweden.
 
 17 Oct '24
 :   Attending [GameSec24](https://www.gamesec-conf.org/) in New York, USA.
