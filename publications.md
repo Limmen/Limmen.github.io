@@ -251,6 +251,14 @@ Mihhail Matskin
 
 ### Theses
 
+2024
+:   **Optimal Security Response to Network Intrusions in IT Systems**; Doctoral dissertation in electrical engineering, KTH, School of Electrical Engineering and Computer Science (EECS).
+	**Kim Hammar**
+	[Link](https://kth.diva-portal.org/smash/record.jsf?dswid=7585&faces-redirect=true&language=en&searchType=SIMPLE&query=&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&pid=diva2%3A1912164&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
+	[PDF](/assets/papers/Kim_Hammar_PHD_Thesis.pdf)
+    [bib](/assets/citations/kim_phd_thesis.bib)
+	[ai_generated_summary](/assets/ai_thesis_summary.wav)
+
 2018
 :   **Deep Text Mining of Instagram Data Without Strong Supervision**; Master's Thesis, KTH School of Information and Communication Technology (ICT).
 	**Kim Hammar**
