@@ -3,6 +3,11 @@ layout: page
 title: News
 ---
 
+5 Dec '24
+:   I successfully defended my [Ph.D. thesis](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1912164&dswid=8563)!
+    ![phd defense](/assets/phd_defense.jpg "Thesis defense 2024")
+    ![phd defense2](/assets/phd_photo.jpg "Thesis defense 2024")
+
 22 Nov '24
 :   My [thesis](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1912164&dswid=8563) is now available.
     ![spikning](/assets/spikning.jpg "Thesis nailing 2024")
