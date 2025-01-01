@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+1 Jan '25
+:   I was awarded the [VR International Postdoctoral Fellowship 2025](https://www.vr.se/soka-finansiering/beslut/2024-06-20-internationell-postdok-inom-naturvetenskap-och-teknikvetenskap-hostens-utlysning.html).
+
 5 Dec '24
 :   I successfully defended my [Ph.D. thesis](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1912164&dswid=8563)!
     ![phd defense](/assets/phd_defense.jpg "Thesis defense 2024")
