@@ -7,7 +7,7 @@ title: Research projects
 
 2024
 :   **Proposal for Vetenskapsrådet International Postdoc** (Natural and engineering sciences).
-    [link](https://www.vr.se/soka-finansiering/utlysningar/2023-11-15-internationell-postdok-inom-naturvetenskap-och-teknikvetenskap-hostens-utlysning.html). Role: principal investigator. Proposal title: Optimal Recovery from Attacks against Cyber-Physical Systems. Requested: 3.9M SEK. Proposal length: 8 pages. <span style="color:red">Awarded:3.9M SEK</span>
+    [link](https://www.vr.se/soka-finansiering/utlysningar/2023-11-15-internationell-postdok-inom-naturvetenskap-och-teknikvetenskap-hostens-utlysning.html). Role: principal investigator. Proposal title: Optimal Recovery from Attacks against Cyber-Physical Systems. Requested: 3.9M SEK. Proposal length: 8 pages. <span style="color:red">Awarded:3.9M SEK.</span> [Certificate.](/assets/awards/vr_certificate_kim.pdf)
 
 2022
 :   **Proposal for DARPA’s CASTLE to Fortify Computer Networks** (Cyber Agents for Security Testing and Learning Environments (CASTLE)).
