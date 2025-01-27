@@ -3,16 +3,16 @@ layout: page
 title: Services
 ---
 
+**Reviewer IEEE Transactions on Network Science and Engineering 2025**
+[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)
+
  **Reviewer  Computers and Security 2025**.
 [link](https://www.sciencedirect.com/journal/computers-and-security)
 
- **Reviewer  IEEE Intelligent Systems 2024**.
+ **Reviewer  IEEE Intelligent Systems 2024-2025**.
 [link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9670)
 
-**Reviewer CNSM 2024** (International Conference on Network and Service Management).
-[link](http://www.cnsm-conf.org/2024/)
-
-**Reviewer IEEE Transactions on Information Forensics and Security 2023**
+**Reviewer IEEE Transactions on Information Forensics and Security 2023-2025**
 [link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
 
 **Reviewer Knowledge-Based Systems Journal 2023**
@@ -21,17 +21,11 @@ title: Services
 **Reviewer Robotics and Autonomous Systems Journal 2023**
 [link](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems)
 
-**Reviewer CNSM 2023** (International Conference on Network and Service Management).
-[link](http://www.cnsm-conf.org/2023/)
-
-**Reviewer Springer Cybersecurity journal 2023**
+**Reviewer Springer Cybersecurity journal 2023-2025**
 [link](https://cybersecurity.springeropen.com/)
 
 **Reviewer NCIT 2022** (International Conference on Networks, Communication and Information Technology).
 [link](http://www.ncitconf.org/) [certificate](/assets/awards/ncit_review_certificate_22.pdf)
-
-**Reviewer CNSM 2022** (International Conference on Network and Service Management).
-[link](http://www.cnsm-conf.org/2022/)
 
 **Reviewer CSAE 2022** (The 6th international conference on computer science and application engineering)
 [link](http://www.csaeconf.org/) [certificate](/assets/awards/csae_22_certificate.pdf)
@@ -42,10 +36,10 @@ title: Services
 **Session chair NOMS 2022** (IEEE/IFIP Network Operations and Management Symposium). Technical session on management and orchestration methods.
 [link](https://noms2022.ieee-noms.org/)
 
-**Reviewer NOMS 2022** (IEEE/IFIP Network Operations and Management Symposium).
+**Reviewer NOMS 2022-2025** (IEEE/IFIP Network Operations and Management Symposium).
 [link](https://noms2022.ieee-noms.org/)
 
-**Reviewer CNSM 2021** (International Conference on Network and Service Management).
+**Reviewer CNSM 2021-2025** (International Conference on Network and Service Management).
 [link](http://www.cnsm-conf.org/2021/)
 
 **Member - Cyber Security Academy, Unga forskare (2021-)**.
