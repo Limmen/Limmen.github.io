@@ -254,6 +254,7 @@ Mihhail Matskin
 2024
 :   **Optimal Security Response to Network Intrusions in IT Systems**; Doctoral thesis in electrical engineering, KTH, School of Electrical Engineering and Computer Science (EECS).
 	**Kim Hammar**
+	[Latest Version](https://arxiv.org/abs/2502.02541)
 	[Link](https://kth.diva-portal.org/smash/record.jsf?dswid=7585&faces-redirect=true&language=en&searchType=SIMPLE&query=&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&pid=diva2%3A1912164&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
 	[PDF](/assets/papers/Kim_Hammar_PHD_Thesis.pdf)
     [bib](/assets/citations/kim_phd_thesis.bib)
