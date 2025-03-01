@@ -56,6 +56,7 @@ title: Publications
 2024
 :   **Conjectural Online Learning with First-order Beliefs in Asymmetric Information Stochastic Games**; Conference paper, 63rd IEEE Conference on Decision and Control (CDC'24), Milan, Italy, December 16-19, 2024.
      Tao Li, **Kim Hammar**, Rolf Stadler, and Quanyan Zhu
+	[IEEE Proceedings](https://ieeexplore.ieee.org/document/10886479)
 	[arXiv(preprint)](https://arxiv.org/pdf/2402.18781.pdf)
 	[bib](/assets/citations/tao_cdc_24.bib)
 
