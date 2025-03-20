@@ -7,6 +7,7 @@ title: Talks
 :   **Adaptive Security Policies via Belief Aggregation and Rollout**; Stockholm, Sweden, Mar 3, 2025.
 	[Slides](https://www.slideshare.net/slideshow/adaptive-security-policies-via-belief-aggregation-and-rollout/276233202)
 	[PDF](/assets/slides/netcon_3_mar_25_kim_hammar.pdf)
+	[Video](https://www.youtube.com/watch?v=eb7YgVSpAsg)	
 
 2024
 :   **Optimal Security Response to Network Intrusions in IT Systems (PhD defense)**; Stockholm, Sweden, Dec 5, 2024.
