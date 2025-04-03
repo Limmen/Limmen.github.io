@@ -4,6 +4,11 @@ title: Talks
 ---
 
 2025
+:   **Approximation in Value Space using Aggregation, with Applications to POMDPs and Cybersecurity**; Arizona, USA, Apr 2, 2025.
+	[Slides](https://www.slideshare.net/slideshow/approximation-in-value-space-using-aggregation-with-applications-to-pomdps-and-cybersecurity/277463565)
+	[PDF](/assets/slides/ASU_aggregation_lecture_2_april_2025.pdf)
+
+2025
 :   **Adaptive Security Policies via Belief Aggregation and Rollout**; Stockholm, Sweden, Mar 3, 2025.
 	[Slides](https://www.slideshare.net/slideshow/adaptive-security-policies-via-belief-aggregation-and-rollout/276233202)
 	[PDF](/assets/slides/netcon_3_mar_25_kim_hammar.pdf)
