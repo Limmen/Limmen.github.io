@@ -12,14 +12,15 @@ title: Publications
 	[bib](/assets/citations/cage2_causal.bib)
 
 
-2024
-:   **Automated Security Response through Online Learning with Adaptive Conjectures**;
-    **Kim Hammar**, Tao Li, Rolf Stadler, and Quanyan Zhu
-	[arXiv(preprint)](https://arxiv.org/abs/2402.12499)
-	[bib](/assets/citations/conjectural_learning24.bib)
-
 
 ### Journals
+
+2025
+:   **Adaptive Security Response Strategies through Conjectural Online Learning**; Journal paper, TIFS 2025: IEEE Transactions on Information Forensics and Security (IEEE TIFS).)
+    **Kim Hammar**, Tao Li, Rolf Stadler, and Quanyan Zhu
+        [IEEE Proceedings](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)    
+	[arXiv(preprint)](https://arxiv.org/abs/2402.12499)
+	[bib](/assets/citations/conjectural_learning24.bib)
 
 2023
 :   **Learning Near-Optimal Intrusion Responses Against Dynamic Attackers**; Journal paper, TNSM 2023: IEEE Transactions on Network and Service Management (IEEE TNSM).
