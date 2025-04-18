@@ -18,7 +18,7 @@ title: Publications
 2025
 :   **Adaptive Security Response Strategies through Conjectural Online Learning**; Journal paper, TIFS 2025: IEEE Transactions on Information Forensics and Security (IEEE TIFS).)
     **Kim Hammar**, Tao Li, Rolf Stadler, and Quanyan Zhu
-        [IEEE Proceedings](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)    
+        [IEEE Proceedings](https://ieeexplore.ieee.org/document/10955193)    
 	[arXiv(preprint)](https://arxiv.org/abs/2402.12499)
 	[bib](/assets/citations/conjectural_learning24.bib)
 
