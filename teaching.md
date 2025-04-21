@@ -3,6 +3,10 @@ layout: page
 title: Teaching
 ---
 
+2025
+:   **Guest lecture**;
+	I gave a guest lecture in the course [ASU CSE691 Topics in Reinforcement Learning](https://web.mit.edu/dimitrib/www/RLbook.html) at Arizona State University, organized by Prof. Bertsekas. The recording is available [here](https://www.youtube.com/watch?v=gsD2JgTrUhU) and the slides are available [here](https://web.mit.edu/dimitrib/www/RLTopics_2025_Lect10.pdf).
+
 2024
 :   **Amanuens**, main supervisor;
 	Yu Hu, Software development for automated security, May-Dec 2024.
