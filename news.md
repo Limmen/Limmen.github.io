@@ -6,6 +6,8 @@ title: News
 18 Mar '25
 :   Moved to Arizona State University as a visiting scholar, hosted by Dr. Yuchao Li and Prof. Dimitri Bertsekas.
 ![az](/assets/az.jpg "ASU visit")
+![az](/assets/az1.jpg "ASU visit")
+![az](/assets/az2.jpg "ASU visit")
 
 3 Mar '25
 :   Gave a [talk](/assets/slides/netcon_3_mar_25_kim_hammar.pdf) to the NetCon group at KTH.
