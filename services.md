@@ -3,6 +3,9 @@ layout: page
 title: Services
 ---
 
+**Technical program committee member, GameSec 2025, Interational Conference on Game Theory and AI for Security.**
+[link](https://www.gamesec-conf.org/organization.php)
+
 **Reviewer IEEE Transactions on Dependable and Secure Computing 2025**
 [link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
 
