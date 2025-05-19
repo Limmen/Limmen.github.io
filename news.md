@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+20 May '25
+:   Moved to The University of Melbourne as a postdoctoral researcher.
+![unimelb](/assets/unimelb.jpg "Unimelb visit")
+
 6 May '25
 :   I am on the technical program committee for [GameSec 2025](https://www.gamesec-conf.org/tpc.php)
 
@@ -17,7 +21,7 @@ title: News
 :   Gave a [talk](/assets/slides/netcon_3_mar_25_kim_hammar.pdf) to the NetCon group at KTH.
 
 1 Jan '25
-:   I was awarded the [VR International Psotdoctoral Fellowship 2025](https://www.vr.se/soka-finansiering/beslut/2024-06-20-internationell-postdok-inom-naturvetenskap-och-teknikvetenskap-hostens-utlysning.html).
+:   I was awarded the [VR International Postdoctoral Fellowship 2025](https://www.vr.se/soka-finansiering/beslut/2024-06-20-internationell-postdok-inom-naturvetenskap-och-teknikvetenskap-hostens-utlysning.html).
 
 5 Dec '24
 :   I successfully defended my [Ph.D. thesis](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1912164&dswid=8563)!
