@@ -3,6 +3,9 @@ layout: page
 title: Services
 ---
 
+**Reviewer International Conference on Network Games, Control and Optimization (NetGCooP) 2025**
+[link](https://ieeexplore.ieee.org/xpl/conhome/1800584/all-proceedings)
+
 **Technical program committee member, GameSec 2025, Interational Conference on Game Theory and AI for Security.**
 [link](https://www.gamesec-conf.org/organization.php)
 
