@@ -5,6 +5,12 @@ title: Publications
 
 ### Preprints
 
+2025
+:   **Feature-Based Belief Aggregation for Partially Observable Markov Decision Problems**;
+     Yuchao Li, **Kim Hammar**, and Dimitri Bertsekas
+	[arXiv(preprint)](https://arxiv.org/abs/2507.04646)
+	[bib](/assets/citations/li_feature_based.bib)
+
 2024
 :   **Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search**;
      **Kim Hammar**, Neil Dhir, and Rolf Stadler
