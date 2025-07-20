@@ -3,6 +3,9 @@ layout: page
 title: Services
 ---
 
+**Reviewer Operations Research Forum 2025**
+[link](https://link.springer.com/journal/43069)
+
 **Reviewer International Conference on Network Games, Control and Optimization (NetGCooP) 2025**
 [link](https://ieeexplore.ieee.org/xpl/conhome/1800584/all-proceedings)
 
