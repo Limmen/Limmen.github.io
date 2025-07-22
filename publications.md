@@ -6,6 +6,12 @@ title: Publications
 ### Preprints
 
 2025
+:   **Adaptive Network Security Policies via Belief Aggregation and Rollout**;
+     **Kim Hammar**, Yuchao Li, Tansu Alpcan, Emil C. Lupu, and Dimitri Bertsekas
+	[arXiv(preprint)](https://arxiv.org/abs/2507.15163)
+	[bib](/assets/citations/li_feature_based.bib)
+
+2025
 :   **Feature-Based Belief Aggregation for Partially Observable Markov Decision Problems**;
      Yuchao Li, **Kim Hammar**, and Dimitri Bertsekas
 	[arXiv(preprint)](https://arxiv.org/abs/2507.04646)
@@ -16,7 +22,6 @@ title: Publications
      **Kim Hammar**, Neil Dhir, and Rolf Stadler
 	[arXiv(preprint)](https://arxiv.org/abs/2407.11070)
 	[bib](/assets/citations/cage2_causal.bib)
-
 
 
 ### Journals
