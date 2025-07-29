@@ -23,6 +23,7 @@ title: Services
 
  **Reviewer  IEEE Intelligent Systems 2024-2025**.
 [link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9670)
+[certificate](/assets/awards/intelligent_systems_review_certificate_24.pdf)
 
 **Reviewer IEEE Transactions on Information Forensics and Security 2023-2025**
 [link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
