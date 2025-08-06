@@ -3,6 +3,9 @@ layout: page
 title: Services
 ---
 
+**Reviewer Annual AAAI Conference on Artificial Intelligence 2026**
+[link](https://aaai.org/conference/aaai/aaai-26/)
+
 **Reviewer Operations Research Forum 2025**
 [link](https://link.springer.com/journal/43069)
 
