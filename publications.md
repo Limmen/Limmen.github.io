@@ -6,10 +6,16 @@ title: Publications
 ### Preprints
 
 2025
+:   **Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination**;
+     **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
+	[arXiv(preprint)](https://arxiv.org/abs/2508.05188)
+	[bib](/assets/citations/llm_response_25_hammar.bib)
+
+2025
 :   **Adaptive Network Security Policies via Belief Aggregation and Rollout**;
      **Kim Hammar**, Yuchao Li, Tansu Alpcan, Emil C. Lupu, and Dimitri Bertsekas
 	[arXiv(preprint)](https://arxiv.org/abs/2507.15163)
-	[bib](/assets/citations/li_feature_based.bib)
+	[bib](/assets/citations/aggregation_security_25_hammar.bib)
 
 2025
 :   **Feature-Based Belief Aggregation for Partially Observable Markov Decision Problems**;
