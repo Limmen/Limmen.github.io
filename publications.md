@@ -65,6 +65,12 @@ title: Publications
 
 ### Conferences
 
+2025
+:   **Online Incident Response Planning under Model Misspecification through Bayesian Learning and Belief Quantization**; Conference paper, ACM CCS AiSec 2025: 18 th ACM Workshop on Artificial Intelligence and Security, Taipei, Taiwan, Oct 17.
+    **Kim Hammar** and Tao Li
+    [arXiv(preprint)](https://arxiv.org/pdf/2508.14385)
+    [bib](/assets/citations/aisec25.bib)
+
 2024
 :   **Intrusion Tolerance as a Two-Level Game**; Conference paper, GameSec 2024: International Conference on Decision and Game Theory for Security, New York, USA, Oct 16-18.
     **Kim Hammar** and Rolf Stadler
