@@ -9,6 +9,7 @@ title: Publications
 :   **Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination**;
      **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
 	[arXiv(preprint)](https://arxiv.org/abs/2508.05188)
+	[news article](https://www.helpnetsecurity.com/2025/08/21/lightweight-llm-incident-response/)
 	[bib](/assets/citations/llm_response_25_hammar.bib)
 
 2025
