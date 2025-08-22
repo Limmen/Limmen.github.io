@@ -6,6 +6,9 @@ title: News
 21 Aug '25
 :   A news article about our llm-based incident response system is available [here](https://www.helpnetsecurity.com/2025/08/21/lightweight-llm-incident-response/)
 
+16 Aug '25
+:   Our conference paper "Online Incident Response Planning under Model Misspecification through Bayesian Learning and Belief Quantization" was accepted to [AiSec25](https://aisec.cc/). A preprint is available [here](https://arxiv.org/pdf/2508.14385).
+
 9 July '25
 :   A demo of our llm-based incident response system is available [here](https://www.youtube.com/watch?v=e7ckmv5p6cI)
 
