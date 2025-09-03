@@ -6,6 +6,12 @@ title: Publications
 ### Preprints
 
 2025
+:   **Online Identification of IT Systems through Active Causal Learning**;
+     **Kim Hammar** and Rolf Stadler
+	[arXiv(preprint)](https://arxiv.org/abs/2509.02130)
+	[bib](/assets/citations/ci_25_hammar.bib)
+
+2025
 :   **Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination**;
      **Kim Hammar**, Tansu Alpcan, and Emil C. Lupu
 	[arXiv(preprint)](https://arxiv.org/abs/2508.05188)

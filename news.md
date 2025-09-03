@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+4 Sep '25
+:   A preprint of our new paper on causal identification of IT systems is available [here](https://arxiv.org/abs/2509.02130).
+
 21 Aug '25
 :   A news article about our llm-based incident response system is available [here](https://www.helpnetsecurity.com/2025/08/21/lightweight-llm-incident-response/). Podcasts about the system are available [here](https://www.youtube.com/watch?v=Y5E7CLGPENk) and [here](https://www.youtube.com/watch?v=sSxYLTg4pGg).
 
