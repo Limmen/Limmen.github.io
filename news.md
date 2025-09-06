@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+6 Sep '25
+:   An updated video demonstration of our LLM-based incident response system is available [here](https://www.youtube.com/watch?v=XXo4Y6LCWk4).
+
 4 Sep '25
 :   A preprint of our new paper on causal identification of IT systems is available [here](https://arxiv.org/abs/2509.02130).
 
