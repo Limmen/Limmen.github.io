@@ -3,6 +3,12 @@ layout: page
 title: Services
 ---
 
+**Associate editor Annual IEEE Transactions on Network and Service Management 2025-**
+[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028)
+
+**Technical program committee member, GameSec 2025, Interational Conference on Game Theory and AI for Security.**
+[link](https://www.gamesec-conf.org/organization.php)
+
 **Reviewer Annual AAAI Conference on Artificial Intelligence 2026**
 [link](https://aaai.org/conference/aaai/aaai-26/)
 
@@ -11,9 +17,6 @@ title: Services
 
 **Reviewer International Conference on Network Games, Control and Optimization (NetGCooP) 2025**
 [link](https://ieeexplore.ieee.org/xpl/conhome/1800584/all-proceedings)
-
-**Technical program committee member, GameSec 2025, Interational Conference on Game Theory and AI for Security.**
-[link](https://www.gamesec-conf.org/organization.php)
 
 **Reviewer IEEE Transactions on Dependable and Secure Computing 2025**
 [link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
