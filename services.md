@@ -3,7 +3,7 @@ layout: page
 title: Services
 ---
 
-**Associate editor Annual IEEE Transactions on Network and Service Management 2025-**
+**Associate editor, IEEE Transactions on Network and Service Management 2025-**
 [link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028)
 
 **Technical program committee member, GameSec 2025, Interational Conference on Game Theory and AI for Security.**
