@@ -9,7 +9,7 @@ title: Services
 **Technical program committee member, GameSec 2025, Interational Conference on Game Theory and AI for Security.**
 [link](https://www.gamesec-conf.org/organization.php)
 
-**Member, IEEE Technical Committee on Security and Privacy Early-Career Committee (2025-).**
+**Member, IEEE Technical Early-Career Committee on Security and Privacy (2025-).**
 [link](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home)
 
 **Reviewer Annual AAAI Conference on Artificial Intelligence 2026**
