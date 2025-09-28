@@ -219,6 +219,11 @@ Mihhail Matskin
 
 ### Posters
 
+2025
+:   **Online Incident Response Planning under Model Misspecification through Bayesian Learning and Belief Quantization**; ACM CCS AiSec 2025, Taipei, Taiwain, Oct 17.
+    **Kim Hammar** and Tao Li
+	[PDF](/assets/papers/ccs_aisec_poster_hammar_li_25.pdf)
+
 2024
 :   **Intrusion Tolerance for Networked Systems through Two-Level Feedback Control**; IEEE/IFIP Dependable Systems and Networks Conference (DSN'24), Brisbane, Australia, June 24-27.
     **Kim Hammar** and Rolf Stadler
