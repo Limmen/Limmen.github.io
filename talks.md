@@ -18,8 +18,8 @@ title: Talks
 2024
 :   **Optimal Security Response to Network Intrusions in IT Systems (PhD defense)**; Stockholm, Sweden, Dec 5, 2024.
 	[Slides](https://www.slideshare.net/slideshow/optimal-security-response-to-network-intrusions-in-it-systems/273897370)
-	[PDF](/assets/slides/KH_defense_slides.Video)
-	[pdf](https://www.youtube.com/watch?v=n2zjh_YQjXY&)
+	[PDF](/assets/slides/KH_defense_slides.pdf)
+	[Video](https://www.youtube.com/watch?v=n2zjh_YQjXY&)
 
 2024
 :   **Intrusion Tolerance as a Two-Level Game**; New York, USA, Oct 16, 2024.
