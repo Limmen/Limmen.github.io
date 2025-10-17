@@ -5,6 +5,7 @@ title: News
 
 17 Oct '25
 :   Attending [ACM CCS](https://www.sigsac.org/ccs/CCS2025/) in Taipei.
+![aisec poster](/assets/aisec25_poster.jpg "AISec Poster")
 ![aisec](/assets/aisec25.jpg "AISec")
 
 6 Sep '25
