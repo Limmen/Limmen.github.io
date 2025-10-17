@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+17 Oct '25
+:   Attending [ACM CCS](https://www.sigsac.org/ccs/CCS2025/) in Taipei.
+![aisec](/assets/aisec25.jpg "AISec")
+
 6 Sep '25
 :   An updated video demonstration of our LLM-based incident response system is available [here](https://www.youtube.com/watch?v=XXo4Y6LCWk4).
 
