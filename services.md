@@ -12,6 +12,9 @@ title: Services
 **Member, IEEE Technical Early-Career Committee on Security and Privacy (2025-).**
 [link](https://sites.google.com/nyu.edu/ieee-css-tcsp-symp/home)
 
+**Reviewer American Control Conference 2026**
+[link](https://acc2026.a2c2.org/)
+
 **Reviewer Annual AAAI Conference on Artificial Intelligence 2026**
 [link](https://aaai.org/conference/aaai/aaai-26/)
 
