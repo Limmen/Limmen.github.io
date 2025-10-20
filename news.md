@@ -4,6 +4,7 @@ title: News
 ---
 
 20 Oct '25 Visiting Asst. Prof Tao Li at the City University of Hong Kong. The [Talk details](/assets/slides/SYE03_Dr Kim Hammar_20251020.pdf)
+![chk flyer](/assets/chk_flyer.jpg "chk flyer")
 
 17 Oct '25
 :   Attending [ACM CCS](https://www.sigsac.org/ccs/CCS2025/) in Taipei.
