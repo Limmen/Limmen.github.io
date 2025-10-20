@@ -4,6 +4,11 @@ title: Talks
 ---
 
 2025
+:   **Automated Security with a Foundation Model**; Hong Kong, China, October 20, 2025.
+	[Slides](https://www.slideshare.net/slideshow/automated-security-with-a-foundation-model/283860966)
+	[PDF](/assets/slides/CHK_talk_20_oct_25.pdf)
+
+2025
 :   **Approximation in Value Space using Aggregation, with Applications to POMDPs and Cybersecurity**; Arizona, USA, Apr 2, 2025.
 	[Slides](https://www.slideshare.net/slideshow/approximation-in-value-space-using-aggregation-with-applications-to-pomdps-and-cybersecurity/277463565)
 	[PDF](/assets/slides/ASU_aggregation_lecture_2_april_2025.pdf)
